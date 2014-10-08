@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow
+END
+wxlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/wxlist.h
+END
+reftime.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/reftime.h
+END
+winutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/winutil.h
+END
+transfrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/transfrm.h
+END
+dllsetup.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/dllsetup.h
+END
+schedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/schedule.h
+END
+mtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/mtype.h
+END
+perflog.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/perflog.h
+END
+source.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/source.h
+END
+measure.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/measure.h
+END
+dxmperf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/dxmperf.h
+END
+wxdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/wxdebug.h
+END
+checkbmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/checkbmi.h
+END
+videoctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/videoctl.h
+END
+pstream.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/pstream.h
+END
+streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/streams.h
+END
+ctlutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/ctlutil.h
+END
+fourcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/fourcc.h
+END
+ddmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/ddmm.h
+END
+outputq.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/outputq.h
+END
+winctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/winctrl.h
+END
+dsschedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/directshow/dsschedule.h
+END
+cprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/cprop.h
+END
+pullpin.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/pullpin.h
+END
+sysclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/sysclock.h
+END
+seekpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/seekpt.h
+END
+wxutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/wxutil.h
+END
+amextra.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/amextra.h
+END
+perfstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/perfstruct.h
+END
+amfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/amfilter.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/cache.h
+END
+msgthrd.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/msgthrd.h
+END
+combase.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/combase.h
+END
+vtrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/vtrans.h
+END
+renbase.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/renbase.h
+END
+transip.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/transip.h
+END
+refclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/refclock.h
+END
+strmctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/include/directshow/strmctl.h
+END

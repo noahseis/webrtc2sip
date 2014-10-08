@@ -1,0 +1,187 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/android/common/include
+http://doubango.googlecode.com/svn
+
+
+
+2014-02-26T01:43:32.339322Z
+1027
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+opencore-amrwb
+dir
+
+openssl
+dir
+
+speex
+dir
+
+opus
+dir
+
+webrtc
+dir
+
+srtp
+dir
+
+libswscale
+dir
+
+x264.h
+file
+
+
+
+
+2014-10-03T15:42:46.000000Z
+f0270100537a0942a1e54d2e49be08f2
+2014-02-26T01:43:32.339322Z
+1027
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46212
+
+g729b
+dir
+
+libavutil
+dir
+
+libavcodec
+dir
+
+libpostproc
+dir
+
+libavfilter
+dir
+
+libavformat
+dir
+
+opencore-amrnb
+dir
+
+libswresample
+dir
+
+ilbc
+dir
+
+libyuv
+dir
+
+gsm.h
+file
+
+
+
+
+2014-10-03T15:42:46.000000Z
+e4e47e4a479cb77f0f37274151e8b982
+2014-02-26T01:43:32.339322Z
+1027
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1681
+
+libavdevice
+dir
+
+vpx
+dir
+
+x264_config.h
+file
+
+
+
+
+2014-10-03T15:42:46.000000Z
+585b40e7c0f2ede10f75289da73ada5e
+2014-02-26T01:43:32.339322Z
+1027
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+172
+

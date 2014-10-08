@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/content
+END
+tmedia_content.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/content/tmedia_content.h
+END
+tmedia_content_multipart.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/content/tmedia_content_multipart.h
+END
+tmedia_content_cpim.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/content/tmedia_content_cpim.h
+END
+tmedia_content_sip_frag.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/content/tmedia_content_sip_frag.h
+END

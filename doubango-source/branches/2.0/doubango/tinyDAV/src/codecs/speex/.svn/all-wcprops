@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/898/branches/2.0/doubango/tinyDAV/src/codecs/speex
+END
+tdav_codec_speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/898/branches/2.0/doubango/tinyDAV/src/codecs/speex/tdav_codec_speex.c
+END

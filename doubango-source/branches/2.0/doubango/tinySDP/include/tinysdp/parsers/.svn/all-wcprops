@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/tinySDP/include/tinysdp/parsers
+END
+tsdp_parser_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySDP/include/tinysdp/parsers/tsdp_parser_message.h
+END
+tsdp_parser_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinySDP/include/tinysdp/parsers/tsdp_parser_header.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/internals
+END
+mf_codec_topology.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1043/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_codec_topology.h
+END
+mf_utils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_utils.cxx
+END
+mf_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/993/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_codec.h
+END
+mf_sample_grabber.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1118/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_sample_grabber.cxx
+END
+mf_custom_src.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/926/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_custom_src.h
+END
+mf_display_watcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/927/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_display_watcher.h
+END
+mf_devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/919/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_devices.h
+END
+mf_codec_topology.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1043/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_codec_topology.cxx
+END
+mf_sample_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/993/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_sample_queue.h
+END
+mf_codec.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/993/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_codec.cxx
+END
+mf_custom_src.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/933/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_custom_src.cxx
+END
+mf_devices.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/919/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_devices.cxx
+END
+mf_display_watcher.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/927/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_display_watcher.cxx
+END
+mf_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_utils.h
+END
+mf_sample_queue.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/993/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_sample_queue.cxx
+END
+mf_sample_grabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1118/branches/2.0/doubango/plugins/pluginWinMF/internals/mf_sample_grabber.h
+END

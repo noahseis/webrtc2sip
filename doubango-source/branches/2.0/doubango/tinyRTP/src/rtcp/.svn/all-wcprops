@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1096/branches/2.0/doubango/tinyRTP/src/rtcp
+END
+trtp_rtcp_report_rr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report_rr.c
+END
+trtp_rtcp_report_sr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report_sr.c
+END
+trtp_rtcp_report_fb.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/896/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report_fb.c
+END
+trtp_rtcp_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1096/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_session.c
+END
+trtp_rtcp_report_xr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report_xr.c
+END
+trtp_rtcp_packet.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/776/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_packet.c
+END
+trtp_rtcp_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_header.c
+END
+trtp_rtcp_report_sdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report_sdes.c
+END
+trtp_rtcp_sdes_chunck.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_sdes_chunck.c
+END
+trtp_rtcp_report_bye.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report_bye.c
+END
+trtp_rtcp_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_report.c
+END
+trtp_rtcp_rblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1009/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_rblock.c
+END
+trtp_rtcp_sdes_item.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/rtcp/trtp_rtcp_sdes_item.c
+END

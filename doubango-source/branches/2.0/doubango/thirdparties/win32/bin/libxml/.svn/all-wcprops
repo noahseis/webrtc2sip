@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/libxml
+END
+libxml2-2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/libxml/libxml2-2.dll
+END
+xmllint.exe
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/libxml/xmllint.exe
+END
+xmlcatalog.exe
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/libxml/xmlcatalog.exe
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b
+END
+vad.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/vad.h
+END
+oper_32b.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/oper_32b.h
+END
+tab_ld8a.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/tab_ld8a.h
+END
+octet.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/octet.h
+END
+basic_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/basic_op.h
+END
+sid.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/sid.h
+END
+dtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/dtx.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/typedef.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/config.h
+END
+tab_dtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/tab_dtx.h
+END
+ld8a.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/g729b/ld8a.h
+END

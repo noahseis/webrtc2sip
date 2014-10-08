@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns
+END
+tnet_dns_opt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_opt.c
+END
+tnet_dns_ptr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_ptr.c
+END
+tnet_dns_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_opt.h
+END
+tnet_dns_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_ptr.h
+END
+tnet_dns_srv.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_srv.c
+END
+tnet_dns_txt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_txt.c
+END
+tnet_dns_srv.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_srv.h
+END
+tnet_dns_a.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_a.c
+END
+tnet_dns_ns.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_ns.c
+END
+tnet_dns_soa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_soa.c
+END
+tnet_dns_cname.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_cname.c
+END
+tnet_dns_rr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_rr.c
+END
+tnet_dns_txt.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_txt.h
+END
+tnet_dns_ns.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_ns.h
+END
+tnet_dns_a.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_a.h
+END
+tnet_dns_soa.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_soa.h
+END
+tnet_dns_cname.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_cname.h
+END
+tnet_dns_rr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_rr.h
+END
+tnet_dns_regexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/774/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_regexp.c
+END
+tnet_dns_regexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_regexp.h
+END
+tnet_dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/945/branches/2.0/doubango/tinyNET/src/dns/tnet_dns.c
+END
+tnet_dns_resolvconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_resolvconf.c
+END
+tnet_dns_aaaa.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_aaaa.c
+END
+tnet_dns_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_message.c
+END
+tnet_dns_mx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_mx.c
+END
+tnet_dns_naptr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1081/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_naptr.c
+END
+tnet_dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns.h
+END
+tnet_dns_resolvconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_resolvconf.h
+END
+tnet_dns_aaaa.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_aaaa.h
+END
+tnet_dns_mx.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_mx.h
+END
+tnet_dns_naptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_naptr.h
+END
+tnet_dns_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dns/tnet_dns_message.h
+END

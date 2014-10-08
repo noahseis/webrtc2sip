@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavformat
+END
+avio.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavformat/avio.h
+END
+avformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavformat/avformat.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavformat/version.h
+END

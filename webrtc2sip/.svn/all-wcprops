@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/133/trunk
+END
+mp_proxyplugin.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/12/trunk/mp_proxyplugin.cc
+END
+mp_proxyplugin_consumer_video.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/mp_proxyplugin_consumer_video.cc
+END
+mp_net_transport.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/131/trunk/mp_net_transport.cc
+END
+mp_proxyplugin_consumer_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/mp_proxyplugin_consumer_video.h
+END
+mp_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/mp_mutex.h
+END
+mp_proxyplugin_mgr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/130/trunk/mp_proxyplugin_mgr.cc
+END
+mp_engine.cc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/130/trunk/mp_engine.cc
+END
+mp_engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/118/trunk/mp_engine.h
+END
+mp_c2c.cc
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/53/trunk/mp_c2c.cc
+END
+mp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/118/trunk/mp_config.h
+END
+mp_proxyplugin_mgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/mp_proxyplugin_mgr.h
+END
+mp_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/12/trunk/mp_object.h
+END
+mp_session_av.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/44/trunk/mp_session_av.cc
+END
+mp_wrap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/128/trunk/mp_wrap.cc
+END
+mp_c2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/53/trunk/mp_c2c.h
+END
+mp_session_av.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/12/trunk/mp_session_av.h
+END
+mp_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/89/trunk/mp_wrap.h
+END
+mp_mediaproxy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/118/trunk/mp_mediaproxy.cc
+END
+mp_mail.cc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/118/trunk/mp_mail.cc
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/133/trunk/configure.ac
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/118/trunk/config.xml
+END
+mp_proxyplugin_producer_audio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/27/trunk/mp_proxyplugin_producer_audio.cc
+END
+mp_peer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/12/trunk/mp_peer.cc
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/36/trunk/autogen.sh
+END
+mp_proxyplugin_consumer_audio.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/85/trunk/mp_proxyplugin_consumer_audio.cc
+END
+mp_peer.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/53/trunk/mp_peer.h
+END
+mp_proxyplugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/53/trunk/mp_proxyplugin.h
+END
+mp_mutex.cc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/12/trunk/mp_mutex.cc
+END
+mediaproxy.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/125/trunk/mediaproxy.vcproj
+END
+mp_net_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/129/trunk/mp_net_transport.h
+END
+mp_object.cc
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/12/trunk/mp_object.cc
+END
+mp_session.cc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/12/trunk/mp_session.cc
+END
+mp_mail.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/53/trunk/mp_mail.h
+END
+mp_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/53/trunk/mp_session.h
+END
+mp_proxyplugin_producer_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/85/trunk/mp_proxyplugin_producer_audio.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/132/trunk/Makefile.am
+END
+mp_proxyplugin_producer_video.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/44/trunk/mp_proxyplugin_producer_video.cc
+END
+mp_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/64/trunk/mp_common.h
+END
+mp_proxyplugin_producer_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/44/trunk/mp_proxyplugin_producer_video.h
+END
+mediaproxy.sln
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/130/trunk/mediaproxy.sln
+END
+resiprocate-deprecated.patch
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/resiprocate-deprecated.patch
+END
+mp_proxyplugin_consumer_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/12/trunk/mp_proxyplugin_consumer_audio.h
+END

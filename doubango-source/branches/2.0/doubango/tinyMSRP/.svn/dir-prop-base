@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 85
+Debug
+Release
+tinyMSRP.vcproj.mamadou-PC.mamadou.user
+*.user
+*.ncb
+*.suo
+Makefile.in
+
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 68
+ARM
+Debug
+tinyHTTP.sdf
+tinyHTTP.v11.suo
+Win32
+tinyHTTP.vcxproj.user
+
+END

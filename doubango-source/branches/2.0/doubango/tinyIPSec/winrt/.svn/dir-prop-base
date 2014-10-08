@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 71
+ARM
+Debug
+Win32
+tinyIPSec.sdf
+tinyIPSec.v11.suo
+tinyIPSec.vcxproj.user
+
+END

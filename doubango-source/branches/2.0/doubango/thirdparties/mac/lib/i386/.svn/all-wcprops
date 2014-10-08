@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/lib/i386
+END
+libcommon_audio.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/lib/i386/libcommon_audio.a
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libavfilter.a
+END
+libvpx.a
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/702/branches/2.0/doubango/thirdparties/mac/lib/i386/libvpx.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libavformat.a
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libcrypto.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libswresample.a
+END
+libspeex.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/i386/libspeex.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libavdevice.a
+END
+libsrtp.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libsrtp.a
+END
+libaudio_processing_sse2.a
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/lib/i386/libaudio_processing_sse2.a
+END
+libspeexdsp.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/i386/libspeexdsp.a
+END
+libaudio_processing.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/lib/i386/libaudio_processing.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libswscale.a
+END
+libssl.a
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libssl.a
+END
+libx264.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libx264.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/lib/i386/libavcodec.a
+END
+libcommon_audio_sse2.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/lib/i386/libcommon_audio_sse2.a
+END
+libsystem_wrappers.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/lib/i386/libsystem_wrappers.a
+END

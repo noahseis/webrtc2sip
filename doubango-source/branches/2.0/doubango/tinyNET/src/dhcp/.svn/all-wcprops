@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp
+END
+tnet_dhcp_option_sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp_option_sip.h
+END
+tnet_dhcp_option.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp_option.c
+END
+tnet_dhcp_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp_message.h
+END
+tnet_dhcp_option.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp_option.h
+END
+tnet_dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp.c
+END
+tnet_dhcp_option_sip.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp_option_sip.c
+END
+tnet_dhcp_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp_message.c
+END
+tnet_dhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/src/dhcp/tnet_dhcp.h
+END

@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/csharp
+END
+tsip_request_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_request_type_t.cs
+END
+ProxyVideoProducer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyVideoProducer.cs
+END
+AudioResampler.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/AudioResampler.cs
+END
+RegistrationSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/RegistrationSession.cs
+END
+tsip_invite_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_invite_event_type_t.cs
+END
+tmedia_qos_strength_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_qos_strength_t.cs
+END
+RPMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/RPMessage.cs
+END
+ProxyAudioConsumerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyAudioConsumerCallback.cs
+END
+tmedia_qos_stype_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_qos_stype_t.cs
+END
+InfoEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/InfoEvent.cs
+END
+InfoSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/InfoSession.cs
+END
+T140CallbackData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/T140CallbackData.cs
+END
+XcapMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/XcapMessage.cs
+END
+ProxyPlugin.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyPlugin.cs
+END
+tmedia_bandwidth_level_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_bandwidth_level_t.cs
+END
+tmedia_srtp_mode_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_srtp_mode_t.cs
+END
+ActionConfig.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/csharp/ActionConfig.cs
+END
+T140Callback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/T140Callback.cs
+END
+SafeObject.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SafeObject.cs
+END
+ProxyAudioProducer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/csharp/ProxyAudioProducer.cs
+END
+tsip_register_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_register_event_type_t.cs
+END
+SipCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SipCallback.cs
+END
+SipUri.cs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SipUri.cs
+END
+MessagingEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MessagingEvent.cs
+END
+twrap_media_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1066/branches/2.0/doubango/bindings/csharp/twrap_media_type_t.cs
+END
+MessagingSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MessagingSession.cs
+END
+XcapStack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/XcapStack.cs
+END
+tmedia_pref_video_size_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/898/branches/2.0/doubango/bindings/csharp/tmedia_pref_video_size_t.cs
+END
+ProxyPluginMgrCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyPluginMgrCallback.cs
+END
+MediaContentCPIM.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MediaContentCPIM.cs
+END
+MsrpMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MsrpMessage.cs
+END
+SubscriptionSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SubscriptionSession.cs
+END
+ProxyVideoProducerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyVideoProducerCallback.cs
+END
+tmsrp_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmsrp_event_type_t.cs
+END
+tsip_stack_mode_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_stack_mode_t.cs
+END
+tmedia_codec_id_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_codec_id_t.cs
+END
+SipMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SipMessage.cs
+END
+InviteSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/InviteSession.cs
+END
+tsip_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_event_type_t.cs
+END
+tinyWRAP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tinyWRAP.sln
+END
+tsip_subscribe_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_subscribe_event_type_t.cs
+END
+tsip_message_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_message_event_type_t.cs
+END
+tinyWRAPPINVOKE.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/csharp/tinyWRAPPINVOKE.cs
+END
+PublicationEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/csharp/PublicationEvent.cs
+END
+RegistrationEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/RegistrationEvent.cs
+END
+Codec.cs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/Codec.cs
+END
+PublicationSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/PublicationSession.cs
+END
+CallSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/csharp/CallSession.cs
+END
+SipStack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/csharp/SipStack.cs
+END
+ProxyVideoConsumer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyVideoConsumer.cs
+END
+ProxyAudioProducerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyAudioProducerCallback.cs
+END
+twrap_rpmessage_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/twrap_rpmessage_type_t.cs
+END
+thttp_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/thttp_event_type_t.cs
+END
+tmedia_t140_data_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_t140_data_type_t.cs
+END
+MediaSessionMgr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/csharp/MediaSessionMgr.cs
+END
+tmedia_mode_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1045/branches/2.0/doubango/bindings/csharp/tmedia_mode_t.cs
+END
+tdav_codec_id_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tdav_codec_id_t.cs
+END
+SdpMessage.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SdpMessage.cs
+END
+XcapSelector.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/XcapSelector.cs
+END
+SMSData.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SMSData.cs
+END
+XcapEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/XcapEvent.cs
+END
+MsrpCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MsrpCallback.cs
+END
+tinyWRAP_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/csharp/tinyWRAP_wrap.cxx
+END
+twrap_sms_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/twrap_sms_type_t.cs
+END
+tmedia_profile_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_profile_t.cs
+END
+DDebugCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/DDebugCallback.cs
+END
+MediaContent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MediaContent.cs
+END
+tinyWRAP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1065/branches/2.0/doubango/bindings/csharp/tinyWRAP.vcproj
+END
+tinyWRAP.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/csharp/tinyWRAP.cs
+END
+tsip_info_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_info_event_type_t.cs
+END
+tmedia_chroma_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmedia_chroma_t.cs
+END
+ProxyAudioConsumer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/898/branches/2.0/doubango/bindings/csharp/ProxyAudioConsumer.cs
+END
+tsip_options_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_options_event_type_t.cs
+END
+MsrpEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MsrpEvent.cs
+END
+ProxyVideoFrame.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyVideoFrame.cs
+END
+MsrpSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/MsrpSession.cs
+END
+SubscriptionEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/csharp/SubscriptionEvent.cs
+END
+tinyWRAP_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tinyWRAP_wrap.h
+END
+tsip_publish_event_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tsip_publish_event_type_t.cs
+END
+SipEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SipEvent.cs
+END
+OptionsEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/OptionsEvent.cs
+END
+SipSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SipSession.cs
+END
+OptionsSession.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/OptionsSession.cs
+END
+tmedia_srtp_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/816/branches/2.0/doubango/bindings/csharp/tmedia_srtp_type_t.cs
+END
+InviteEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/InviteEvent.cs
+END
+twrap_proxy_plugin_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/twrap_proxy_plugin_type_t.cs
+END
+tmsrp_request_type_t.cs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/tmsrp_request_type_t.cs
+END
+DialogEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/DialogEvent.cs
+END
+ProxyVideoConsumerCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyVideoConsumerCallback.cs
+END
+SMSEncoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/SMSEncoder.cs
+END
+csharp.i
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/csharp.i
+END
+ProxyPluginMgr.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/ProxyPluginMgr.cs
+END
+StackEvent.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/StackEvent.cs
+END
+XcapCallback.cs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/csharp/XcapCallback.cs
+END

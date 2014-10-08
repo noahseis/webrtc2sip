@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/58/trunk/db
+END
+mp_db_model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/53/trunk/db/mp_db_model.cc
+END
+mp_db.cc
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/53/trunk/db/mp_db.cc
+END
+mp_db_model.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/53/trunk/db/mp_db_model.h
+END
+mp_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/53/trunk/db/mp_db.h
+END

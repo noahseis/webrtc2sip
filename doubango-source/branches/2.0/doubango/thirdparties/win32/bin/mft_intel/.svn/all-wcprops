@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/919/branches/2.0/doubango/thirdparties/win32/bin/mft_intel
+END
+mfx_mft_vc1vd_32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/919/branches/2.0/doubango/thirdparties/win32/bin/mft_intel/mfx_mft_vc1vd_32.dll
+END
+mfx_mft_mp2vd_32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/919/branches/2.0/doubango/thirdparties/win32/bin/mft_intel/mfx_mft_mp2vd_32.dll
+END
+mfx_mft_h264vd_32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/919/branches/2.0/doubango/thirdparties/win32/bin/mft_intel/mfx_mft_h264vd_32.dll
+END
+mfx_mft_h264ve_32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/919/branches/2.0/doubango/thirdparties/win32/bin/mft_intel/mfx_mft_h264ve_32.dll
+END

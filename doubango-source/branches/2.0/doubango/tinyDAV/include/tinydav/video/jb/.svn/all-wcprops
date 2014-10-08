@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/898/branches/2.0/doubango/tinyDAV/include/tinydav/video/jb
+END
+tdav_video_frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/880/branches/2.0/doubango/tinyDAV/include/tinydav/video/jb/tdav_video_frame.h
+END
+tdav_video_jb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/898/branches/2.0/doubango/tinyDAV/include/tinydav/video/jb/tdav_video_jb.h
+END

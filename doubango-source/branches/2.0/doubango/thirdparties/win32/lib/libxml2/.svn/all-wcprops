@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1146/branches/2.0/doubango/thirdparties/win32/lib/libxml2
+END
+libxml2.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/win32/lib/libxml2/libxml2.dll
+END
+libxml2_a_dll.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1146/branches/2.0/doubango/thirdparties/win32/lib/libxml2/libxml2_a_dll.lib
+END
+libxml2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/lib/libxml2/libxml2.lib
+END
+libxml2_a.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1134/branches/2.0/doubango/thirdparties/win32/lib/libxml2/libxml2_a.lib
+END

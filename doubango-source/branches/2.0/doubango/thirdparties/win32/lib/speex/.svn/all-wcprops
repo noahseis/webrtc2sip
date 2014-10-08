@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/693/branches/2.0/doubango/thirdparties/win32/lib/speex
+END
+libspeexdsp.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/693/branches/2.0/doubango/thirdparties/win32/lib/speex/libspeexdsp.a
+END
+libspeex.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/693/branches/2.0/doubango/thirdparties/win32/lib/speex/libspeex.a
+END

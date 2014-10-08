@@ -1,0 +1,83 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/win32/bin
+http://doubango.googlecode.com/svn
+
+
+
+2014-04-28T21:44:26.939429Z
+1064
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+mft_intel
+dir
+
+AStyle.exe
+file
+
+
+
+
+2014-10-03T15:42:57.000000Z
+14711a8dc770c38dcae39b0c96bba7a0
+2014-04-28T21:44:26.939429Z
+1064
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+432128
+
+openssl
+dir
+
+ffmpeg
+dir
+
+curl
+dir
+
+libxml
+dir
+
+pthread
+dir
+
+win-iconv
+dir
+

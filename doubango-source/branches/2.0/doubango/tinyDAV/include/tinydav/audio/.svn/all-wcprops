@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1133/branches/2.0/doubango/tinyDAV/include/tinydav/audio
+END
+tdav_jitterbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_jitterbuffer.h
+END
+tdav_consumer_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_consumer_audio.h
+END
+tdav_webrtc_denoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1027/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_webrtc_denoise.h
+END
+tdav_speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1096/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_speex_resampler.h
+END
+tdav_speex_jitterbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1096/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_speex_jitterbuffer.h
+END
+tdav_speakup_jitterbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/960/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_speakup_jitterbuffer.h
+END
+tdav_session_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_session_audio.h
+END
+tdav_producer_audio.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_producer_audio.h
+END
+tdav_speex_denoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1133/branches/2.0/doubango/tinyDAV/include/tinydav/audio/tdav_speex_denoise.h
+END

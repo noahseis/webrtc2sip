@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWASAPI
+END
+plugin_wasapi_consumer_audio.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/plugin_wasapi_consumer_audio.cxx
+END
+plugin_wasapi_tdav.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/plugin_wasapi_tdav.cxx
+END
+plugin_wasapi_utils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/plugin_wasapi_utils.cxx
+END
+dllmain_wasapi.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/dllmain_wasapi.cxx
+END
+pluginWASAPI.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginWASAPI/pluginWASAPI.vcproj
+END
+plugin_wasapi_producer_audio.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/plugin_wasapi_producer_audio.cxx
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWASAPI/version.rc
+END
+plugin_wasapi_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/plugin_wasapi_utils.h
+END
+plugin_wasapi_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/961/branches/2.0/doubango/plugins/pluginWASAPI/plugin_wasapi_config.h
+END

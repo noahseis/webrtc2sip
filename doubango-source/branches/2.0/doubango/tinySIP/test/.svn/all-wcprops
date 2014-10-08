@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/826/branches/2.0/doubango/tinySIP/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/stdafx.h
+END
+test_transac.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test_transac.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test.vcproj
+END
+test_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test_uri.h
+END
+test_ip6_torture.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test_ip6_torture.h
+END
+test_sipmessages.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/826/branches/2.0/doubango/tinySIP/test/test_sipmessages.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/targetver.h
+END
+test_imsaka.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test_imsaka.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/stdafx.c
+END
+test_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/test_stack.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/test/droid-makefile
+END

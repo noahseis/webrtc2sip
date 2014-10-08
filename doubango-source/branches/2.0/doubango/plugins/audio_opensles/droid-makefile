@@ -1,0 +1,45 @@
+APP := lib$(PROJECT).$(EXT)
+
+DOUBANGO_INSTALL_INC := $(DOUBANGO_INSTALL_HOME)/include
+DOUBANGO_INSTALL_LIB := $(DOUBANGO_INSTALL_HOME)/lib
+SLES_INC := $(SLES_INSTALL_HOME)/include
+SLES_LIB := $(SLES_INSTALL_HOME)/lib
+
+################################
+
+CFLAGS := $(CFLAGS_LIB) -DANDROID=1 -I$(SLES_INC) -I$(DOUBANGO_INSTALL_INC)/tinysak -I$(DOUBANGO_INSTALL_INC)/tinymedia -I$(DOUBANGO_INSTALL_INC)/tinysdp -I$(DOUBANGO_INSTALL_INC)/tinyrtp -I$(DOUBANGO_INSTALL_INC)/tinydav
+
+LDFLAGS := $(LDFLAGS_LIB) -L$(SLES_LIB) -L$(DOUBANGO_INSTALL_LIB)  -ltinySAK -ltinyMEDIA -ltinySDP
+# -L$(DOUBANGO_SRC_HOME)/thirdparties/andy/$(CPU)/lib/dist -lm -ldl -llog -lgcc -lstdc++ -lOpenSLES -lgnustl
+
+all: $(APP)
+
+OBJS = \
+	audio_opensles.o \
+	audio_opensles_consumer.o \
+	audio_opensles_device_impl.o \
+	audio_opensles_producer.o \
+	audio_opensles_device.o \
+	../../tinyDAV/src/audio/tdav_consumer_audio.o \
+	../../tinyDAV/src/audio/tdav_producer_audio.o \
+
+$(APP): $(OBJS)
+ifeq ($(EXT), a)
+	$(AR) rcs $@ $^
+else
+	$(CC) $(LDFLAGS) -o $@ $^
+endif
+
+%.o: %.c
+	$(CC) -c $(INCLUDE) $(CFLAGS) $< -o $@
+	
+%.o: %.cxx
+	$(CXX) -c $(INCLUDE) $(CFLAGS) $< -o $@
+	
+install: $(APP)
+	$(ANDROID_SDK_ROOT)/tools/adb remount
+	$(ANDROID_SDK_ROOT)/tools/adb push $(APP) $(LIB_DIR)/$(APP)
+	$(ANDROID_SDK_ROOT)/tools/adb shell chmod 777 $(LIB_DIR)/$(APP)
+	
+clean:
+	@rm -f $(OBJS) $(APP)

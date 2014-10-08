@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1148/branches/2.0/doubango/bindings/_common
+END
+MediaSessionMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/_common/MediaSessionMgr.h
+END
+DDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/DDebug.h
+END
+Xcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/Xcap.h
+END
+Xcap.i
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/Xcap.i
+END
+Msrp.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/Msrp.cxx
+END
+SipMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/856/branches/2.0/doubango/bindings/_common/SipMessage.h
+END
+ProxyProducer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/898/branches/2.0/doubango/bindings/_common/ProxyProducer.cxx
+END
+SMSEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SMSEncoder.h
+END
+ActionConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/_common/ActionConfig.h
+END
+SafeObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/_common/SafeObject.h
+END
+ProxyPluginMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/ProxyPluginMgr.h
+END
+ProxyConsumer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1011/branches/2.0/doubango/bindings/_common/ProxyConsumer.cxx
+END
+SipEvent.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1062/branches/2.0/doubango/bindings/_common/SipEvent.cxx
+END
+SipSession.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/_common/SipSession.cxx
+END
+SipUri.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/_common/SipUri.h
+END
+AudioResampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/AudioResampler.h
+END
+tinyWRAP.i
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/_common/tinyWRAP.i
+END
+Msrp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/_common/Msrp.h
+END
+Msrp.i
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/Msrp.i
+END
+SipCallback.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SipCallback.cxx
+END
+ProxyProducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/_common/ProxyProducer.h
+END
+MediaContent.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/MediaContent.cxx
+END
+Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1066/branches/2.0/doubango/bindings/_common/Common.h
+END
+SipStack.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/_common/SipStack.cxx
+END
+ProxyConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1011/branches/2.0/doubango/bindings/_common/ProxyConsumer.h
+END
+SipEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/_common/SipEvent.h
+END
+SipSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/_common/SipSession.h
+END
+tinyWRAP_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/_common/tinyWRAP_config.h
+END
+SMS.i
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SMS.i
+END
+MediaSessionMgr.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/_common/MediaSessionMgr.cxx
+END
+DDebug.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/DDebug.cxx
+END
+Xcap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/Xcap.cxx
+END
+SipCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SipCallback.h
+END
+MediaContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/MediaContent.h
+END
+SipMessage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SipMessage.cxx
+END
+SMSEncoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SMSEncoder.cxx
+END
+ActionConfig.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1062/branches/2.0/doubango/bindings/_common/ActionConfig.cxx
+END
+SafeObject.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SafeObject.cxx
+END
+SipStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/_common/SipStack.h
+END
+ProxyPluginMgr.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/ProxyPluginMgr.cxx
+END
+SipStack.i
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1148/branches/2.0/doubango/bindings/_common/SipStack.i
+END
+SipUri.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/_common/SipUri.cxx
+END
+AudioResampler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/_common/AudioResampler.cxx
+END

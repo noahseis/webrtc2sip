@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1152/branches/2.0/doubango
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1147/branches/2.0/doubango/configure.ac
+END
+new-config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1027/branches/2.0/doubango/new-config.sub
+END
+doubango.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1062/branches/2.0/doubango/doubango.pc.in
+END
+android_build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1038/branches/2.0/doubango/android_build.sh
+END
+version_w32.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1114/branches/2.0/doubango/version_w32.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1062/branches/2.0/doubango/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/787/branches/2.0/doubango/autogen.sh
+END
+contributors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/contributors.txt
+END

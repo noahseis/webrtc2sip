@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavcodec
+END
+old_codec_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavcodec/old_codec_ids.h
+END
+vda.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavcodec/vda.h
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavcodec/vaapi.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavcodec/opt.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavcodec/dxva2.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavcodec/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavcodec/version.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavcodec/avfft.h
+END

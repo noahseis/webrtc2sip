@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginDirectShow
+END
+plugin_screencast_dshow_producer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1064/branches/2.0/doubango/plugins/pluginDirectShow/plugin_screencast_dshow_producer.cxx
+END
+plugin_video_dshow_consumer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1129/branches/2.0/doubango/plugins/pluginDirectShow/plugin_video_dshow_consumer.cxx
+END
+dllmain_dshow.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginDirectShow/dllmain_dshow.cxx
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginDirectShow/version.rc
+END
+plugin_video_dshow_producer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1118/branches/2.0/doubango/plugins/pluginDirectShow/plugin_video_dshow_producer.cxx
+END
+pluginDirectShow.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginDirectShow/pluginDirectShow.vcproj
+END
+plugin_dshow_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1118/branches/2.0/doubango/plugins/pluginDirectShow/plugin_dshow_config.h
+END

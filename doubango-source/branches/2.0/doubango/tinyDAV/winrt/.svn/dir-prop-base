@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 89
+ARM
+Debug
+Generated Files
+tinyDAV - Copie.vcxproj
+*.sdf
+*.suo
+tinyDAV.vcxproj.user
+Win32
+
+END

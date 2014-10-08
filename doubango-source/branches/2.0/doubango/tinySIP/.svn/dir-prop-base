@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 84
+Debug
+Release
+tinySIP.vcproj.mamadou-PC.mamadou.user
+*.ncb
+*.suo
+*.user
+Makefile.in
+
+END

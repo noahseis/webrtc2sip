@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv
+END
+rotate_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/rotate_argb.h
+END
+format_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/format_conversion.h
+END
+rotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/rotate.h
+END
+cpu_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/cpu_id.h
+END
+convert_from.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/convert_from.h
+END
+planar_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/planar_functions.h
+END
+basic_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/basic_types.h
+END
+convert_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/convert_argb.h
+END
+video_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/video_common.h
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/convert.h
+END
+scale_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/scale_argb.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/version.h
+END
+compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/compare.h
+END
+mjpeg_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/mjpeg_decoder.h
+END
+scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/common/include/libyuv/libyuv/scale.h
+END

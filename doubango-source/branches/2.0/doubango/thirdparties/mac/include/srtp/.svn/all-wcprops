@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp
+END
+crypto_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/crypto_math.h
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/alloc.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/sha1.h
+END
+osx-x264.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/osx-x264.sh
+END
+aes_gcm_ossl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/aes_gcm_ossl.h
+END
+rdbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/rdbx.h
+END
+aes_icm.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/aes_icm.h
+END
+aes_icm_ossl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/aes_icm_ossl.h
+END
+ut_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/ut_sim.h
+END
+cryptoalg.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/cryptoalg.h
+END
+null_cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/null_cipher.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/config.h
+END
+gf2_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/gf2_8.h
+END
+prng.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/prng.h
+END
+rdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/rdb.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/hmac.h
+END
+cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/cipher.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/stat.h
+END
+aes_cbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/aes_cbc.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/err.h
+END
+srtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/srtp_priv.h
+END
+xfm.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/xfm.h
+END
+null_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/null_auth.h
+END
+datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/datatypes.h
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/auth.h
+END
+rand_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/rand_source.h
+END
+crypto_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/crypto_types.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/rtp.h
+END
+rtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/rtp_priv.h
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/aes.h
+END
+crypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/crypto.h
+END
+crypto_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/crypto_kernel.h
+END
+integers.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/integers.h
+END
+kernel_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/kernel_compat.h
+END
+ekt.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/ekt.h
+END
+getopt_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/getopt_s.h
+END
+srtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/srtp/srtp.h
+END
+key.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/srtp/key.h
+END

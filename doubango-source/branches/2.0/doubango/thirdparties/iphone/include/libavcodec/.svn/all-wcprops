@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec
+END
+old_codec_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/old_codec_ids.h
+END
+vda.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/vda.h
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/vaapi.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/opt.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/dxva2.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/version.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/libavcodec/avfft.h
+END

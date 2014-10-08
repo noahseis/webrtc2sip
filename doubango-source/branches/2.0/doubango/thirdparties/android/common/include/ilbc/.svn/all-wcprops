@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc
+END
+LPCencode.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/LPCencode.h
+END
+StateSearchW.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/StateSearchW.h
+END
+helpfun.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/helpfun.h
+END
+iCBConstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/iCBConstruct.h
+END
+syntFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/syntFilter.h
+END
+doCPLC.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/doCPLC.h
+END
+anaFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/anaFilter.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/config.h
+END
+createCB.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/createCB.h
+END
+StateConstructW.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/StateConstructW.h
+END
+iLBC_decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/iLBC_decode.h
+END
+packing.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/packing.h
+END
+constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/constants.h
+END
+LPCdecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/LPCdecode.h
+END
+getCBvec.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/getCBvec.h
+END
+iCBSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/iCBSearch.h
+END
+enhancer.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/enhancer.h
+END
+iLBC_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/iLBC_define.h
+END
+lsf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/lsf.h
+END
+filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/filter.h
+END
+iLBC_encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/iLBC_encode.h
+END
+gainquant.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/gainquant.h
+END
+hpInput.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/hpInput.h
+END
+hpOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/hpOutput.h
+END
+FrameClassify.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/ilbc/FrameClassify.h
+END

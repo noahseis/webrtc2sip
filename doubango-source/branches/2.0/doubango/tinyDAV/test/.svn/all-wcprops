@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/test
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/test/test.vcproj
+END
+test_sessions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/653/branches/2.0/doubango/tinyDAV/test/test_sessions.h
+END

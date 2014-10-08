@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include
+END
+x264.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/x264.h
+END
+gsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/gsm.h
+END
+x264_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/x264_config.h
+END

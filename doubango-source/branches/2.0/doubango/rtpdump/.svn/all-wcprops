@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/690/branches/2.0/doubango/rtpdump
+END
+g711a
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/g711a
+END
+h261
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/h261
+END
+theora
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/theora
+END
+h264_10
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/h264_10
+END
+h263_qcif
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/h263_qcif
+END
+chrome2chrome_rtcp.zip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/689/branches/2.0/doubango/rtpdump/chrome2chrome_rtcp.zip
+END
+gsm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/gsm
+END
+g729
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/g729
+END
+chrome2chrome.zip
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/690/branches/2.0/doubango/rtpdump/chrome2chrome.zip
+END
+h263_cif
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/h263_cif
+END
+speex_nb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/speex_nb
+END
+amrnb_be
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/amrnb_be
+END
+ilbc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/ilbc
+END
+amrnb_oa
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/amrnb_oa
+END
+bv16
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/552/branches/2.0/doubango/rtpdump/bv16
+END

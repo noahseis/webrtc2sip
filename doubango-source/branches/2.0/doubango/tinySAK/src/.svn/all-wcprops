@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1140/branches/2.0/doubango/tinySAK/src
+END
+tsk_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_memory.h
+END
+tsk.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/923/branches/2.0/doubango/tinySAK/src/tsk.c
+END
+tsk_ppfcs16.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_ppfcs16.c
+END
+tsk_semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/src/tsk_semaphore.c
+END
+tsk_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/776/branches/2.0/doubango/tinySAK/src/tsk_md5.c
+END
+tsk.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk.h
+END
+tsk_ppfcs16.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_ppfcs16.h
+END
+tsk_semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_semaphore.h
+END
+tsk_md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_md5.h
+END
+tsk_object.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1095/branches/2.0/doubango/tinySAK/src/tsk_object.c
+END
+tsk_uuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_uuid.c
+END
+tsk_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1136/branches/2.0/doubango/tinySAK/src/tsk_string.c
+END
+tsk_runnable.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/869/branches/2.0/doubango/tinySAK/src/tsk_runnable.c
+END
+tsk_condwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1055/branches/2.0/doubango/tinySAK/src/tsk_condwait.c
+END
+tsk_hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_hmac.c
+END
+tsk_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1084/branches/2.0/doubango/tinySAK/src/tsk_string.h
+END
+tsk_uuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_uuid.h
+END
+tsk_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1079/branches/2.0/doubango/tinySAK/src/tsk_object.h
+END
+tsk_runnable.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/869/branches/2.0/doubango/tinySAK/src/tsk_runnable.h
+END
+tsk_hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_hmac.h
+END
+tsk_condwait.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_condwait.h
+END
+tsk_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1136/branches/2.0/doubango/tinySAK/src/tsk_timer.c
+END
+tsk_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1096/branches/2.0/doubango/tinySAK/src/tsk_timer.h
+END
+tsk_ragel_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_ragel_state.c
+END
+tsk_errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_errno.h
+END
+tinysak_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1140/branches/2.0/doubango/tinySAK/src/tinysak_config.h
+END
+tsk_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1137/branches/2.0/doubango/tinySAK/src/tsk_plugin.c
+END
+tsk_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1136/branches/2.0/doubango/tinySAK/src/tsk_time.c
+END
+tsk_ragel_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1140/branches/2.0/doubango/tinySAK/src/tsk_ragel_state.h
+END
+tsk_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/869/branches/2.0/doubango/tinySAK/src/tsk_time.h
+END
+tsk_plugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1062/branches/2.0/doubango/tinySAK/src/tsk_plugin.h
+END
+tsk_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/872/branches/2.0/doubango/tinySAK/src/tsk_thread.c
+END
+tsk_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1136/branches/2.0/doubango/tinySAK/src/tsk_buffer.c
+END
+tsk_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/931/branches/2.0/doubango/tinySAK/src/tsk_list.c
+END
+tsk_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/869/branches/2.0/doubango/tinySAK/src/tsk_thread.h
+END
+tsk_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_buffer.h
+END
+tsk_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/923/branches/2.0/doubango/tinySAK/src/tsk_list.h
+END
+tsk_ppfcs32.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_ppfcs32.c
+END
+tsk_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/src/tsk_params.c
+END
+tsk_base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1112/branches/2.0/doubango/tinySAK/src/tsk_base64.c
+END
+tsk_ppfcs32.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_ppfcs32.h
+END
+tsk_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/923/branches/2.0/doubango/tinySAK/src/tsk_debug.c
+END
+tsk_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_params.h
+END
+tsk_base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_base64.h
+END
+tsk_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/923/branches/2.0/doubango/tinySAK/src/tsk_debug.h
+END
+tsk_sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/src/tsk_sha1.c
+END
+tsk_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1084/branches/2.0/doubango/tinySAK/src/tsk_common.h
+END
+tsk_sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_sha1.h
+END
+tsk_url.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/src/tsk_url.c
+END
+tsk_binaryutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_binaryutils.c
+END
+tsk_url.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_url.h
+END
+tsk_safeobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_safeobj.c
+END
+tsk_binaryutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_binaryutils.h
+END
+tsk_safeobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_safeobj.h
+END
+tsk_fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/src/tsk_fsm.c
+END
+tsk_fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_fsm.h
+END
+tsk_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/src/tsk_options.c
+END
+tsk_xml.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_xml.c
+END
+tsk_options.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_options.h
+END
+tsk_mutex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1081/branches/2.0/doubango/tinySAK/src/tsk_mutex.c
+END
+tsk_xml.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_xml.h
+END
+tsk_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/tsk_mutex.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySAK/src/Makefile.am
+END
+tsk_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/957/branches/2.0/doubango/tinySAK/src/tsk_memory.c
+END

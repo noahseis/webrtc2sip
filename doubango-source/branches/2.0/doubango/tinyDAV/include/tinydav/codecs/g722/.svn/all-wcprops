@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/880/branches/2.0/doubango/tinyDAV/include/tinydav/codecs/g722
+END
+tdav_codec_g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/880/branches/2.0/doubango/tinyDAV/include/tinydav/codecs/g722/tdav_codec_g722.h
+END
+g722_enc_dec.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/codecs/g722/g722_enc_dec.h
+END

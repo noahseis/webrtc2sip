@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/java/android
+END
+XcapMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/XcapMessage.java
+END
+ProxyPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyPlugin.java
+END
+tmedia_srtp_mode_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_srtp_mode_t.java
+END
+twrap_sms_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/twrap_sms_type_t.java
+END
+DDebugCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/DDebugCallback.java
+END
+SipCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SipCallback.java
+END
+tsip_register_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_register_event_type_t.java
+END
+tinyWRAPConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/java/android/tinyWRAPConstants.java
+END
+gpl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/gpl.sh
+END
+tinyWRAP.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tinyWRAP.java
+END
+tinyWRAPJNI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/java/android/tinyWRAPJNI.java
+END
+tmedia_chroma_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_chroma_t.java
+END
+tsip_options_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_options_event_type_t.java
+END
+minimal.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/minimal.sh
+END
+ProxyAudioConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/898/branches/2.0/doubango/bindings/java/android/ProxyAudioConsumer.java
+END
+tsip_info_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_info_event_type_t.java
+END
+twrap_media_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1066/branches/2.0/doubango/bindings/java/android/twrap_media_type_t.java
+END
+tmedia_pref_video_size_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/898/branches/2.0/doubango/bindings/java/android/tmedia_pref_video_size_t.java
+END
+MsrpEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MsrpEvent.java
+END
+ProxyVideoFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyVideoFrame.java
+END
+MsrpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MsrpSession.java
+END
+MsrpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MsrpMessage.java
+END
+SubscriptionSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SubscriptionSession.java
+END
+tmsrp_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmsrp_event_type_t.java
+END
+OptionsEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/OptionsEvent.java
+END
+SipEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SipEvent.java
+END
+OptionsSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/OptionsSession.java
+END
+SipSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SipSession.java
+END
+tmedia_srtp_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/816/branches/2.0/doubango/bindings/java/android/tmedia_srtp_type_t.java
+END
+SipMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SipMessage.java
+END
+DialogEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/DialogEvent.java
+END
+ProxyVideoConsumerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyVideoConsumerCallback.java
+END
+tmsrp_request_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmsrp_request_type_t.java
+END
+InviteSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/InviteSession.java
+END
+commercial.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/commercial.sh
+END
+tsip_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_event_type_t.java
+END
+StackEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/StackEvent.java
+END
+tsip_message_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_message_event_type_t.java
+END
+tsip_request_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_request_type_t.java
+END
+RegistrationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/RegistrationEvent.java
+END
+ProxyVideoConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyVideoConsumer.java
+END
+ProxyAudioProducerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyAudioProducerCallback.java
+END
+tmedia_t140_data_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_t140_data_type_t.java
+END
+thttp_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/thttp_event_type_t.java
+END
+tdav_codec_id_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tdav_codec_id_t.java
+END
+tmedia_mode_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1045/branches/2.0/doubango/bindings/java/android/tmedia_mode_t.java
+END
+SMSData.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SMSData.java
+END
+XcapSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/XcapSelector.java
+END
+InfoEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/InfoEvent.java
+END
+MsrpCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MsrpCallback.java
+END
+T140CallbackData.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/T140CallbackData.java
+END
+InfoSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/InfoSession.java
+END
+tmedia_bandwidth_level_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_bandwidth_level_t.java
+END
+ActionConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/java/android/ActionConfig.java
+END
+T140Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/T140Callback.java
+END
+SafeObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SafeObject.java
+END
+tmedia_profile_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_profile_t.java
+END
+ProxyAudioProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/ProxyAudioProducer.java
+END
+MediaContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MediaContent.java
+END
+SipUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SipUri.java
+END
+MessagingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MessagingEvent.java
+END
+buildAll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/buildAll.sh
+END
+MessagingSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MessagingSession.java
+END
+XcapStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/XcapStack.java
+END
+MediaContentCPIM.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/MediaContentCPIM.java
+END
+ProxyPluginMgrCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyPluginMgrCallback.java
+END
+SubscriptionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/java/android/SubscriptionEvent.java
+END
+tinyWRAP_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/java/android/tinyWRAP_wrap.cxx
+END
+ProxyVideoProducerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyVideoProducerCallback.java
+END
+tsip_publish_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_publish_event_type_t.java
+END
+tsip_stack_mode_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_stack_mode_t.java
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/droid-makefile
+END
+tmedia_codec_id_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_codec_id_t.java
+END
+InviteEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/InviteEvent.java
+END
+twrap_proxy_plugin_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/twrap_proxy_plugin_type_t.java
+END
+SMSEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SMSEncoder.java
+END
+tsip_subscribe_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_subscribe_event_type_t.java
+END
+ProxyPluginMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyPluginMgr.java
+END
+XcapCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/XcapCallback.java
+END
+PublicationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/831/branches/2.0/doubango/bindings/java/android/PublicationEvent.java
+END
+tinyWRAP_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tinyWRAP_wrap.h
+END
+AudioResampler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/AudioResampler.java
+END
+ProxyVideoProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyVideoProducer.java
+END
+PublicationSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/PublicationSession.java
+END
+Codec.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/Codec.java
+END
+RegistrationSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/RegistrationSession.java
+END
+CallSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/java/android/CallSession.java
+END
+SipStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/java/android/SipStack.java
+END
+tsip_invite_event_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tsip_invite_event_type_t.java
+END
+tmedia_qos_strength_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_qos_strength_t.java
+END
+RPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/RPMessage.java
+END
+lgpl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/880/branches/2.0/doubango/bindings/java/android/lgpl.sh
+END
+twrap_rpmessage_type_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/twrap_rpmessage_type_t.java
+END
+MediaSessionMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1086/branches/2.0/doubango/bindings/java/android/MediaSessionMgr.java
+END
+SdpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/SdpMessage.java
+END
+ProxyAudioConsumerCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/ProxyAudioConsumerCallback.java
+END
+tmedia_qos_stype_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/tmedia_qos_stype_t.java
+END
+XcapEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/java/android/XcapEvent.java
+END

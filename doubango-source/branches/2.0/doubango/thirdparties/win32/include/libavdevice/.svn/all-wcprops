@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavdevice
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavdevice/version.h
+END
+avdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavdevice/avdevice.h
+END

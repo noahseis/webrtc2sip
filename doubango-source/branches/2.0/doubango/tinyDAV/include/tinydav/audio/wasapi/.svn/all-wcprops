@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/branches/2.0/doubango/tinyDAV/include/tinydav/audio/wasapi
+END
+tdav_consumer_wasapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/820/branches/2.0/doubango/tinyDAV/include/tinydav/audio/wasapi/tdav_consumer_wasapi.h
+END
+tdav_producer_wasapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/820/branches/2.0/doubango/tinyDAV/include/tinydav/audio/wasapi/tdav_producer_wasapi.h
+END

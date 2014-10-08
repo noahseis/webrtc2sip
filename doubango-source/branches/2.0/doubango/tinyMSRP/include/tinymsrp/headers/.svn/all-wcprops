@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers
+END
+tmsrp_header_From-Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_From-Path.h
+END
+tmsrp_header_Byte-Range.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Byte-Range.h
+END
+tmsrp_header_WWW-Authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_WWW-Authenticate.h
+END
+tmsrp_header_Min-Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Min-Expires.h
+END
+tmsrp_header_Authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Authorization.h
+END
+tmsrp_header_Failure-Report.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Failure-Report.h
+END
+tmsrp_header_Max-Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Max-Expires.h
+END
+tmsrp_header_Authentication-Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Authentication-Info.h
+END
+tmsrp_header_To-Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_To-Path.h
+END
+tmsrp_header_Message-ID.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Message-ID.h
+END
+tmsrp_header_Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Expires.h
+END
+tmsrp_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header.h
+END
+tmsrp_header_Success-Report.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Success-Report.h
+END
+tmsrp_header_Status.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Status.h
+END
+tmsrp_header_Use-Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Use-Path.h
+END
+tmsrp_header_Content-Type.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Content-Type.h
+END
+tmsrp_header_Dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/headers/tmsrp_header_Dummy.h
+END

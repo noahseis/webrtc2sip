@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1132/branches/2.0/doubango/tinyDAV/src/codecs/opus
+END
+tdav_codec_opus.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1132/branches/2.0/doubango/tinyDAV/src/codecs/opus/tdav_codec_opus.c
+END

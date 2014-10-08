@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv
+END
+rotate_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/rotate_argb.h
+END
+format_conversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/format_conversion.h
+END
+convert_from_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/convert_from_argb.h
+END
+rotate.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/rotate.h
+END
+cpu_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/cpu_id.h
+END
+convert_from.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/convert_from.h
+END
+basic_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/basic_types.h
+END
+planar_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/planar_functions.h
+END
+row.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/row.h
+END
+convert_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/convert_argb.h
+END
+scale_row.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/scale_row.h
+END
+video_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/video_common.h
+END
+convert.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/convert.h
+END
+scale_argb.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/scale_argb.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/version.h
+END
+compare.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/compare.h
+END
+mjpeg_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/mjpeg_decoder.h
+END
+scale.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libyuv/libyuv/scale.h
+END

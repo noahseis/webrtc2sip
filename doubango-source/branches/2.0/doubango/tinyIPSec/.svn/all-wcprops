@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyIPSec
+END
+tinyIPSec.tag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1013/branches/2.0/doubango/tinyIPSec/tinyIPSec.tag
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/footer.html
+END
+tinyIPSec.sln
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyIPSec/tinyIPSec.sln
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyIPSec/Doxyfile
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyIPSec/version.rc
+END
+index.doxy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1013/branches/2.0/doubango/tinyIPSec/index.doxy
+END
+tinyIPSec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1065/branches/2.0/doubango/tinyIPSec/tinyIPSec.vcproj
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1027/branches/2.0/doubango/tinyIPSec/Makefile.am
+END
+installdox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/installdox.sh
+END
+DoxygenLayout.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1013/branches/2.0/doubango/tinyIPSec/DoxygenLayout.xml
+END
+AStyle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyIPSec/AStyle.sh
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyIPSec/header.html
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyIPSec/droid-makefile
+END
+tinyIPSec.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/898/branches/2.0/doubango/tinyIPSec/tinyIPSec.pc.in
+END

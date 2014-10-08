@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1111/branches/2.0/doubango/tinyHTTP/src
+END
+thttp_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/thttp_action.c
+END
+thttp_dialog.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1111/branches/2.0/doubango/tinyHTTP/src/thttp_dialog.c
+END
+thttp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1101/branches/2.0/doubango/tinyHTTP/src/thttp.c
+END
+thttp_event.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/thttp_event.c
+END
+thttp_url.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/thttp_url.c
+END
+thttp_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/thttp_session.c
+END
+thttp_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/src/thttp_message.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/makefile
+END

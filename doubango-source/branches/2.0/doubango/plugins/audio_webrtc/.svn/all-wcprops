@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/audio_webrtc
+END
+audio_webrtc_producer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_producer.h
+END
+dllmain.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/dllmain.cxx
+END
+audio_webrtc_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_config.h
+END
+audio_webrtc_consumer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_consumer.cxx
+END
+audio_webrtc_transport.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_transport.cxx
+END
+audio_webrtc_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_consumer.h
+END
+audio_webrtc.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc.cxx
+END
+audio_webrtc.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc.vcproj
+END
+audio_webrtc_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_transport.h
+END
+audio_webrtc_producer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc_producer.cxx
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/droid-makefile
+END
+audio_webrtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/740/branches/2.0/doubango/plugins/audio_webrtc/audio_webrtc.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/plugins/audio_webrtc/makefile
+END

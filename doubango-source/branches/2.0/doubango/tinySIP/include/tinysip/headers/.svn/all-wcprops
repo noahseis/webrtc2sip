@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/864/branches/2.0/doubango/tinySIP/include/tinysip/headers
+END
+tsip_header_Supported.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Supported.h
+END
+tsip_header_Reason.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Reason.h
+END
+tsip_header_Resource_Priority.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Resource_Priority.h
+END
+tsip_header_Referred_By.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Referred_By.h
+END
+tsip_header_CSeq.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_CSeq.h
+END
+tsip_header_Record_Route.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Record_Route.h
+END
+tsip_header_User_Agent.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_User_Agent.h
+END
+tsip_header_MIME_Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_MIME_Version.h
+END
+tsip_header_P_Called_Party_ID.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Called_Party_ID.h
+END
+tsip_header_Error_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Error_Info.h
+END
+tsip_header_Identity_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Identity_Info.h
+END
+tsip_header_Security_Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Security_Client.h
+END
+tsip_header_Allow.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/864/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Allow.h
+END
+tsip_header_RAck.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_RAck.h
+END
+tsip_header_P_User_Database.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_User_Database.h
+END
+tsip_header_Priority.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Priority.h
+END
+tsip_header_Min_Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Min_Expires.h
+END
+tsip_header_Session_Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Session_Expires.h
+END
+tsip_header_Alert_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Alert_Info.h
+END
+tsip_header_In_Reply_To.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_In_Reply_To.h
+END
+tsip_header_Call_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Call_Info.h
+END
+tsip_header_Identity.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Identity.h
+END
+tsip_header_SIP_ETag.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_SIP_ETag.h
+END
+tsip_header_Path.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Path.h
+END
+tsip_header_P_DCS_LAES.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_DCS_LAES.h
+END
+tsip_header_Security_Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Security_Server.h
+END
+tsip_header_Route.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Route.h
+END
+tsip_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_headers.h
+END
+tsip_header_Organization.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Organization.h
+END
+tsip_header_Warning.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Warning.h
+END
+tsip_header_Min_SE.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Min_SE.h
+END
+tsip_header_Content_Type.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Content_Type.h
+END
+tsip_header_Refer_Sub.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Refer_Sub.h
+END
+tsip_header_History_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_History_Info.h
+END
+tsip_header_Privacy.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Privacy.h
+END
+tsip_header_Service_Route.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Service_Route.h
+END
+tsip_header_Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Event.h
+END
+tsip_header_WWW_Authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_WWW_Authenticate.h
+END
+tsip_header_P_Charging_Vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Charging_Vector.h
+END
+tsip_header_SIP_If_Match.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_SIP_If_Match.h
+END
+tsip_header_Retry_After.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Retry_After.h
+END
+tsip_header_P_Early_Media.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Early_Media.h
+END
+tsip_header_Authentication_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Authentication_Info.h
+END
+tsip_header_Contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Contact.h
+END
+tsip_header_Dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Dummy.h
+END
+tsip_header_P_DCS_OSPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_DCS_OSPS.h
+END
+tsip_header_Replaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Replaces.h
+END
+tsip_header_Subject.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Subject.h
+END
+tsip_header_accept.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_accept.h
+END
+tsip_header_Join.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Join.h
+END
+tsip_header_Proxy_Authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Proxy_Authorization.h
+END
+tsip_header_Accept_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Accept_Language.h
+END
+tsip_header_P_Charging_Function_Addresses.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Charging_Function_Addresses.h
+END
+tsip_header_Timestamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Timestamp.h
+END
+tsip_header_From.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_From.h
+END
+tsip_header_P_Access_Network_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Access_Network_Info.h
+END
+tsip_header_Accept_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Accept_Encoding.h
+END
+tsip_header_Target_Dialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Target_Dialog.h
+END
+tsip_header_Server.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Server.h
+END
+tsip_header_P_Preferred_Identity.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Preferred_Identity.h
+END
+tsip_header_P_Visited_Network_ID.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Visited_Network_ID.h
+END
+tsip_header_Require.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Require.h
+END
+tsip_header_P_Associated_URI.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Associated_URI.h
+END
+tsip_header_Date.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Date.h
+END
+tsip_header_P_Answer_State.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Answer_State.h
+END
+tsip_header_P_Media_Authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Media_Authorization.h
+END
+tsip_header_Expires.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Expires.h
+END
+tsip_header_Proxy_Authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Proxy_Authenticate.h
+END
+tsip_header_To.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_To.h
+END
+tsip_header_Subscription_State.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Subscription_State.h
+END
+tsip_header_Call_ID.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Call_ID.h
+END
+tsip_header_P_Profile_Key.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Profile_Key.h
+END
+tsip_header_Reject_Contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Reject_Contact.h
+END
+tsip_header_Unsupported.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Unsupported.h
+END
+tsip_header_Security_Verify.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Security_Verify.h
+END
+tsip_header_Max_Forwards.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Max_Forwards.h
+END
+tsip_header_Reply_To.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Reply_To.h
+END
+tsip_header_Content_Disposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Content_Disposition.h
+END
+tsip_header_Authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Authorization.h
+END
+tsip_header_P_DCS_Trace_Party_ID.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_DCS_Trace_Party_ID.h
+END
+tsip_header_Allow_Events.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Allow_Events.h
+END
+tsip_header_P_Asserted_Identity.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_Asserted_Identity.h
+END
+tsip_header_P_DCS_Billing_Info.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_DCS_Billing_Info.h
+END
+tsip_header_Refer_To.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Refer_To.h
+END
+tsip_header_Accept_Resource_Priority.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Accept_Resource_Priority.h
+END
+tsip_header_P_DCS_Redirect.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_P_DCS_Redirect.h
+END
+tsip_header_RSeq.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_RSeq.h
+END
+tsip_header_Accept_Contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Accept_Contact.h
+END
+tsip_header_Content_Length.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Content_Length.h
+END
+tsip_header_Request_Disposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Request_Disposition.h
+END
+tsip_header_Content_Language.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Content_Language.h
+END
+tsip_header_Proxy_Require.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Proxy_Require.h
+END
+tsip_header_Via.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Via.h
+END
+tsip_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header.h
+END
+tsip_header_Content_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/headers/tsip_header_Content_Encoding.h
+END

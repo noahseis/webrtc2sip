@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/814/branches/2.0/doubango/tinySIGCOMP/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/test/stdafx.h
+END
+test_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/811/branches/2.0/doubango/tinySIGCOMP/test/test_manager.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/813/branches/2.0/doubango/tinySIGCOMP/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/test/test.vcproj
+END
+test_osc.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/test/test_osc.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/760/branches/2.0/doubango/tinySIGCOMP/test/targetver.h
+END
+rfc4465_torture_tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/814/branches/2.0/doubango/tinySIGCOMP/test/rfc4465_torture_tests.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/760/branches/2.0/doubango/tinySIGCOMP/test/stdafx.c
+END
+test_tortures.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/814/branches/2.0/doubango/tinySIGCOMP/test/test_tortures.h
+END

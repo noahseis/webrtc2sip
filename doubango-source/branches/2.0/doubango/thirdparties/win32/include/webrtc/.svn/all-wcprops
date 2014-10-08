@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc
+END
+echo_cancellation.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/echo_cancellation.h
+END
+audio_device_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/audio_device_impl.h
+END
+audio_device_utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/audio_device_utility.h
+END
+audio_device_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/audio_device_config.h
+END
+audio_device_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/audio_device_buffer.h
+END
+list_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/list_wrapper.h
+END
+common_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/common_types.h
+END
+audio_device_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/audio_device_defines.h
+END
+noise_suppression_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/noise_suppression_x.h
+END
+file_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/file_wrapper.h
+END
+audio_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/audio_device.h
+END
+module_common_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/module_common_types.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/typedefs.h
+END
+constructor_magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/constructor_magic.h
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/module.h
+END
+noise_suppression.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/webrtc/noise_suppression.h
+END

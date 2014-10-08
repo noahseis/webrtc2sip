@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg
+END
+libavformat-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavformat-lgpl.a
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavfilter.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavformat.a
+END
+libavdevice-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavdevice-lgpl.a
+END
+tp-libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libswscale.a
+END
+libtheora.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libtheora.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libswresample.a
+END
+tp-libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libavutil.a
+END
+libfaac.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libfaac.a
+END
+libvorbisenc.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libvorbisenc.a
+END
+tp-libpostproc.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libpostproc.a
+END
+libtheoradec.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libtheoradec.a
+END
+libvorbis.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libvorbis.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavcodec.a
+END
+tp-libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libavdevice.a
+END
+libavfilter-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavfilter-lgpl.a
+END
+libpostproc.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libpostproc.a
+END
+libogg.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/559/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libogg.a
+END
+libswresample-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libswresample-lgpl.a
+END
+libfreetype.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libfreetype.a
+END
+tp-libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libavcodec.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavdevice.a
+END
+tp-libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libavfilter.a
+END
+libswscale-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libswscale-lgpl.a
+END
+tp-libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libavformat.a
+END
+libavutil-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavutil-lgpl.a
+END
+libavcodec-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libavcodec-lgpl.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libswscale.a
+END
+libx264.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libx264.a
+END
+tp-libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/tp-libswresample.a
+END
+libvorbisfile.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libvorbisfile.a
+END
+libtheoraenc.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/lib/ffmpeg/libtheoraenc.a
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1063/branches/2.0/doubango/tinyDAV/src/codecs/bfcp
+END
+tdav_codec_bfcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1063/branches/2.0/doubango/tinyDAV/src/codecs/bfcp/tdav_codec_bfcp.c
+END

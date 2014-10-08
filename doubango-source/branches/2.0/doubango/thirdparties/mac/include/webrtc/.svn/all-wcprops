@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/include/webrtc
+END
+echo_cancellation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/include/webrtc/echo_cancellation.h
+END
+noise_suppression_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/include/webrtc/noise_suppression_x.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/include/webrtc/typedefs.h
+END
+noise_suppression.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1107/branches/2.0/doubango/thirdparties/mac/include/webrtc/noise_suppression.h
+END

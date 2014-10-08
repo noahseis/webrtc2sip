@@ -1,0 +1,8 @@
+K 10
+svn:ignore
+V 31
+*.d
+tsip_transport_ws.c
+*.orig
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/codecs/fec
+END
+tdav_codec_red.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/codecs/fec/tdav_codec_red.c
+END
+tdav_codec_ulpfec.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/codecs/fec/tdav_codec_ulpfec.c
+END

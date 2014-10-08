@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/948/branches/2.0/doubango/tinyDAV/src/codecs/ilbc
+END
+tdav_codec_ilbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/948/branches/2.0/doubango/tinyDAV/src/codecs/ilbc/tdav_codec_ilbc.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg
+END
+avcodec-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg/avcodec-52.dll
+END
+swscale-0.11.0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg/swscale-0.11.0.dll
+END
+swscale-0.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg/swscale-0.dll
+END
+avcodec-52.74.1.dll
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg/avcodec-52.74.1.dll
+END
+swscale.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg/swscale.dll
+END
+avcodec.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/ffmpeg/avcodec.dll
+END

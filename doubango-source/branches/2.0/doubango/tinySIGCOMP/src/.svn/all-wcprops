@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src
+END
+tcomp_nack_codes.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/809/branches/2.0/doubango/tinySIGCOMP/src/tcomp_nack_codes.h
+END
+tcomp_compressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressor.h
+END
+tcomp_rfc3485_dictionary_sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_rfc3485_dictionary_sip.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/zutil.c
+END
+tcomp_udvm.bytecopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/843/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.bytecopy.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/zutil.h
+END
+tcomp_udvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.c
+END
+tcomp_reqfeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_reqfeed.c
+END
+tcomp_udvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/843/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.h
+END
+tcomp_reqfeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_reqfeed.h
+END
+tcomp_state.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_state.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/zconf.h
+END
+tcomp_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_state.h
+END
+tcomp_decompressordisp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/805/branches/2.0/doubango/tinySIGCOMP/src/tcomp_decompressordisp.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/compress.c
+END
+tcomp_compartment.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compartment.c
+END
+tcomp_decompressordisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_decompressordisp.h
+END
+tcomp_compartment.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compartment.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/zlib.h
+END
+tcomp_compressor_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressor_dummy.c
+END
+tcomp_instructions.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/809/branches/2.0/doubango/tinySIGCOMP/src/tcomp_instructions.h
+END
+tcomp_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_manager.c
+END
+tcomp_compressor_dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressor_dummy.h
+END
+tcomp_result.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_result.c
+END
+tcomp_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_manager.h
+END
+tcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp.c
+END
+tcomp_compressor_deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressor_deflate.c
+END
+tcomp_operands.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_operands.h
+END
+tcomp_result.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_result.h
+END
+tcomp_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/809/branches/2.0/doubango/tinySIGCOMP/src/tcomp_message.c
+END
+tcomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp.h
+END
+tcomp_compressor_deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressor_deflate.h
+END
+tcomp_udvm.nack.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/809/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.nack.c
+END
+tcomp_nackinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/843/branches/2.0/doubango/tinySIGCOMP/src/tcomp_nackinfo.c
+END
+tcomp_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/805/branches/2.0/doubango/tinySIGCOMP/src/tcomp_message.h
+END
+tinysigcomp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/branches/2.0/doubango/tinySIGCOMP/src/tinysigcomp_config.h
+END
+tcomp_nackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/809/branches/2.0/doubango/tinySIGCOMP/src/tcomp_nackinfo.h
+END
+tcomp_deflatedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_deflatedata.c
+END
+tcomp_rfc5112_dictionary_presence.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_rfc5112_dictionary_presence.h
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/deflate.c
+END
+tcomp_deflatedata.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_deflatedata.h
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/deflate.h
+END
+tcomp_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/843/branches/2.0/doubango/tinySIGCOMP/src/tcomp_buffer.c
+END
+tcomp_compressordisp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressordisp.c
+END
+tcomp_rfc5049_sip.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/799/branches/2.0/doubango/tinySIGCOMP/src/tcomp_rfc5049_sip.h
+END
+tcomp_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_buffer.h
+END
+tcomp_statehandler.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_statehandler.c
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/trees.c
+END
+tcomp_compressordisp.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressordisp.h
+END
+tcomp_udvm.statemanagment.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/843/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.statemanagment.c
+END
+tcomp_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_params.c
+END
+tcomp_statehandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_statehandler.h
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/trees.h
+END
+tcomp_compressordata.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressordata.c
+END
+tcomp_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_params.h
+END
+tcomp_compressordata.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_compressordata.h
+END
+tcomp_deflatedata.zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_deflatedata.zlib.c
+END
+tcomp_dicts.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/809/branches/2.0/doubango/tinySIGCOMP/src/tcomp_dicts.c
+END
+tcomp_headers_index.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_headers_index.h
+END
+tcomp_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_types.h
+END
+tcomp_dicts.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/tcomp_dicts.h
+END
+tcomp_udvm.instructions.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/907/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.instructions.c
+END
+tcomp_deflatedata.ghost.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/810/branches/2.0/doubango/tinySIGCOMP/src/tcomp_deflatedata.ghost.c
+END
+tcomp_udvm.operands.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/797/branches/2.0/doubango/tinySIGCOMP/src/tcomp_udvm.operands.c
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIGCOMP/src/adler32.c
+END

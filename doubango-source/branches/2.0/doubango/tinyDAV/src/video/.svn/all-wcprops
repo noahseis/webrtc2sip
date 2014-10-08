@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1150/branches/2.0/doubango/tinyDAV/src/video
+END
+tdav_consumer_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/957/branches/2.0/doubango/tinyDAV/src/video/tdav_consumer_video.c
+END
+tdav_session_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1147/branches/2.0/doubango/tinyDAV/src/video/tdav_session_video.c
+END
+tdav_runnable_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/video/tdav_runnable_video.c
+END
+tdav_converter_video.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1150/branches/2.0/doubango/tinyDAV/src/video/tdav_converter_video.cxx
+END

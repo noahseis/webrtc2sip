@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libswscale
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libswscale/swscale.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libswscale/version.h
+END

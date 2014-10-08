@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyDEMO
+END
+invite.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/invite.c
+END
+sigcomp.sn
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/sigcomp.sn
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/options.h
+END
+tinyDEMO.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyDEMO/tinyDEMO.sln
+END
+core-inexbee.sn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-inexbee.sn
+END
+invite.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/invite.h
+END
+publish.sn
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/552/branches/2.0/doubango/tinyDEMO/publish.sn
+END
+publish.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/publish.c
+END
+tinyDEMO.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/tinyDEMO.vcproj
+END
+publish.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/publish.h
+END
+demo_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/552/branches/2.0/doubango/tinyDEMO/demo_config.h
+END
+subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/subscribe.c
+END
+core-nsn.sn
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-nsn.sn
+END
+ragel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/ragel.sh
+END
+core-doubango.sn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-doubango.sn
+END
+asterisk.sn
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/asterisk.sn
+END
+register.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/register.c
+END
+message.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/message.c
+END
+subscribe.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/subscribe.h
+END
+core-alcatel.sn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-alcatel.sn
+END
+register.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/register.h
+END
+message.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/message.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/droid-makefile
+END
+core-micromethod.sn
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-micromethod.sn
+END
+dssl.rl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/dssl.rl
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/cmd.c
+END
+open-ims.test.sn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/open-ims.test.sn
+END
+dssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/dssl.c
+END
+cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/cmd.h
+END
+core-colibria.sn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-colibria.sn
+END
+core-ericsson.sn
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/core-ericsson.sn
+END
+dssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/dssl.h
+END
+sample.sn
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/sample.sn
+END
+sip2sip.info.sn
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/sip2sip.info.sn
+END
+main.sn
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/main.sn
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/910/branches/2.0/doubango/tinyDEMO/main.c
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/910/branches/2.0/doubango/tinyDEMO/common.c
+END
+main.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/main.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/options.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDEMO/common.h
+END

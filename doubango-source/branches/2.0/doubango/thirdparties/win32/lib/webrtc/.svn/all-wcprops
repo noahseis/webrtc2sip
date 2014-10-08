@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc
+END
+media_file.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/media_file.lib
+END
+iSAC.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/iSAC.lib
+END
+audio_device.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/audio_device.lib
+END
+expat.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/628/branches/2.0/doubango/thirdparties/win32/lib/webrtc/expat.lib
+END
+G722.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/G722.lib
+END
+webrtc_vp8.lib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/webrtc_vp8.lib
+END
+aec_sse2.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/aec_sse2.lib
+END
+webrtc_i420.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/webrtc_i420.lib
+END
+ns_fix.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/ns_fix.lib
+END
+iSACFix.lib
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/iSACFix.lib
+END
+aec.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/aec.lib
+END
+agc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/agc.lib
+END
+audio_processing.lib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/audio_processing.lib
+END
+rtp_rtcp.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/rtp_rtcp.lib
+END
+spl.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/693/branches/2.0/doubango/thirdparties/win32/lib/webrtc/spl.lib
+END
+webrtc_video_coding.lib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/webrtc_video_coding.lib
+END
+libvpx.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/libvpx.lib
+END
+aecm.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/aecm.lib
+END
+CNG.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/CNG.lib
+END
+signal_processing.lib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/signal_processing.lib
+END
+iLBC.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/iLBC.lib
+END
+vad.lib
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/vad.lib
+END
+apm_util.lib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/apm_util.lib
+END
+NetEq.lib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/NetEq.lib
+END
+G711.lib
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/G711.lib
+END
+ns.lib
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/ns.lib
+END
+webrtc_vplib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/693/branches/2.0/doubango/thirdparties/win32/lib/webrtc/webrtc_vplib.lib
+END
+PCM16B.lib
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/PCM16B.lib
+END
+audio_coding_module.lib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/audio_coding_module.lib
+END
+resampler.lib
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/resampler.lib
+END
+webrtc_jpeg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/webrtc_jpeg.lib
+END
+audio_conference_mixer.lib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/audio_conference_mixer.lib
+END
+voice_engine_core.lib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/715/branches/2.0/doubango/thirdparties/win32/lib/webrtc/voice_engine_core.lib
+END
+udp_transport.lib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/udp_transport.lib
+END
+system_wrappers.lib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/system_wrappers.lib
+END
+webrtc_utility.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/740/branches/2.0/doubango/thirdparties/win32/lib/webrtc/webrtc_utility.lib
+END

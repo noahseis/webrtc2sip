@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 71
+test.vcproj.root.mamadou.user
+Debug
+*.orig
+*.user
+Release
+test.c.patch
+
+END

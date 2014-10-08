@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/common/include/libfreetype/freetype2/freetype/config
+END
+ftstdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/common/include/libfreetype/freetype2/freetype/config/ftstdlib.h
+END
+ftmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/common/include/libfreetype/freetype2/freetype/config/ftmodule.h
+END
+ftconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/common/include/libfreetype/freetype2/freetype/config/ftconfig.h
+END
+ftheader.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/common/include/libfreetype/freetype2/freetype/config/ftheader.h
+END
+ftoption.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/894/branches/2.0/doubango/thirdparties/common/include/libfreetype/freetype2/freetype/config/ftoption.h
+END

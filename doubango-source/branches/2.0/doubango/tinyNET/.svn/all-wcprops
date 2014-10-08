@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1152/branches/2.0/doubango/tinyNET
+END
+tinyNET.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/898/branches/2.0/doubango/tinyNET/tinyNET.pc.in
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/footer.html
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/923/branches/2.0/doubango/tinyNET/Doxyfile
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/configure.ac
+END
+ragel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/ragel.sh
+END
+tinyNET.tag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/923/branches/2.0/doubango/tinyNET/tinyNET.tag
+END
+tinyNET.sln
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/tinyNET.sln
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyNET/version.rc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/Makefile.am
+END
+installdox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/installdox.sh
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/header.html
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/autogen.sh
+END
+tinyNET.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/tinyNET.vcproj
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/801/branches/2.0/doubango/tinyNET/droid-makefile
+END

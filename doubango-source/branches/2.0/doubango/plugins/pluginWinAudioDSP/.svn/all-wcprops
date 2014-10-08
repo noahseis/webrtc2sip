@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWinAudioDSP
+END
+plugin_audio_dsp_mediabuffer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_mediabuffer.cxx
+END
+plugin_audio_dsp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_config.h
+END
+plugin_audio_dsp_resampler.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_resampler.cxx
+END
+plugin_audio_dsp_mediabuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_mediabuffer.h
+END
+plugin_audio_dsp_utils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_utils.cxx
+END
+pluginWinAudioDSP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginWinAudioDSP/pluginWinAudioDSP.vcproj
+END
+dllmain_audio_dsp.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/dllmain_audio_dsp.cxx
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWinAudioDSP/version.rc
+END
+plugin_audio_dsp_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_utils.h
+END
+plugin_audio_dsp_denoiser.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/962/branches/2.0/doubango/plugins/pluginWinAudioDSP/plugin_audio_dsp_denoiser.cxx
+END

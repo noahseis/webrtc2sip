@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/820/branches/2.0/doubango/tinySMS/test
+END
+test_rpdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/test_rpdu.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/test.c
+END
+test_tpdu.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/test_tpdu.h
+END
+test_packing.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/test_packing.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/test.vcproj
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/stdafx.c
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/test/droid-makefile
+END

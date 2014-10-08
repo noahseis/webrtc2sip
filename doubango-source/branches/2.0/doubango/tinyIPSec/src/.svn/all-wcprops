@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1127/branches/2.0/doubango/tinyIPSec/src
+END
+tinyipsec_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyIPSec/src/tinyipsec_config.h
+END
+tipsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1127/branches/2.0/doubango/tinyIPSec/src/tipsec.c
+END
+tipsec.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1038/branches/2.0/doubango/tinyIPSec/src/tipsec.h
+END

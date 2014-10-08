@@ -1,0 +1,110 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/iphone/include
+http://doubango.googlecode.com/svn
+
+
+
+2014-01-22T14:15:26.576438Z
+1019
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+opencore-amrwb
+dir
+
+openssl
+dir
+
+speex
+dir
+
+net
+dir
+
+srtp
+dir
+
+libswscale
+dir
+
+g729b
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+
+libpostproc
+dir
+
+libavfilter
+dir
+
+libavformat
+dir
+
+opencore-amrnb
+dir
+
+libswresample
+dir
+
+gsm.h
+file
+
+
+
+
+2014-10-03T15:42:57.000000Z
+e4e47e4a479cb77f0f37274151e8b982
+2012-12-03T03:11:21.618745Z
+765
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1681
+
+libavdevice
+dir
+
+vpx
+dir
+

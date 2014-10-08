@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/871/branches/2.0/doubango/bindings/winrt/doubango_rt/src
+END
+rt_MediaContent.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_MediaContent.cxx
+END
+rt_SipUri.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SipUri.cxx
+END
+rt_Msrp.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_Msrp.cxx
+END
+rt_SipStack.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SipStack.cxx
+END
+rt_Enums.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_Enums.cxx
+END
+rt_MediaSessionMgr.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/871/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_MediaSessionMgr.cxx
+END
+rt_DDebug.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_DDebug.cxx
+END
+rt_Xcap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_Xcap.cxx
+END
+rt_SipEvent.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SipEvent.cxx
+END
+rt_SipSession.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SipSession.cxx
+END
+rt_SipMessage.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SipMessage.cxx
+END
+rt_SMSEncoder.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SMSEncoder.cxx
+END
+rt_ActionConfig.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_ActionConfig.cxx
+END
+rt_String.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_String.cxx
+END
+rt_SipCallback.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/src/rt_SipCallback.cxx
+END

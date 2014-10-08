@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/openssl
+END
+ssleay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/openssl/ssleay32.dll
+END
+openssl.exe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/openssl/openssl.exe
+END
+libeay32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/openssl/libeay32.dll
+END

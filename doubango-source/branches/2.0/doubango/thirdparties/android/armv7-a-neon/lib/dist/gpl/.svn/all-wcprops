@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl
+END
+libpostproc.a
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libpostproc.a
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libavfilter.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libavformat.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libswscale.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libswresample.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libavcodec.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/armv7-a-neon/lib/dist/gpl/libavdevice.a
+END

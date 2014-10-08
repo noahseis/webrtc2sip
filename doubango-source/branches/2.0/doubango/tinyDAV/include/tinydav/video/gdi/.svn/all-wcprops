@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1150/branches/2.0/doubango/tinyDAV/include/tinydav/video/gdi
+END
+tdav_producer_screencast_gdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1136/branches/2.0/doubango/tinyDAV/include/tinydav/video/gdi/tdav_producer_screencast_gdi.h
+END
+tdav_consumer_video_gdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1150/branches/2.0/doubango/tinyDAV/include/tinydav/video/gdi/tdav_consumer_video_gdi.h
+END

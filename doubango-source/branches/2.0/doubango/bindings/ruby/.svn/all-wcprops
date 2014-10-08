@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/ruby
+END
+tinyWRAP_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/ruby/tinyWRAP_wrap.cxx
+END
+ruby.i
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/ruby/ruby.i
+END
+tinyWRAP_wrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/bindings/ruby/tinyWRAP_wrap.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/session
+END
+tmsrp_receiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/session/tmsrp_receiver.h
+END
+tmsrp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/session/tmsrp_config.h
+END
+tmsrp_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/session/tmsrp_data.h
+END
+tmsrp_sender.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/session/tmsrp_sender.h
+END

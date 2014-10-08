@@ -1,0 +1,91 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/tinyDAV/src/codecs
+http://doubango.googlecode.com/svn
+
+
+
+2014-09-09T01:02:12.280379Z
+1141
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+amr
+dir
+
+g711
+dir
+
+h261
+dir
+
+g722
+dir
+
+msrp
+dir
+
+theora
+dir
+
+h263
+dir
+
+h264
+dir
+
+speex
+dir
+
+opus
+dir
+
+gsm
+dir
+
+g729
+dir
+
+t140
+dir
+
+dtmf
+dir
+
+fec
+dir
+
+silk
+dir
+
+bv
+dir
+
+ilbc
+dir
+
+bfcp
+dir
+
+vpx
+dir
+
+mp4ves
+dir
+

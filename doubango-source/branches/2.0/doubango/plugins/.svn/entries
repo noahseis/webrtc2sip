@@ -1,0 +1,86 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/plugins
+http://doubango.googlecode.com/svn
+
+
+
+2014-09-25T09:15:19.428855Z
+1150
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+pluginWinMF
+dir
+
+buildAll.sh
+file
+
+
+
+
+2014-10-03T15:42:33.000000Z
+fb318e408d0657e626a0953d2a5ff118
+2013-03-22T17:20:17.595841Z
+847
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+518
+
+pluginWASAPI
+dir
+
+pluginWinAudioDSP
+dir
+
+audio_webrtc
+dir
+
+pluginWinIPSecVista
+dir
+
+audio_opensles
+dir
+
+pluginDirectShow
+dir
+
+pluginCUDA
+dir
+

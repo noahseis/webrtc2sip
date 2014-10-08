@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1086/branches/2.0/doubango/tinySIP/include/tinysip
+END
+tsip_message_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/tsip_message_common.h
+END
+tsip_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/831/branches/2.0/doubango/tinySIP/include/tinysip/tsip_action.h
+END
+tsip_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/tsip_uri.h
+END
+tsip_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/831/branches/2.0/doubango/tinySIP/include/tinysip/tsip_event.h
+END
+tsip_timers.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/tsip_timers.h
+END
+tsip_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/818/branches/2.0/doubango/tinySIP/include/tinysip/tsip_message.h
+END
+tsip_ssession.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1086/branches/2.0/doubango/tinySIP/include/tinysip/tsip_ssession.h
+END

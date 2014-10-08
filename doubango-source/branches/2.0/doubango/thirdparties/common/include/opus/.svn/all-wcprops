@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/common/include/opus
+END
+opus_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/common/include/opus/opus_types.h
+END
+opus_multistream.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/common/include/opus/opus_multistream.h
+END
+opus_defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/common/include/opus/opus_defines.h
+END
+opus.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/880/branches/2.0/doubango/thirdparties/common/include/opus/opus.h
+END

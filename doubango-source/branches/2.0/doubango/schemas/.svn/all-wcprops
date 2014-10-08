@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/765/branches/2.0/doubango/schemas
+END
+OMA-SUP-AC_ap0009_presence-V1_0-20081223-C.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/OMA-SUP-AC_ap0009_presence-V1_0-20081223-C.txt
+END
+epp-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/epp-1.0.xml
+END
+pidf.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/pidf.xsd
+END
+xdm_commonPolicy-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xdm_commonPolicy-v1_0.xsd
+END
+common-policy.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/common-policy.xsd
+END
+resource-lists.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/resource-lists.xml
+END
+common-schema.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/common-schema.xsd
+END
+dialog-info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/dialog-info.xml
+END
+xdm_xcapDirectory-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xdm_xcapDirectory-v1_0.xsd
+END
+kpml-request.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/kpml-request.xml
+END
+netconf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/netconf.xml
+END
+consent-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/consent-rules.xml
+END
+dreg1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/dreg1.xml
+END
+ereg1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/ereg1.xml
+END
+pidf-caps.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/pidf-caps.xsd
+END
+data-model.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/data-model.xsd
+END
+IANA  XML Registry.htm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/IANA%20%20XML%20Registry.htm
+END
+copycontrol.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/copycontrol.xml
+END
+xdm_xcapError-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xdm_xcapError-v1_0.xsd
+END
+ipfix.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/ipfix.xml
+END
+rgp-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/rgp-1.0.xml
+END
+patch-ops-error.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/patch-ops-error.xml
+END
+imdn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/imdn.xml
+END
+contact-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/contact-1.0.xml
+END
+iris1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/iris1.xml
+END
+dchk1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/dchk1.xml
+END
+OMA-SUP-XSD_prs_presrules-V1_0_1-20080627-A.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/OMA-SUP-XSD_prs_presrules-V1_0_1-20080627-A.txt
+END
+civicLoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/civicLoc.xml
+END
+vts-lang.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/vts-lang.xml
+END
+dssc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/dssc.xml
+END
+rpid.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/rpid.xsd
+END
+location-type-registry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/location-type-registry.xml
+END
+gruuinfo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/gruuinfo.xml
+END
+poc_listService-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/poc_listService-v1_0.xsd
+END
+OMA-SUP-XSD_prs_suppnotFilter-V1_0-20081223-C.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/OMA-SUP-XSD_prs_suppnotFilter-V1_0-20081223-C.txt
+END
+basicPolicy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/basicPolicy.xml
+END
+pres-rules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/pres-rules.xml
+END
+domain-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/domain-1.0.xml
+END
+enum-tokendata-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/enum-tokendata-1.0.xml
+END
+prs_presRules-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/prs_presRules-v1_0.xsd
+END
+held.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/held.xml
+END
+simple-filter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/simple-filter.xml
+END
+e164val-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/e164val-1.0.xml
+END
+eppcom-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/eppcom-1.0.xml
+END
+xcap-error.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xcap-error.xsd
+END
+resource-lists.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/resource-lists.xsd
+END
+iodef-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/iodef-1.0.xml
+END
+timed-status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/timed-status.xml
+END
+OMNA Schema-based Namespace Registry.htm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/OMNA%20Schema-based%20Namespace%20Registry.htm
+END
+reginfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/reginfo.xsd
+END
+civicAddr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/civicAddr.xml
+END
+resource-lists-diff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/resource-lists-diff.xml
+END
+spirits-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/spirits-1.0.xml
+END
+xdm_rsrclst_appusage-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xdm_rsrclst_appusage-v1_0.xsd
+END
+consent-status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/consent-status.xml
+END
+patch-ops.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/patch-ops.xml
+END
+poc_pocRules-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/poc_pocRules-v1_0.xsd
+END
+kpml-response.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/kpml-response.xml
+END
+OMA-SUP-XSD_prs_pubRules-V1_0-20081223-C.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/OMA-SUP-XSD_prs_pubRules-V1_0-20081223-C.xsd
+END
+poc_pocusage-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/poc_pocusage-v1_0.xsd
+END
+msml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/msml.xml
+END
+host-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/host-1.0.xml
+END
+traceroute-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/traceroute-1.0.xml
+END
+xdm_rsrclst_uriusage-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xdm_rsrclst_uriusage-v1_0.xsd
+END
+xcon-conference-info-diff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xcon-conference-info-diff.xml
+END
+secDNS-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/secDNS-1.0.xml
+END
+geopriv10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/geopriv10.xml
+END
+xcap-caps.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/xcap-caps.xsd
+END
+cpl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/cpl.xml
+END
+enum-token-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/enum-token-1.0.xml
+END
+e164epp-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/e164epp-1.0.xml
+END
+dataProvider.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/dataProvider.xml
+END
+notification.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/notification.xml
+END
+caps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/caps.xml
+END
+cipid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/cipid.xml
+END
+ECMLv2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/ECMLv2.xml
+END
+pidf-diff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/pidf-diff.xml
+END
+im-iscomposing.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/im-iscomposing.xsd
+END
+prs_pidf_omapres-v1_0.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/prs_pidf_omapres-v1_0.xsd
+END
+lost1.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/lost1.xsd
+END
+conference-info.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/conference-info.xml
+END
+OMA-SUP-XSD_prs_presContent-V1_0-20081223-C.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/OMA-SUP-XSD_prs_presContent-V1_0-20081223-C.xsd
+END
+watcherinfo.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/watcherinfo.xsd
+END
+e164valex-1.1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/e164valex-1.1.xml
+END
+rls-services.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/schemas/rls-services.xsd
+END

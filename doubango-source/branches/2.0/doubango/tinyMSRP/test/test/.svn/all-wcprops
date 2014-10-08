@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/785/branches/2.0/doubango/tinyMSRP/test/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/test.c
+END
+test_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/781/branches/2.0/doubango/tinyMSRP/test/test/test_parser.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/781/branches/2.0/doubango/tinyMSRP/test/test/test.vcproj
+END
+test.vcproj.mamadou-PC.mamadou.user
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/test.vcproj.mamadou-PC.mamadou.user
+END
+test_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/test_uri.h
+END
+test_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/test_session.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/test/test/stdafx.c
+END

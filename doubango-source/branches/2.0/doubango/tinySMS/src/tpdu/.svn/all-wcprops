@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/src/tpdu
+END
+tsms_tpdu_status_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/src/tpdu/tsms_tpdu_status_report.c
+END
+tsms_tpdu_command.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/src/tpdu/tsms_tpdu_command.c
+END
+tsms_tpdu_submit.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/src/tpdu/tsms_tpdu_submit.c
+END
+tsms_tpdu_deliver.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/src/tpdu/tsms_tpdu_deliver.c
+END
+tsms_tpdu_report.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinySMS/src/tpdu/tsms_tpdu_report.c
+END

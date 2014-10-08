@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/872/branches/2.0/doubango/tinySAK/winrt
+END
+tinySAK.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/winrt/tinySAK.vcxproj.filters
+END
+ThreadEmulation.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/872/branches/2.0/doubango/tinySAK/winrt/ThreadEmulation.cxx
+END
+ThreadEmulation.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/winrt/ThreadEmulation.h
+END
+tinySAK.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/winrt/tinySAK.vcxproj
+END
+tinySAK.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/820/branches/2.0/doubango/tinySAK/winrt/tinySAK.sln
+END

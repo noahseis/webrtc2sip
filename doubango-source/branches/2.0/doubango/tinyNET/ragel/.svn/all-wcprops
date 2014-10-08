@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/820/branches/2.0/doubango/tinyNET/ragel
+END
+tnet_dns_regexp.rl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/774/branches/2.0/doubango/tinyNET/ragel/tnet_dns_regexp.rl
+END
+tnet_dns_resolvconf.rl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/820/branches/2.0/doubango/tinyNET/ragel/tnet_dns_resolvconf.rl
+END

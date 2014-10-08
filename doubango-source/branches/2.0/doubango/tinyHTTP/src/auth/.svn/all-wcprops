@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/auth
+END
+thttp_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/auth/thttp_auth.c
+END
+thttp_challenge.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/src/auth/thttp_challenge.c
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 102
+Debug
+Release
+tinyRTP.vcproj.mamadou-PC.mamadou.user
+*.user
+tinyRTP.ncb
+tinyRTP.suo
+winrt
+Makefile.in
+
+END

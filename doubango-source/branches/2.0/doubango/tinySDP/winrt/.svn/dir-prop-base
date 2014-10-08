@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 65
+ARM
+Debug
+tinySDP.sdf
+tinySDP.v11.suo
+tinySDP.vcxproj.user
+Win32
+
+END

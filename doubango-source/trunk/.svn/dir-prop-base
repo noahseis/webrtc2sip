@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 106
+*
+*.suo
+.metadata
+Debug
+Trash
+android
+doubango.ncb
+doubango.suo
+iLBC
+libspeexdsp
+s60
+speexdsp
+yuv2rgb_arm
+
+END

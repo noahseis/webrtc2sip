@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/sys
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/sys/stat.h
+END
+timeb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/sys/timeb.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/sys/types.h
+END

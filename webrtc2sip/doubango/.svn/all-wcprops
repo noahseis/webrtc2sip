@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/130/trunk/doubango
+END
+tinyDAV.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/doubango/tinyDAV.vcproj
+END
+tinyBFCP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/130/trunk/doubango/tinyBFCP.vcproj
+END
+tinyXCAP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/doubango/tinyXCAP.vcproj
+END
+tinySIP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/doubango/tinySIP.vcproj
+END
+tinySAK.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/doubango/tinySAK.vcproj
+END
+tinyHTTP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/doubango/tinyHTTP.vcproj
+END
+tinyMEDIA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/12/trunk/doubango/tinyMEDIA.vcproj
+END
+tinyMSRP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/doubango/tinyMSRP.vcproj
+END
+tinySIGCOMP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/12/trunk/doubango/tinySIGCOMP.vcproj
+END
+tinySMS.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/doubango/tinySMS.vcproj
+END
+tinyIPSec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/124/trunk/doubango/tinyIPSec.vcproj
+END
+tinyRTP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/doubango/tinyRTP.vcproj
+END
+tinySDP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/12/trunk/doubango/tinySDP.vcproj
+END
+tinyNET.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/130/trunk/doubango/tinyNET.vcproj
+END

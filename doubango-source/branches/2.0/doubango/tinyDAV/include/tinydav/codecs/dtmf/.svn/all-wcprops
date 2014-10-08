@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/codecs/dtmf
+END
+tdav_codec_dtmf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/include/tinydav/codecs/dtmf/tdav_codec_dtmf.h
+END

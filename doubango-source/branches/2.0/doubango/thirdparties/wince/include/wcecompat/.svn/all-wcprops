@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat
+END
+math.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/math.h
+END
+_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/_time.h
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/limits.h
+END
+assert.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/assert.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/setjmp.h
+END
+winsock_extras.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/winsock_extras.h
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/float.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/fcntl.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/string.h
+END
+conio.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/conio.h
+END
+malloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/malloc.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/io.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/memory.h
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/stddef.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/signal.h
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/process.h
+END
+stdlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/stdlib.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/stdio.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/stdarg.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/ctype.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/wince/include/wcecompat/errno.h
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 68
+ARM
+Debug
+tinyXCAP.sdf
+tinyXCAP.v11.suo
+tinyXCAP.vcxproj.user
+Win32
+
+END

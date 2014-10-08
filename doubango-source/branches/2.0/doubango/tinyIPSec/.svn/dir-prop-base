@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 107
+Debug
+Release
+tinyIPSec.vcproj.mamadou-PC.mamadou.user
+*.user
+tinyIPSec.ncb
+tinyIPSec.suo
+Makefile.in
+docs
+
+END

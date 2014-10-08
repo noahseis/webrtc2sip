@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/58/trunk/db/sqlite
+END
+sqlite3.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/53/trunk/db/sqlite/sqlite3.c
+END
+mp_db_sqlite.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/58/trunk/db/sqlite/mp_db_sqlite.cc
+END
+mp_db_sqlite.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/57/trunk/db/sqlite/mp_db_sqlite.h
+END
+sqlite3.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/53/trunk/db/sqlite/sqlite3.h
+END
+sqlite3ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/53/trunk/db/sqlite/sqlite3ext.h
+END

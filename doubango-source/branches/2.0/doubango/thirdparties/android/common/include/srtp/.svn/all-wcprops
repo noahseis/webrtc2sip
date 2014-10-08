@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp
+END
+crypto_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/crypto_math.h
+END
+alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/alloc.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/sha1.h
+END
+rdbx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/rdbx.h
+END
+aes_icm.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/aes_icm.h
+END
+ut_sim.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/ut_sim.h
+END
+cryptoalg.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/cryptoalg.h
+END
+null_cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/null_cipher.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/config.h
+END
+gf2_8.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/gf2_8.h
+END
+prng.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/prng.h
+END
+rdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/rdb.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/hmac.h
+END
+cipher.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/cipher.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/stat.h
+END
+aes_cbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/aes_cbc.h
+END
+err.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/err.h
+END
+srtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/srtp_priv.h
+END
+xfm.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/xfm.h
+END
+null_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/null_auth.h
+END
+datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/datatypes.h
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/auth.h
+END
+rand_source.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/rand_source.h
+END
+crypto_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/crypto_types.h
+END
+rtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/rtp.h
+END
+rtp_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/rtp_priv.h
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/aes.h
+END
+integers.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/integers.h
+END
+crypto_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/crypto_kernel.h
+END
+crypto.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/crypto.h
+END
+ekt.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/ekt.h
+END
+kernel_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/kernel_compat.h
+END
+getopt_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/getopt_s.h
+END
+srtp.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/srtp.h
+END
+key.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/srtp/key.h
+END

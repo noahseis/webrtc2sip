@@ -1,0 +1,156 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/win32/lib
+http://doubango.googlecode.com/svn
+
+
+
+2014-09-16T23:41:25.307280Z
+1146
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+openssl
+dir
+
+BroadVoice16
+dir
+
+speex
+dir
+
+libmingwex.a
+file
+
+
+
+
+2014-10-03T15:42:54.000000Z
+4348974b1c2d56d1f2de12c4a85b9403
+2011-04-03T16:23:01.369540Z
+559
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+279452
+
+gsm
+dir
+
+webrtc
+dir
+
+opus
+dir
+
+pthread
+dir
+
+srtp
+dir
+
+g729a
+dir
+
+g729b
+dir
+
+libgcc.a
+file
+
+
+
+
+2014-10-03T15:42:54.000000Z
+39c02d0d78f2785a6933a2ba19c69310
+2011-04-03T16:23:01.369540Z
+559
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+311100
+
+ffmpeg
+dir
+
+curl
+dir
+
+pkgconfig
+dir
+
+libxml2
+dir
+
+ilbc
+dir
+
+win-iconv
+dir
+
+libyuv
+dir
+
+opencore
+dir
+
+directshow
+dir
+
+vpx
+dir
+

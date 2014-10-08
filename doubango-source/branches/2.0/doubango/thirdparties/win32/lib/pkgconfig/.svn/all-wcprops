@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/lib/pkgconfig
+END
+opencore-amrwb.pc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/lib/pkgconfig/opencore-amrwb.pc
+END
+opencore-amrnb.pc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/lib/pkgconfig/opencore-amrnb.pc
+END
+libswscale.pc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/lib/pkgconfig/libswscale.pc
+END
+libavcodec.pc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/lib/pkgconfig/libavcodec.pc
+END
+libavutil.pc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/lib/pkgconfig/libavutil.pc
+END

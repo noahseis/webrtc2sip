@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1111/branches/2.0/doubango/tinyHTTP/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1101/branches/2.0/doubango/tinyHTTP/test/test.c
+END
+test_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1101/branches/2.0/doubango/tinyHTTP/test/test_transport.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/999/branches/2.0/doubango/tinyHTTP/test/test.vcproj
+END
+test_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/test/test_auth.h
+END
+test_url.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/test/test_url.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/test/stdafx.c
+END
+test_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1111/branches/2.0/doubango/tinyHTTP/test/test_stack.h
+END
+test_messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/999/branches/2.0/doubango/tinyHTTP/test/test_messages.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/test/droid-makefile
+END

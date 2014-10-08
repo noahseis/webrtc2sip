@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/android-utils/java
+END
+utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/android-utils/java/utils.java
+END
+utilsJNI.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/android-utils/java/utilsJNI.java
+END
+AndroidUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/android-utils/java/AndroidUtils.java
+END
+CpuFeatures_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/android-utils/java/CpuFeatures_t.java
+END
+CpuFamily_t.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/android-utils/java/CpuFamily_t.java
+END

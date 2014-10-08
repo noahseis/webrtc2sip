@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/812/branches/2.0/doubango/thirdparties/patches
+END
+ffmpeg_libx264_git.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/812/branches/2.0/doubango/thirdparties/patches/ffmpeg_libx264_git.patch
+END
+ffmpeg_libx24_svn.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/812/branches/2.0/doubango/thirdparties/patches/ffmpeg_libx24_svn.patch
+END
+0001-solve-ndk-structure-problems.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/patches/0001-solve-ndk-structure-problems.patch
+END

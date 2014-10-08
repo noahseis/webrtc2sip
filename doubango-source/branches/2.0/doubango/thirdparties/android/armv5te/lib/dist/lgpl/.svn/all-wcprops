@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libavfilter.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libavformat.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libswscale.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libswresample.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libavcodec.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1037/branches/2.0/doubango/thirdparties/android/armv5te/lib/dist/lgpl/libavdevice.a
+END

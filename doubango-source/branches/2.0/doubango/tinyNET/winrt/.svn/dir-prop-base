@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 70
+ARM
+Debug
+ipch
+tinyNET.sdf
+tinyNET.v11.suo
+tinyNET.vcxproj.user
+Win32
+
+END

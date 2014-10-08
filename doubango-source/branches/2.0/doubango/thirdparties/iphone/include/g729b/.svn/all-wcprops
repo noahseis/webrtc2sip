@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b
+END
+vad.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/vad.h
+END
+oper_32b.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/oper_32b.h
+END
+tab_ld8a.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/tab_ld8a.h
+END
+octet.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/octet.h
+END
+basic_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/basic_op.h
+END
+sid.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/sid.h
+END
+dtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/dtx.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/typedef.h
+END
+tab_dtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/tab_dtx.h
+END
+ld8a.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/iphone/include/g729b/ld8a.h
+END

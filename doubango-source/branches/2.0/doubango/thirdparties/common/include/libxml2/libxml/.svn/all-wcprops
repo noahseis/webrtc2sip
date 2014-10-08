@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml
+END
+xmlschemastypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlschemastypes.h
+END
+nanohttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/nanohttp.h
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/parser.h
+END
+xmlwriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlwriter.h
+END
+relaxng.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/relaxng.h
+END
+nanoftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/nanoftp.h
+END
+xmlversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlversion.h
+END
+debugXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/debugXML.h
+END
+xpointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xpointer.h
+END
+catalog.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/catalog.h
+END
+SAX2.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/SAX2.h
+END
+xmlsave.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlsave.h
+END
+HTMLparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/HTMLparser.h
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/dict.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/hash.h
+END
+xmlexports.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlexports.h
+END
+encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/encoding.h
+END
+xmlmemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlmemory.h
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/threads.h
+END
+SAX.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/SAX.h
+END
+xmlautomata.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlautomata.h
+END
+valid.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/valid.h
+END
+uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/uri.h
+END
+tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/tree.h
+END
+schematron.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/schematron.h
+END
+schemasInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/schemasInternals.h
+END
+xmlschemas.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlschemas.h
+END
+xpathInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xpathInternals.h
+END
+c14n.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/c14n.h
+END
+xmlmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlmodule.h
+END
+xmlunicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlunicode.h
+END
+chvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/chvalid.h
+END
+xmlerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlerror.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/list.h
+END
+xinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xinclude.h
+END
+xmlregexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlregexp.h
+END
+parserInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/parserInternals.h
+END
+pattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/pattern.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/globals.h
+END
+xmlreader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlreader.h
+END
+xpath.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xpath.h
+END
+DOCBparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/DOCBparser.h
+END
+HTMLtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/HTMLtree.h
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/entities.h
+END
+xlink.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xlink.h
+END
+xmlstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlstring.h
+END
+xmlIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1045/branches/2.0/doubango/thirdparties/common/include/libxml2/libxml/xmlIO.h
+END

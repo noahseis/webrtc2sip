@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec
+END
+old_codec_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/old_codec_ids.h
+END
+vda.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/vda.h
+END
+xvmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/xvmc.h
+END
+vdpau.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/vdpau.h
+END
+vaapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/vaapi.h
+END
+dxva2.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/dxva2.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/version.h
+END
+avfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavcodec/avfft.h
+END

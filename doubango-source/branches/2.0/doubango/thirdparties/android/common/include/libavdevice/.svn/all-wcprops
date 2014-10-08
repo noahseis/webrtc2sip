@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavdevice
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavdevice/version.h
+END
+avdevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavdevice/avdevice.h
+END

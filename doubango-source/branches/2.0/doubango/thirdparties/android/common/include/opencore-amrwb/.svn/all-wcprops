@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/opencore-amrwb
+END
+dec_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/opencore-amrwb/dec_if.h
+END
+if_rom.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/opencore-amrwb/if_rom.h
+END

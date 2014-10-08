@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil
+END
+parseutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/parseutils.h
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/adler32.h
+END
+avconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/avconfig.h
+END
+imgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/imgutils.h
+END
+avstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/avstring.h
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/mathematics.h
+END
+pixdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/pixdesc.h
+END
+audioconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/audioconvert.h
+END
+timestamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/timestamp.h
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/avutil.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/crc.h
+END
+pixfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/pixfmt.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/hmac.h
+END
+lfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/lfg.h
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/sha.h
+END
+random_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/random_seed.h
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/dict.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/md5.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/attributes.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/intfloat_readwrite.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/cpu.h
+END
+avassert.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/avassert.h
+END
+timecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/timecode.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/error.h
+END
+bprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/bprint.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/time.h
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/intreadwrite.h
+END
+xtea.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/xtea.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/opt.h
+END
+audio_fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/audio_fifo.h
+END
+channel_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/channel_layout.h
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/aes.h
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/rational.h
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/bswap.h
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/blowfish.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/mem.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/file.h
+END
+intfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/intfloat.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/log.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/fifo.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/base64.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/version.h
+END
+old_pix_fmts.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/old_pix_fmts.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/eval.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/common.h
+END
+samplefmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavutil/samplefmt.h
+END

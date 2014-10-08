@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyXCAP
+END
+tinyXCAP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1065/branches/2.0/doubango/tinyXCAP/tinyXCAP.vcproj
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/footer.html
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/Doxyfile
+END
+tinyXCAP.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/898/branches/2.0/doubango/tinyXCAP/tinyXCAP.pc.in
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyXCAP/version.rc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1027/branches/2.0/doubango/tinyXCAP/Makefile.am
+END
+tinyXCAP.tag
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/tinyXCAP.tag
+END
+installdox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/installdox.sh
+END
+tinyXCAP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/tinyXCAP.sln
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/header.html
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/droid-makefile
+END

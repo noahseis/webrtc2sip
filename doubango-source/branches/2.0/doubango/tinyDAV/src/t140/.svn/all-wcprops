@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/776/branches/2.0/doubango/tinyDAV/src/t140
+END
+tdav_consumer_t140.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/t140/tdav_consumer_t140.c
+END
+tdav_session_t140.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/776/branches/2.0/doubango/tinyDAV/src/t140/tdav_session_t140.c
+END
+tdav_producer_t140.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/t140/tdav_producer_t140.c
+END

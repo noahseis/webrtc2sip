@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1148/branches/2.0/doubango/bindings
+END
+tinyWRAP.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1027/branches/2.0/doubango/bindings/tinyWRAP.pc.in
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1130/branches/2.0/doubango/bindings/version.rc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1027/branches/2.0/doubango/bindings/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/797/branches/2.0/doubango/bindings/autogen.sh
+END

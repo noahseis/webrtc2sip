@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api
+END
+tsip_api_publish.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_publish.c
+END
+tsip_api_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_common.c
+END
+tsip_api_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_info.c
+END
+tsip_api_options.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_options.c
+END
+tsip_api_invite.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_invite.c
+END
+tsip_api_subscribe.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_subscribe.c
+END
+tsip_api_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_message.c
+END
+tsip_api_register.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/api/tsip_api_register.c
+END

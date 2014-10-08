@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers
+END
+thttp_header_Sec_WebSocket_Accept.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Sec_WebSocket_Accept.h
+END
+thttp_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header.h
+END
+thttp_header_ETag.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_ETag.h
+END
+thttp_header_Authorization.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Authorization.h
+END
+thttp_header_Sec_WebSocket_Protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Sec_WebSocket_Protocol.h
+END
+thttp_header_WWW_Authenticate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_WWW_Authenticate.h
+END
+thttp_header_Sec_WebSocket_Version.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Sec_WebSocket_Version.h
+END
+thttp_header_Sec_WebSocket_Key.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Sec_WebSocket_Key.h
+END
+thttp_header_Transfer_Encoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Transfer_Encoding.h
+END
+thttp_header_Dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Dummy.h
+END
+thttp_header_Content_Length.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Content_Length.h
+END
+thttp_header_Content_Type.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/include/tinyhttp/headers/thttp_header_Content_Type.h
+END

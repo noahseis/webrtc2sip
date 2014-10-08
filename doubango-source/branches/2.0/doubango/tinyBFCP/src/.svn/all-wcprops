@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1127/branches/2.0/doubango/tinyBFCP/src
+END
+tbfcp_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1123/branches/2.0/doubango/tinyBFCP/src/tbfcp_utils.c
+END
+tbfcp_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1127/branches/2.0/doubango/tinyBFCP/src/tbfcp_session.c
+END
+tbfcp_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1111/branches/2.0/doubango/tinyBFCP/src/tbfcp_attr.c
+END
+tbfcp_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1127/branches/2.0/doubango/tinyBFCP/src/tbfcp_pkt.c
+END

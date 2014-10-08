@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/tls
+END
+tnet_dtls.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/tls/tnet_dtls.c
+END
+tnet_tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/869/branches/2.0/doubango/tinyNET/src/tls/tnet_tls.h
+END
+tnet_dtls.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/tls/tnet_dtls.h
+END
+tnet_tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/834/branches/2.0/doubango/tinyNET/src/tls/tnet_tls.c
+END

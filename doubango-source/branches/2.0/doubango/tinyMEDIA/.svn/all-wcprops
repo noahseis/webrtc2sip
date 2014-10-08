@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1148/branches/2.0/doubango/tinyMEDIA
+END
+ragel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/ragel.sh
+END
+tinyMEDIA.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1014/branches/2.0/doubango/tinyMEDIA/tinyMEDIA.vcproj
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyMEDIA/version.rc
+END
+tinyMEDIA.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/898/branches/2.0/doubango/tinyMEDIA/tinyMEDIA.pc.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1027/branches/2.0/doubango/tinyMEDIA/Makefile.am
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/droid-makefile
+END
+tinyMEDIA.sln
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/tinyMEDIA.sln
+END

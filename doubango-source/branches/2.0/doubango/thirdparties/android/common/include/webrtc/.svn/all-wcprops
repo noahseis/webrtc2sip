@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc
+END
+echo_cancellation.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/echo_cancellation.h
+END
+noise_suppression_x.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/noise_suppression_x.h
+END
+gain_control.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/gain_control.h
+END
+spl_inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/spl_inl.h
+END
+audio_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/audio_device.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/typedefs.h
+END
+echo_control_mobile.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/echo_control_mobile.h
+END
+noise_suppression.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/webrtc/noise_suppression.h
+END

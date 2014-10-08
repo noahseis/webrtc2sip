@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1019/branches/2.0/doubango/thirdparties/iphone/lib/armv6
+END
+libavformat-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavformat-lgpl.a
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavfilter.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavformat.a
+END
+libopencore-amrwb.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libopencore-amrwb.a
+END
+libavdevice-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavdevice-lgpl.a
+END
+libtheora.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libtheora.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libswresample.a
+END
+libyuv.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/738/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libyuv.a
+END
+libspeex.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libspeex.a
+END
+libsrtp.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/687/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libsrtp.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavcodec.a
+END
+libvorbis.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libvorbis.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavutil.a
+END
+libopencore-amrnb.a
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libopencore-amrnb.a
+END
+libavfilter-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavfilter-lgpl.a
+END
+libpostproc.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libpostproc.a
+END
+libavcore-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/592/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavcore-lgpl.a
+END
+libogg.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libogg.a
+END
+libvpx.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/743/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libvpx.a
+END
+libswresample-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libswresample-lgpl.a
+END
+libavcore.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/592/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavcore.a
+END
+libopus.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/885/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libopus.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavdevice.a
+END
+libgsm.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libgsm.a
+END
+libg729b.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/604/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libg729b.a
+END
+libspeexdsp.a
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libspeexdsp.a
+END
+libswscale-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libswscale-lgpl.a
+END
+libavutil-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavutil-lgpl.a
+END
+libavcodec-lgpl.a
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libavcodec-lgpl.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libswscale.a
+END
+libx264.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/659/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libx264.a
+END
+libvorbisfile.a
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libvorbisfile.a
+END
+libtheoraenc.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/575/branches/2.0/doubango/thirdparties/iphone/lib/armv6/libtheoraenc.a
+END

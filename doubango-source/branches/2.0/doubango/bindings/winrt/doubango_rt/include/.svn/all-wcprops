@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1069/branches/2.0/doubango/bindings/winrt/doubango_rt/include
+END
+rt_Enums.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1069/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_Enums.h
+END
+rt_MediaSessionMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/871/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_MediaSessionMgr.h
+END
+rt_DDebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_DDebug.h
+END
+rt_Xcap.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_Xcap.h
+END
+rt_SipEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SipEvent.h
+END
+rt_SipSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SipSession.h
+END
+rt_SipMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SipMessage.h
+END
+rt_SMSEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SMSEncoder.h
+END
+rt_ActionConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_ActionConfig.h
+END
+rt_Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_Config.h
+END
+rt_String.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_String.h
+END
+rt_SipCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SipCallback.h
+END
+rt_MediaContent.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_MediaContent.h
+END
+rt_SipUri.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SipUri.h
+END
+rt_Msrp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_Msrp.h
+END
+rt_SipStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/branches/2.0/doubango/bindings/winrt/doubango_rt/include/rt_SipStack.h
+END

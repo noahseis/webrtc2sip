@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms
+END
+rp-data-ntoms-format.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/rp-data-ntoms-format.PNG
+END
+rp-data-mston-format.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/rp-data-mston-format.PNG
+END
+gsm_alphabet_7bits.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/gsm_alphabet_7bits.PNG
+END
+sms-over-ip-sender.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/sms-over-ip-sender.PNG
+END
+sip_register.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/sip_register.PNG
+END
+sms-over-ip-receiver.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/sms-over-ip-receiver.PNG
+END
+rp-ack-format.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/rp-ack-format.PNG
+END
+rp-data-submit.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/rp-data-submit.PNG
+END
+sip_sms-over-ip-sender.PNG
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/552/branches/2.0/doubango/images/sms/sip_sms-over-ip-sender.PNG
+END

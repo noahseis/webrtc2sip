@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 45
+Debug
+*.user
+Release
+*.ncb
+*.suo
+Makefile.in
+
+END

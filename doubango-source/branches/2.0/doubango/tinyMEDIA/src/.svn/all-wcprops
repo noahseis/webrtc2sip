@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1145/branches/2.0/doubango/tinyMEDIA/src
+END
+tmedia_codec.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyMEDIA/src/tmedia_codec.c
+END
+tmedia_imageattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMEDIA/src/tmedia_imageattr.c
+END
+tmedia.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/src/tmedia.c
+END
+tmedia_producer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/801/branches/2.0/doubango/tinyMEDIA/src/tmedia_producer.c
+END
+tmedia_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1136/branches/2.0/doubango/tinyMEDIA/src/tmedia_session.c
+END
+tmedia_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/776/branches/2.0/doubango/tinyMEDIA/src/tmedia_params.c
+END
+tmedia_denoise.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1071/branches/2.0/doubango/tinyMEDIA/src/tmedia_denoise.c
+END
+tmedia_session_ghost.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1065/branches/2.0/doubango/tinyMEDIA/src/tmedia_session_ghost.c
+END
+tmedia_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1071/branches/2.0/doubango/tinyMEDIA/src/tmedia_common.c
+END
+tmedia_codec_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/src/tmedia_codec_dummy.c
+END
+tmedia_resampler.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1071/branches/2.0/doubango/tinyMEDIA/src/tmedia_resampler.c
+END
+tmedia_jitterbuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/957/branches/2.0/doubango/tinyMEDIA/src/tmedia_jitterbuffer.c
+END
+tmedia_consumer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/898/branches/2.0/doubango/tinyMEDIA/src/tmedia_consumer.c
+END
+tmedia_converter_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/947/branches/2.0/doubango/tinyMEDIA/src/tmedia_converter_video.c
+END
+tmedia_session_dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/src/tmedia_session_dummy.c
+END
+tmedia_qos.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/776/branches/2.0/doubango/tinyMEDIA/src/tmedia_qos.c
+END
+tmedia_defaults.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1145/branches/2.0/doubango/tinyMEDIA/src/tmedia_defaults.c
+END
+tmedia_vad.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/src/tmedia_vad.c
+END

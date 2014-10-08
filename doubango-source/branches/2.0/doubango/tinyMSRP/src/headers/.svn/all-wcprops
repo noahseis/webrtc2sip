@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers
+END
+tmsrp_header_Max-Expires.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Max-Expires.c
+END
+tmsrp_header_Authentication-Info.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Authentication-Info.c
+END
+tmsrp_header_To-Path.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_To-Path.c
+END
+tmsrp_header_Message-ID.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Message-ID.c
+END
+tmsrp_header_Expires.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Expires.c
+END
+tmsrp_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header.c
+END
+tmsrp_header_Success-Report.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/774/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Success-Report.c
+END
+tmsrp_header_Status.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Status.c
+END
+tmsrp_header_Use-Path.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Use-Path.c
+END
+tmsrp_header_Content-Type.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Content-Type.c
+END
+tmsrp_header_Dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Dummy.c
+END
+tmsrp_header_Byte-Range.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Byte-Range.c
+END
+tmsrp_header_From-Path.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_From-Path.c
+END
+tmsrp_header_Min-Expires.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Min-Expires.c
+END
+tmsrp_header_Failure-Report.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/774/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Failure-Report.c
+END
+tmsrp_header_WWW-Authenticate.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_WWW-Authenticate.c
+END
+tmsrp_header_Authorization.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/src/headers/tmsrp_header_Authorization.c
+END

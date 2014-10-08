@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libswresample
+END
+swresample.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libswresample/swresample.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libswresample/version.h
+END

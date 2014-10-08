@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 71
+ARM
+Debug
+tinyMEDIA.sdf
+tinyMEDIA.v11.suo
+tinyMEDIA.vcxproj.user
+Win32
+
+END

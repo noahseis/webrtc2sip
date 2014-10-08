@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/stdafx.h
+END
+test_ifaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_ifaces.h
+END
+test_transport.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_transport.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/test/test.vcproj
+END
+test_ice.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/test/test_ice.h
+END
+test_auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_auth.h
+END
+test_tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_tls.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/targetver.h
+END
+test_dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_dhcp6.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/test/test.c
+END
+test_sockets.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_sockets.h
+END
+test_dhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_dhcp.h
+END
+test_nat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/test/test_nat.h
+END
+test_dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/test_dns.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1075/branches/2.0/doubango/tinyNET/test/stdafx.c
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinyNET/test/droid-makefile
+END
+test_stun.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/test/test_stun.h
+END

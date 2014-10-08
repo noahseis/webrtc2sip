@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 23
+*.ncb
+*.suo
+*.user
+obj
+
+END

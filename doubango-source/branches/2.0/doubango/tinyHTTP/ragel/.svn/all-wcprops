@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/ragel
+END
+thttp_parser_header_Sec_WebSocket_Accept.rl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Sec_WebSocket_Accept.rl
+END
+thttp_machine_utils.rl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/ragel/thttp_machine_utils.rl
+END
+thttp_parser_header_Authorization.rl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Authorization.rl
+END
+thttp_parser_header_Sec_WebSocket_Protocol.rl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Sec_WebSocket_Protocol.rl
+END
+thttp_parser_header_Content_Type.rl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Content_Type.rl
+END
+thttp_parser_header_Content_Length.rl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Content_Length.rl
+END
+thttp_parser_message.rl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/774/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_message.rl
+END
+thttp_parser_header_ETag.rl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_ETag.rl
+END
+thttp_parser_header.rl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/774/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header.rl
+END
+thttp_parser_header_WWW_Authenticate.rl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_WWW_Authenticate.rl
+END
+thttp_machine_message.rl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/ragel/thttp_machine_message.rl
+END
+thttp_parser_header_Sec_WebSocket_Version.rl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Sec_WebSocket_Version.rl
+END
+thttp_machine_header.rl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/ragel/thttp_machine_header.rl
+END
+thttp_parser_header_Sec_WebSocket_Key.rl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Sec_WebSocket_Key.rl
+END
+thttp_machine_ws.rl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/ragel/thttp_machine_ws.rl
+END
+thttp_parser_url.rl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_url.rl
+END
+thttp_parser_header_Transfer_Encoding.rl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Transfer_Encoding.rl
+END
+thttp_parser_header_Dummy.rl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/820/branches/2.0/doubango/tinyHTTP/ragel/thttp_parser_header_Dummy.rl
+END

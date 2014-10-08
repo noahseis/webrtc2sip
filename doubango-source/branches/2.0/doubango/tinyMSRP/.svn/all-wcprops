@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyMSRP
+END
+tinyMSRP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/tinyMSRP.sln
+END
+ragel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/ragel.sh
+END
+tinyMSRP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1065/branches/2.0/doubango/tinyMSRP/tinyMSRP.vcproj
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyMSRP/version.rc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1027/branches/2.0/doubango/tinyMSRP/Makefile.am
+END
+tinyMSRP.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/898/branches/2.0/doubango/tinyMSRP/tinyMSRP.pc.in
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/droid-makefile
+END

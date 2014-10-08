@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter
+END
+avfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/avfilter.h
+END
+buffersink.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/buffersink.h
+END
+avfiltergraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/avfiltergraph.h
+END
+buffersrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/buffersrc.h
+END
+asrc_abuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/asrc_abuffer.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/libavfilter/version.h
+END

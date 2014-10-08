@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 89
+Debug
+Release
+tinySAK.vcproj.mamadou-PC.mamadou.user
+*.user
+*.suo
+*.ncb
+Makefile.in
+docs
+
+END

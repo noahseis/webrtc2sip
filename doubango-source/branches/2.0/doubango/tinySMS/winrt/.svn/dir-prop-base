@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 65
+ARM
+Debug
+tinySMS.sdf
+tinySMS.v11.suo
+tinySMS.vcxproj.user
+Win32
+
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1150/branches/2.0/doubango/tinyDAV
+END
+tinyDAV.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1150/branches/2.0/doubango/tinyDAV/tinyDAV.vcproj
+END
+tinyDAV.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1147/branches/2.0/doubango/tinyDAV/tinyDAV.pc.in
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyDAV/version.rc
+END
+tinyDAV.sln
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyDAV/tinyDAV.sln
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1147/branches/2.0/doubango/tinyDAV/Makefile.am
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1012/branches/2.0/doubango/tinyDAV/droid-makefile
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1071/branches/2.0/doubango/tinyXCAP/src
+END
+txcap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/src/txcap.c
+END
+txcap_selector.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/src/txcap_selector.c
+END
+txcap_auid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/src/txcap_auid.c
+END
+txcap_node.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1071/branches/2.0/doubango/tinyXCAP/src/txcap_node.c
+END
+txcap_action.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/src/txcap_action.c
+END
+txcap_document.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/src/txcap_document.c
+END

@@ -1,0 +1,15 @@
+K 13
+svn:externals
+V 83
+http://doubango.googlecode.com/svn/branches/2.0/doubango/bindings/_common tinywrap
+
+K 10
+svn:ignore
+V 46
+*.ncb
+*.suo
+*.user
+Debug
+_UpgradeReport_Files
+
+END

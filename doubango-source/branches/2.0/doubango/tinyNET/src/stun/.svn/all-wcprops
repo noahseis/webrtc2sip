@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1114/branches/2.0/doubango/tinyNET/src/stun
+END
+tnet_stun_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1089/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_pkt.c
+END
+tnet_stun_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_utils.c
+END
+tnet_stun_attribute.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_attribute.c
+END
+tnet_stun_pkt.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_pkt.h
+END
+tnet_stun_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_utils.h
+END
+tnet_stun_attribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_attribute.h
+END
+tnet_stun_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_types.h
+END
+tnet_stun_attr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1087/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_attr.c
+END
+tnet_stun_binding.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_binding.c
+END
+tnet_stun_binding.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1087/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_binding.h
+END
+tnet_stun_attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1082/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_attr.h
+END
+tnet_stun.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun.c
+END
+tnet_stun_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_message.c
+END
+tnet_stun.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun.h
+END
+AStyle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1114/branches/2.0/doubango/tinyNET/src/stun/AStyle.sh
+END
+tnet_stun_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyNET/src/stun/tnet_stun_message.h
+END

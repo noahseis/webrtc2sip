@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginDirectShow/internals
+END
+DSOutputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1062/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSOutputFilter.h
+END
+DSBufferWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSBufferWriter.h
+END
+DSDisplayOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplayOverlay.h
+END
+Resizer.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1062/branches/2.0/doubango/plugins/pluginDirectShow/internals/Resizer.cxx
+END
+DSUtils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSUtils.cxx
+END
+DSCaptureFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSCaptureFormat.h
+END
+DSScreenCastGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1063/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSScreenCastGraph.h
+END
+DSGrabber.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1062/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSGrabber.cxx
+END
+DSDisplay.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplay.cxx
+END
+VideoGrabberName.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/VideoGrabberName.cxx
+END
+VideoDisplayName.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/VideoDisplayName.cxx
+END
+DSCaptureGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1062/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSCaptureGraph.h
+END
+DSFrameRateFilter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSFrameRateFilter.cxx
+END
+DSOutputStream.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1134/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSOutputStream.cxx
+END
+Resizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1062/branches/2.0/doubango/plugins/pluginDirectShow/internals/Resizer.h
+END
+DSCaptureUtils.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSCaptureUtils.cxx
+END
+DSUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSUtils.h
+END
+DSDisplayGraph.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplayGraph.cxx
+END
+DSGrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1064/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSGrabber.h
+END
+DSDisplay.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplay.h
+END
+DSPushSourceDesktop.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1064/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSPushSourceDesktop.cxx
+END
+VideoGrabberName.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/VideoGrabberName.h
+END
+VideoDisplayName.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/VideoDisplayName.h
+END
+DSDibHelper.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1064/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDibHelper.cxx
+END
+DSOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSOutputStream.h
+END
+DSFrameRateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSFrameRateFilter.h
+END
+DSDisplayOverlay.VMR9.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplayOverlay.VMR9.cxx
+END
+DSBaseCaptureGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1063/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSBaseCaptureGraph.h
+END
+DSOutputFilter.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1062/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSOutputFilter.cxx
+END
+DSDisplayOverlay.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplayOverlay.cxx
+END
+DSCaptureUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSCaptureUtils.h
+END
+DSDisplayOverlay.VMR.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplayOverlay.VMR.cxx
+END
+DSDisplayGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDisplayGraph.h
+END
+DSScreenCastGraph.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSScreenCastGraph.cxx
+END
+DSCaptureFormat.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSCaptureFormat.cxx
+END
+VideoFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/912/branches/2.0/doubango/plugins/pluginDirectShow/internals/VideoFrame.h
+END
+DSDibHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1063/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSDibHelper.h
+END
+DSCaptureGraph.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSCaptureGraph.cxx
+END
+DSPushSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1063/branches/2.0/doubango/plugins/pluginDirectShow/internals/DSPushSource.h
+END

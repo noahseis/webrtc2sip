@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1131/branches/2.0/doubango/tinyBFCP
+END
+tinyBFCP.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1065/branches/2.0/doubango/tinyBFCP/tinyBFCP.vcproj
+END
+tinyBFCP.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyBFCP/tinyBFCP.pc.in
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1130/branches/2.0/doubango/tinyBFCP/version.rc
+END
+tinyBFCP.sln
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1054/branches/2.0/doubango/tinyBFCP/tinyBFCP.sln
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyBFCP/Makefile.am
+END
+AStyle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1054/branches/2.0/doubango/tinyBFCP/AStyle.sh
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1142/branches/2.0/doubango/tinyRTP/src
+END
+trtp_srtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyRTP/src/trtp_srtp.c
+END
+trtp_manager.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1142/branches/2.0/doubango/tinyRTP/src/trtp_manager.c
+END
+trtp.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/765/branches/2.0/doubango/tinyRTP/src/trtp.c
+END

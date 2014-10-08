@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/src/parsers
+END
+thttp_parser_url.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/src/parsers/thttp_parser_url.c
+END
+thttp_parser_message.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/826/branches/2.0/doubango/tinyHTTP/src/parsers/thttp_parser_message.c
+END
+thttp_parser_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/774/branches/2.0/doubango/tinyHTTP/src/parsers/thttp_parser_header.c
+END

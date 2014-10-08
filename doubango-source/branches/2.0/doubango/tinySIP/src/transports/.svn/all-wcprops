@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1050/branches/2.0/doubango/tinySIP/src/transports
+END
+tsip_transport_ipsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1012/branches/2.0/doubango/tinySIP/src/transports/tsip_transport_ipsec.c
+END
+tsip_transport_layer.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1050/branches/2.0/doubango/tinySIP/src/transports/tsip_transport_layer.c
+END
+tsip_transport.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1050/branches/2.0/doubango/tinySIP/src/transports/tsip_transport.c
+END
+tsip_transport_tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/src/transports/tsip_transport_tls.c
+END

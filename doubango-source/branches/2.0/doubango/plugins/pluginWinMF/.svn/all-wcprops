@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF
+END
+plugin_win_mf_consumer_video.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_consumer_video.cxx
+END
+pluginWinMF.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginWinMF/pluginWinMF.vcproj
+END
+plugin_win_mf_producer_audio.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/951/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_producer_audio.cxx
+END
+dllmain_mf.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/dllmain_mf.cxx
+END
+plugin_win_mf_producer_video.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_producer_video.cxx
+END
+plugin_win_mf_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/933/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_config.h
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWinMF/version.rc
+END
+plugin_win_mf_consumer_audio.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/919/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_consumer_audio.cxx
+END
+plugin_win_mf_converter_video.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1150/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_converter_video.cxx
+END
+plugin_win_mf_tdav.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/936/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_tdav.cxx
+END
+plugin_win_mf_codec_h264.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/993/branches/2.0/doubango/plugins/pluginWinMF/plugin_win_mf_codec_h264.cxx
+END

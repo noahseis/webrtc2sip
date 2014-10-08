@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyDAV/src/codecs/msrp
+END
+tdav_codec_msrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1062/branches/2.0/doubango/tinyDAV/src/codecs/msrp/tdav_codec_msrp.c
+END

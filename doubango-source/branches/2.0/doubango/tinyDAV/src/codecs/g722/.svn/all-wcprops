@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/948/branches/2.0/doubango/tinyDAV/src/codecs/g722
+END
+g722_encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/codecs/g722/g722_encode.c
+END
+g722_decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/765/branches/2.0/doubango/tinyDAV/src/codecs/g722/g722_decode.c
+END
+tdav_codec_g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/948/branches/2.0/doubango/tinyDAV/src/codecs/g722/tdav_codec_g722.c
+END

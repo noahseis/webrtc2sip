@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon
+END
+basop32.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon/basop32.h
+END
+memutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon/memutil.h
+END
+typedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon/typedef.h
+END
+bvcommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon/bvcommon.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon/utility.h
+END
+mathutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bvcommon/mathutil.h
+END

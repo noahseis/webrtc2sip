@@ -1,0 +1,297 @@
+APP := lib$(PROJECT)_$(MARCH).$(EXT)
+
+THIRDPARTIES_INC := ../thirdparties/android/include
+THIRDPARTIES_INC_COMMON := ../thirdparties/common/include
+THIRDPARTIES_LIB := ../thirdparties/android/lib
+THIRDPARTIES_MARCH_LIB := ../thirdparties/android/lib/$(MARCH)
+
+##########
+# Before starting to set parmeters we will override those provided by the user
+#
+
+ifeq ($(LICENSE),lgpl)
+	H264 := no
+endif
+
+
+##########
+# Set LD and CFLAGS according to the user parameters
+#
+
+# FFMPEG (Default: enabled)
+ifeq ($(FFMPEG), no)
+	FFMPEG_CFLAGS := -DHAVE_FFMPEG=0
+	FFMPEG_LDFLAGS :=
+else
+	FFMPEG_CFLAGS := -DHAVE_FFMPEG=1
+	FFMPEG_LDFLAGS := -lavutil-$(LICENSE) -lswscale-$(LICENSE) -lavcore-$(LICENSE) -lavcodec-$(LICENSE)
+endif
+# LibYUV (Default: enabled)
+ifeq ($(LIBYUV), no)
+	LIBYUV_CFLAGS := -DHAVE_LIBYUV=0
+	LIBYUV_LDFLAGS := 
+else
+	LIBYUV_CFLAGS := -DHAVE_LIBYUV=1 -I$(THIRDPARTIES_INC_COMMON)/libyuv
+	LIBYUV_LDFLAGS := -lyuv_$(MARCH)
+endif
+# H264 (Default: enabled)
+ifeq ($(H264),no) # TODO: should depend on FFMPEG
+	FFMPEG_CFLAGS := $(FFMPEG_CFLAGS) -DHAVE_H264=0
+else
+	FFMPEG_CFLAGS := $(FFMPEG_CFLAGS) -DHAVE_H264=1
+	FFMPEG_LDFLAGS := $(FFMPEG_LDFLAGS) -lx264
+endif
+# THEORA (Default: enabled)
+ifeq ($(THEORA),no) # TODO: should depend on FFMPEG
+	FFMPEG_CFLAGS := $(FFMPEG_CFLAGS) -DHAVE_THEORA=0
+else
+	FFMPEG_CFLAGS := $(FFMPEG_CFLAGS) -DHAVE_THEORA=1
+	FFMPEG_LDFLAGS := $(FFMPEG_LDFLAGS) -ltheora -logg
+endif
+# VP8 (Default: disabled because of NEON)
+ifeq ($(VPX),yes)
+	VPX_CFLAGS := -DHAVE_LIBVPX=1
+	VPX_LDFLAGS := -lvpx_$(MARCH)
+	
+else
+	VPX_CFLAGS := -DHAVE_LIBVPX=0
+endif
+
+# OPUS (Default: enabled)
+ifeq ($(OPUS), no)
+	OPUS_CFLAGS := -DHAVE_LIBOPUS=0
+else
+	OPUS_CFLAGS := -DHAVE_LIBOPUS=1
+	OPUS_LDFLAGS := -lopus
+endif
+
+# AMR (Default: enabled)
+ifeq ($(OPENCORE_AMR), no)
+	OPENCORE_AMR_CFLAGS := -DHAVE_OPENCORE_AMR=0
+else
+	OPENCORE_AMR_CFLAGS := -DHAVE_OPENCORE_AMR=1
+	OPENCORE_AMR_LDFLAGS := -lopencore-amrnb
+endif
+
+# SPEEX_DSP (Default: disabled)
+ifeq ($(SPEEX_DSP), yes)
+	SPEEX_DSP_CFLAGS := -DHAVE_SPEEX_DSP=1
+	SPEEX_DSP_LDFLAGS := -lspeexdsp
+		# Speex audio resampler (Default: enabled)
+		ifneq ($(SPEEX_RESAMPLER), no)
+			SPEEX_DSP_CFLAGS := $(SPEEX_DSP_CFLAGS) -DHAVE_SPEEX_RESAMPLER=1
+		else
+			SPEEX_DSP_CFLAGS := $(SPEEX_DSP_CFLAGS) -DHAVE_SPEEX_RESAMPLER=0
+		endif
+		# Speex audio/video jitterbuffer (Default: enabled)
+		ifneq ($(SPEEX_JB), no)
+			SPEEX_DSP_CFLAGS := $(SPEEX_DSP_CFLAGS) -DHAVE_SPEEX_JB=1
+		else
+			SPEEX_DSP_CFLAGS := $(SPEEX_DSP_CFLAGS) -DHAVE_SPEEX_JB=0
+		endif
+		# Speex audio denoiser (Default: disabled)
+		ifeq ($(SPEEX_DENOISE), yes)
+			SPEEX_DSP_CFLAGS := $(SPEEX_DSP_CFLAGS) -DHAVE_SPEEX_DENOISE=1
+		else
+			SPEEX_DSP_CFLAGS := $(SPEEX_DSP_CFLAGS) -DHAVE_SPEEX_DENOISE=0
+		endif
+else
+	SPEEX_DSP_CFLAGS := -DHAVE_SPEEX_DSP=0
+endif
+
+# SPEEX (Default: disabled)
+ifeq ($(SPEEX), yes)
+	SPEEX_CFLAGS := -DHAVE_LIB_SPEEX=1
+	SPEEX_LDFLAGS := -lspeex
+else
+	SPEEX_CFLAGS := -DHAVE_LIB_SPEEX=0
+endif
+
+# Google WebRTC (Default: enabled)
+ifeq ($(WEBRTC), yes)
+	WEBRTC_CFLAGS := -DHAVE_WEBRTC=1
+	WEBRTC_LDFLAGS := -lwebrtc_aec_$(MARCH) -lwebrtc_spl_$(MARCH) -lwebrtc_apm_utility_$(MARCH) -lwebrtc_nsx_$(MARCH) -lwebrtc_system_wrappers_$(MARCH)
+else
+	WEBRTC_CFLAGS := -DHAVE_WEBRTC=0
+endif
+
+ifeq ($(WEBRTC_DENOISE), yes)
+	WEBRTC_CFLAGS += -DHAVE_WEBRTC_DENOISE=1
+endif
+
+
+# ILBC (Default: disabled)
+ifeq ($(ILBC), yes)
+	ILBC_CFLAGS := -DHAVE_ILBC=1
+	ILBC_LDFLAGS := -liLBC
+else
+	ILBC_CFLAGS := -DHAVE_ILBC=0
+endif
+
+# GSM (Default: enabled)
+ifeq ($(LIBGSM),no)
+	LIBGSM_CFLAGS := -DHAVE_LIBGSM=0
+else
+	LIBGSM_CFLAGS := -DHAVE_LIBGSM=1
+	LIBGSM_LDFLAGS := -lgsm
+endif
+
+# BV16 (Always disabled)
+#BV16_CFLAGS := -DHAVE_BV16=0 -I$(THIRDPARTIES_INC)/BroadVoice16/bv16 -I$(THIRDPARTIES_INC)/BroadVoice16/bvcommon
+#BV16_LDFLAGS := -lbv16
+
+# G.729 (Default: Disabled)
+ifeq ($(G729), yes)
+	G729_CFLAGS := -DHAVE_G729=1 -DG729_ENABLE_VAD=0 -D__unix__
+	G729_LDFLAGS := -lg729b_$(MARCH)
+	
+	# Reset all other ITU CODECS
+	OPENCORE_AMR_CFLAGS := -DHAVE_OPENCORE_AMR=0
+	OPENCORE_AMR_LDFLAGS :=
+	BV16_CFLAGS := -DHAVE_BV16=0
+	BV16_LDFLAGS :=
+else
+	G729_CFLAGS := -DHAVE_G729=0
+	G729_LDFLAGS :=
+endif
+
+# SRTP (Default: enabled)
+ifeq ($(SRTP),no)
+	LIBSRTP_CFLAGS := -DHAVE_SRTP=0
+else
+	LIBSRTP_CFLAGS := -DHAVE_SRTP=1
+	LIBSRTP_LDFLAGS := -lsrtp
+endif
+
+
+################################
+
+CFLAGS := $(CFLAGS_LIB) -I$(THIRDPARTIES_INC) -I$(THIRDPARTIES_INC_COMMON) $(ILBC_CFLAGS) $(LIBGSM_CFLAGS) \
+	$(FFMPEG_CFLAGS) $(LIBYUV_CFLAGS) $(VPX_CFLAGS) $(SPEEX_CFLAGS) $(SPEEX_DSP_CFLAGS) $(WEBRTC_CFLAGS) $(OPUS_CFLAGS) $(OPENCORE_AMR_CFLAGS) $(BV16_CFLAGS) $(G729_CFLAGS) \
+	$(LIBSRTP_CFLAGS) \
+	-I../tinySAK/src -I../tinyNET/src -I../tinyIPSec/src -I../tinySDP/include -I../tinyRTP/include -I../tinyMEDIA/include -I../tinyMSRP/include -I./include \
+	-DJB_HISTORY_SIZE=500
+	
+LDFLAGS := $(LDFLAGS_LIB) -L$(THIRDPARTIES_LIB) -L$(THIRDPARTIES_MARCH_LIB) \
+	 $(FFMPEG_LDFLAGS) $(LIBYUV_LDFLAGS) $(VPX_LDFLAGS) $(SPEEX_LDFLAGS) $(SPEEX_DSP_LDFLAGS) $(WEBRTC_LDFLAGS) $(OPUS_LDFLAGS) $(OPENCORE_AMR_LDFLAGS) $(ILBC_LDFLAGS) $(LIBGSM_LDFLAGS) $(BV16_LDFLAGS) $(G729_LDFLAGS) \
+	  $(LIBSRTP_LDFLAGS) \
+	 -ltinySAK_$(MARCH) -ltinyNET_$(MARCH) -ltinyIPSec_$(MARCH) -ltinySDP_$(MARCH) -ltinyRTP_$(MARCH) -ltinyMEDIA_$(MARCH) -ltinyMSRP_$(MARCH) -lm -lgcc
+
+all: $(APP)
+
+OBJS = \
+	src/tdav.o \
+	src/tdav_session_av.o
+	
+	### audio
+OBJS += src/audio/tdav_consumer_audio.o \
+	src/audio/tdav_speakup_jitterbuffer.o \
+	src/audio/tdav_jitterbuffer.o \
+	src/audio/tdav_producer_audio.o \
+    src/audio/tdav_session_audio.o \
+    src/audio/tdav_speex_denoise.o \
+    src/audio/tdav_speex_jitterbuffer.o \
+    src/audio/tdav_speex_resampler.o \
+    src/audio/tdav_webrtc_denoise.o
+    
+     ### video
+OBJS += src/video/tdav_consumer_video.o \
+	src/video/tdav_converter_video.o \
+	src/video/tdav_runnable_video.o \
+	src/video/tdav_session_video.o \
+	src/video/jb/tdav_video_frame.o \
+	src/video/jb/tdav_video_jb.o
+	
+	### T.140
+OBJS += src/t140/tdav_consumer_t140.o \
+	src/t140/tdav_producer_t140.o \
+	src/t140/tdav_session_t140.o
+	
+    ### msrp
+OBJS += src/msrp/tdav_consumer_msrp.o \
+	src/msrp/tdav_producer_msrp.o \
+	src/msrp/tdav_session_msrp.o
+
+		### codecs (OPUS)
+OBJS += src/codecs/opus/tdav_codec_opus.o
+
+	### codecs (AMR)
+OBJS += src/codecs/amr/tdav_codec_amr.o
+
+	### codecs (G.711)
+OBJS += src/codecs/g711/g711.o \
+	src/codecs/g711/tdav_codec_g711.o
+	
+		### codecs (G.722)
+OBJS += src/codecs/g722/g722_decode.o \
+		src/codecs/g722/g722_encode.o \
+		src/codecs/g722/tdav_codec_g722.o
+	
+	### codecs (G.729)
+OBJS += src/codecs/g729/tdav_codec_g729.o
+	
+	### codecs (GSM)
+OBJS += src/codecs/gsm/tdav_codec_gsm.o
+	
+	### codecs (BV16)
+OBJS += src/codecs/bv/tdav_codec_bv16.o \
+	src/codecs/bv/tdav_codec_bv32.o
+	
+	### codecs (iLBC)
+OBJS += src/codecs/ilbc/tdav_codec_ilbc.o
+
+	### codecs (Speex)
+OBJS += src/codecs/speex/tdav_codec_speex.o
+
+	### codecs (DTMF)
+OBJS += src/codecs/dtmf/tdav_codec_dtmf.o
+
+	### codecs (FEC)
+OBJS += src/codecs/fec/tdav_codec_red.o \
+	src/codecs/fec/tdav_codec_ulpfec.o
+
+	### codecs (H.261)
+OBJS += src/codecs/h261/tdav_codec_h261.o
+
+	### codecs (H.263)
+OBJS += src/codecs/h263/tdav_codec_h263.o
+
+	### codecs (H.264)
+OBJS += src/codecs/h264/tdav_codec_h264.o \
+		src/codecs/h264/tdav_codec_h264_rtp.o
+		
+	### codecs (Theora)
+OBJS += src/codecs/theora/tdav_codec_theora.o
+
+	### codecs (VPX)
+OBJS += src/codecs/vpx/tdav_codec_vp8.o
+
+	### codecs (MP4V-ES)
+OBJS += src/codecs/mp4ves/tdav_codec_mp4ves.o
+	
+	### codecs (MSRP)
+OBJS += src/codecs/msrp/tdav_codec_msrp.o
+
+	### T.140
+OBJS += src/codecs/t140/tdav_codec_t140.o
+
+$(APP): $(OBJS)
+ifeq ($(EXT), a)
+	$(AR) rcs $@ $^
+else
+	$(CC) $(LDFLAGS) -o $@ $^
+endif
+
+%.o: %.c
+	$(CC) -c $(INCLUDE) $(CFLAGS) $< -o $@
+	
+%.o: %.cxx
+	$(CPP) -c $(INCLUDE) $(CFLAGS) $< -o $@
+	
+install: $(APP)
+	$(ANDROID_SDK_ROOT)/tools/adb remount
+	$(ANDROID_SDK_ROOT)/tools/adb push $(APP) $(LIB_DIR)/$(APP)
+	$(ANDROID_SDK_ROOT)/tools/adb shell chmod 777 $(LIB_DIR)/$(APP)
+	
+clean:
+	@rm -f $(OBJS) $(APP)

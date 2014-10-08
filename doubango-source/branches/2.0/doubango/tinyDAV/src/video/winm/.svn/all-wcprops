@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/940/branches/2.0/doubango/tinyDAV/src/video/winm
+END
+tdav_consumer_winm.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/940/branches/2.0/doubango/tinyDAV/src/video/winm/tdav_consumer_winm.cxx
+END
+tdav_producer_winm.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/940/branches/2.0/doubango/tinyDAV/src/video/winm/tdav_producer_winm.cxx
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1148/branches/2.0/doubango/tinyMEDIA/include/tinymedia
+END
+tmedia_defaults.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1086/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_defaults.h
+END
+tmedia_vad.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_vad.h
+END
+tmedia_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1132/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_codec.h
+END
+tmedia_imageattr.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_imageattr.h
+END
+tmedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia.h
+END
+tmedia_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_params.h
+END
+tmedia_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1122/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_session.h
+END
+tmedia_producer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/820/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_producer.h
+END
+tmedia_denoise.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/962/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_denoise.h
+END
+tmedia_session_ghost.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/823/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_session_ghost.h
+END
+tmedia_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1148/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_common.h
+END
+tmedia_codec_dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_codec_dummy.h
+END
+tmedia_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/962/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_resampler.h
+END
+tmedia_jitterbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/957/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_jitterbuffer.h
+END
+tmedia_consumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/898/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_consumer.h
+END
+tmedia_converter_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1146/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_converter_video.h
+END
+tmedia_session_dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_session_dummy.h
+END
+tmedia_qos.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/include/tinymedia/tmedia_qos.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex
+END
+speex_preprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_preprocess.h
+END
+speex_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_header.h
+END
+speex_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_buffer.h
+END
+speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_resampler.h
+END
+speex_echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_echo.h
+END
+speex_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_callbacks.h
+END
+speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex.h
+END
+speex_stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_stereo.h
+END
+speex_jitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_jitter.h
+END
+speex_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_bits.h
+END
+speex_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1033/branches/2.0/doubango/thirdparties/android/common/include/speex/speex_types.h
+END

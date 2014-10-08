@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 88
+Debug
+Release
+tinySIGCOMP.vcproj.mamadou-PC.mamadou.user
+*.user
+*.suo
+*.ncb
+Makefile.in
+
+END

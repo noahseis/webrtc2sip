@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc
+END
+libpostproc.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libpostproc.a
+END
+libavfilter.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libavfilter.a
+END
+libvpx.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/702/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libvpx.a
+END
+libavcore.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libavcore.a
+END
+libavformat.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libavformat.a
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libcrypto.a
+END
+libswresample.a
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libswresample.a
+END
+libspeex.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libspeex.a
+END
+libavdevice.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libavdevice.a
+END
+libsrtp.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/702/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libsrtp.a
+END
+libspeexdsp.a
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libspeexdsp.a
+END
+libswscale.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libswscale.a
+END
+libssl.a
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/658/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libssl.a
+END
+libx264.a
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libx264.a
+END
+libavutil.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libavutil.a
+END
+libavcodec.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/747/branches/2.0/doubango/thirdparties/mac/lib/powerpc/libavcodec.a
+END

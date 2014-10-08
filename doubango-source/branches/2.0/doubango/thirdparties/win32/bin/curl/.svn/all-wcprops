@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/bin/curl
+END
+curl.exe
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/curl/curl.exe
+END
+libcurl-4.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/552/branches/2.0/doubango/thirdparties/win32/bin/curl/libcurl-4.dll
+END
+curl-config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/bin/curl/curl-config
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 77
+ARM
+Debug
+tinySIGCOMP.sdf
+tinySIGCOMP.v11.suo
+tinySIGCOMP.vcxproj.user
+Win32
+
+END

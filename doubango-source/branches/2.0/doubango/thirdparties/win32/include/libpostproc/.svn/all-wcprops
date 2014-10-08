@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libpostproc
+END
+postprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libpostproc/postprocess.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libpostproc/version.h
+END

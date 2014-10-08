@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/abnf
+END
+uri.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/abnf/uri.abnf
+END
+http.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/abnf/http.abnf
+END
+httpauth.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/abnf/httpauth.abnf
+END
+ws.abnf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyHTTP/abnf/ws.abnf
+END

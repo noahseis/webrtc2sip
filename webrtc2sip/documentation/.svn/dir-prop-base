@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 49
+*.bmp
+~WRL0414.tmp
+*.tmp
+~$chnical-guide-1.0.doc
+
+END

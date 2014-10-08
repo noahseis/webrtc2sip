@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/authentication
+END
+tsip_milenage.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/authentication/tsip_milenage.h
+END
+tsip_challenge.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/authentication/tsip_challenge.h
+END
+tsip_rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/authentication/tsip_rijndael.h
+END

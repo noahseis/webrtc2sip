@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libswscale
+END
+swscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libswscale/swscale.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libswscale/version.h
+END

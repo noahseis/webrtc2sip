@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test.vcproj
+END
+test_image_attr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test_image_attr.h
+END
+dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/dummy.h
+END
+test_contents.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test_contents.h
+END
+test_codecs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test_codecs.h
+END
+test_qos.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test_qos.h
+END
+test_sessions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/test_sessions.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMEDIA/test/droid-makefile
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/552/branches/2.0/doubango/tinyMEDIA/test/dummy.c
+END

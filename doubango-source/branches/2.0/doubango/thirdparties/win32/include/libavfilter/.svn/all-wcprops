@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter
+END
+avfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/avfilter.h
+END
+buffersink.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/buffersink.h
+END
+avfiltergraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/avfiltergraph.h
+END
+buffersrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/buffersrc.h
+END
+asrc_abuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/asrc_abuffer.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/avcodec.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/win32/include/libavfilter/version.h
+END

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Please check the technical guide (http://webrtc2sip.org/technical-guide-1.0.pdf) for more information on how to adjust this file -->
+<config>
+
+  <debug-level>ERROR</debug-level>
+
+  <transport>udp;*;10060</transport>
+  <transport>ws;*;10060</transport>
+  <transport>wss;*;10062</transport>
+  <!--transport>tcp;*;10063</transport-->
+  <!--transport>tls;*;10064</transport-->
+
+  <enable-rtp-symetric>yes</enable-rtp-symetric>
+  <enable-100rel>no</enable-100rel>
+  <enable-media-coder>no</enable-media-coder>
+  <enable-videojb>yes</enable-videojb>
+  <video-size-pref>vga</video-size-pref>
+  <rtp-buffsize>65535</rtp-buffsize>
+  <avpf-tail-length>100;400</avpf-tail-length>
+  <srtp-mode>optional</srtp-mode>
+  <srtp-type>sdes;dtls</srtp-type>
+  <dtmf-type>rfc4733</dtmf-type>
+
+  <codecs>opus;pcma;pcmu;gsm;vp8;h264-bp;h264-mp;h263;h263+</codecs>
+  <codec-opus-maxrates>48000;48000</codec-opus-maxrates>
+
+  <stun-server>stun.l.google.com;19302;stun-user@doubango.org;stun-password</stun-server>
+  <enable-icestun>yes</enable-icestun>
+
+  <max-fds>-1</max-fds>
+
+  <!--nameserver>66.66.66.6</nameserver-->
+
+  <!--ssl-certificates>
+    C:/Projects/ssl/priv.pem;
+    C:/Projects/ssl/pub.pem;
+    C:/Projects/ssl/ca-cert.pem;
+    no
+  </ssl-certificates-->
+
+  <!-- ***CLICK-TO-CALL SERVICE*** -->
+
+  <transport>c2c;*;10070</transport>
+  <transport>c2cs;*;10072</transport>
+  <database>sqlite;*</database>
+  <!--account-mail>smtps;*;*;auth.smtp.1and1.fr;465;noreply@example.com;noreply@example.com;mysecret</account-mail-->
+  <!--account-sip-caller>*;sip:a@example.com;a;example.com;mysecret</account-sip-caller-->
+
+</config>

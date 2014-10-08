@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16
+END
+bitpack.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/bitpack.h
+END
+bv16.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/bv16.h
+END
+bv16strct.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/bv16strct.h
+END
+g192.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/g192.h
+END
+postfilt.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/postfilt.h
+END
+bv16cnst.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/bv16cnst.h
+END
+bv16externs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/win32/include/BroadVoice16/bv16/bv16externs.h
+END

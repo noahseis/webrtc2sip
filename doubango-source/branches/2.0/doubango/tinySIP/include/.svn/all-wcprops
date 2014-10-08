@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1086/branches/2.0/doubango/tinySIP/include
+END
+tinysip.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip.h
+END
+tsip.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1086/branches/2.0/doubango/tinySIP/include/tsip.h
+END
+tinysip_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/839/branches/2.0/doubango/tinySIP/include/tinysip_config.h
+END

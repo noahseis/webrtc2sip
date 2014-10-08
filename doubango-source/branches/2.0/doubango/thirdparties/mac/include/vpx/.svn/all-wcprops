@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx
+END
+vp8dx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vp8dx.h
+END
+vpx_integer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_integer.h
+END
+vpx_codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_codec.h
+END
+vpx_encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_encoder.h
+END
+vpx_codec_impl_top.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_codec_impl_top.h
+END
+vp8.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vp8.h
+END
+vpx_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_image.h
+END
+vpx_codec_impl_bottom.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_codec_impl_bottom.h
+END
+vpx_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_decoder.h
+END
+vp8e.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vp8e.h
+END
+vpx_decoder_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vpx_decoder_compat.h
+END
+vp8cx.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/vpx/vp8cx.h
+END

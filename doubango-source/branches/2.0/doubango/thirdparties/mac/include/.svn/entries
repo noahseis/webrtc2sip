@@ -1,0 +1,67 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/mac/include
+http://doubango.googlecode.com/svn
+
+
+
+2014-05-26T06:06:28.884063Z
+1107
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+libpostproc
+dir
+
+libavfilter
+dir
+
+openssl
+dir
+
+speex
+dir
+
+libavformat
+dir
+
+webrtc
+dir
+
+srtp
+dir
+
+libswscale
+dir
+
+libswresample
+dir
+
+libavcodec
+dir
+
+libavutil
+dir
+
+vpx
+dir
+
+libavdevice
+dir
+

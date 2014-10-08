@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil
+END
+parseutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/parseutils.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/sha1.h
+END
+adler32.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/adler32.h
+END
+avconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/avconfig.h
+END
+imgutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/imgutils.h
+END
+avstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/avstring.h
+END
+mathematics.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/mathematics.h
+END
+pixdesc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/pixdesc.h
+END
+audioconvert.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/audioconvert.h
+END
+timestamp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/timestamp.h
+END
+avutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/avutil.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/crc.h
+END
+pixfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/pixfmt.h
+END
+hmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/hmac.h
+END
+lfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/lfg.h
+END
+sha.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/sha.h
+END
+random_seed.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/random_seed.h
+END
+dict.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/dict.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/md5.h
+END
+attributes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/attributes.h
+END
+intfloat_readwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/intfloat_readwrite.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/cpu.h
+END
+avassert.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/avassert.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/error.h
+END
+timecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/timecode.h
+END
+bprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/bprint.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/time.h
+END
+intreadwrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/intreadwrite.h
+END
+xtea.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/xtea.h
+END
+opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/opt.h
+END
+audio_fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/audio_fifo.h
+END
+lzo.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/lzo.h
+END
+channel_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/channel_layout.h
+END
+aes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/aes.h
+END
+rational.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/rational.h
+END
+bswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/bswap.h
+END
+blowfish.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/blowfish.h
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/mem.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/file.h
+END
+intfloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/765/branches/2.0/doubango/thirdparties/mac/include/libavutil/intfloat.h
+END
+log.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/log.h
+END
+fifo.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/fifo.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/base64.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/version.h
+END
+old_pix_fmts.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/old_pix_fmts.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/eval.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/common.h
+END
+samplefmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1105/branches/2.0/doubango/thirdparties/mac/include/libavutil/samplefmt.h
+END

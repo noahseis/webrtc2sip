@@ -1,0 +1,168 @@
+10
+
+dir
+1152
+http://doubango.googlecode.com/svn/branches/2.0/doubango/thirdparties/win32/include
+http://doubango.googlecode.com/svn
+
+
+
+2014-09-08T21:59:37.349575Z
+1140
+bossiel@yahoo.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c7b0ae48-b0eb-11de-8bdf-3374eb5c7316
+
+opencore-amrwb
+dir
+
+openssl
+dir
+
+BroadVoice16
+dir
+
+speex
+dir
+
+webrtc
+dir
+
+pthread
+dir
+
+srtp
+dir
+
+libswscale
+dir
+
+g729a
+dir
+
+g729b
+dir
+
+libavutil
+dir
+
+libavcodec
+dir
+
+stdint.h
+file
+
+
+
+
+2014-10-03T15:42:49.000000Z
+50d07c5ce7cb6e880a397c3d51ea5afb
+2014-09-08T21:59:37.349575Z
+1140
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7786
+
+libpostproc
+dir
+
+libavfilter
+dir
+
+curl
+dir
+
+inttypes.h
+file
+
+
+
+
+2014-10-03T15:42:49.000000Z
+2defcc6ba3b3729495a4178b7a1a23cc
+2012-12-03T03:11:21.618745Z
+765
+bossiel@yahoo.fr
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8004
+
+libavformat
+dir
+
+opencore-amrnb
+dir
+
+ilbc
+dir
+
+win-iconv
+dir
+
+libswresample
+dir
+
+directshow
+dir
+
+cuda
+dir
+
+libavdevice
+dir
+
+vpx
+dir
+

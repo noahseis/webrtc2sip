@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/552/branches/2.0/doubango/tinyXCAP/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/test.c
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/test.vcproj
+END
+test_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/test_selector.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/stdafx.c
+END
+test_stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/test_stack.h
+END
+droid-makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/765/branches/2.0/doubango/tinyXCAP/test/droid-makefile
+END

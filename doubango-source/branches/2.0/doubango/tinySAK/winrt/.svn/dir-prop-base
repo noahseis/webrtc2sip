@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 81
+ARM
+Debug
+Generated Files
+tinySAK.sdf
+tinySAK.v11.suo
+tinySAK.vcxproj.user
+Win32
+
+END

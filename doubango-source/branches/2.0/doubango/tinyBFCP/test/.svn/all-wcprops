@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1057/branches/2.0/doubango/tinyBFCP/test
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1054/branches/2.0/doubango/tinyBFCP/test/stdafx.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1057/branches/2.0/doubango/tinyBFCP/test/test.c
+END
+test_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1057/branches/2.0/doubango/tinyBFCP/test/test_parser.h
+END
+test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1057/branches/2.0/doubango/tinyBFCP/test/test.vcproj
+END
+test_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1057/branches/2.0/doubango/tinyBFCP/test/test_session.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1054/branches/2.0/doubango/tinyBFCP/test/targetver.h
+END
+stdafx.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1054/branches/2.0/doubango/tinyBFCP/test/stdafx.c
+END

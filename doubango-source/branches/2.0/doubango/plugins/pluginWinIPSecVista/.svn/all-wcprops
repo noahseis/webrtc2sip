@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWinIPSecVista
+END
+plugin_win_ipsec_vista_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1012/branches/2.0/doubango/plugins/pluginWinIPSecVista/plugin_win_ipsec_vista_config.h
+END
+plugin_win_ipsec_vista.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1038/branches/2.0/doubango/plugins/pluginWinIPSecVista/plugin_win_ipsec_vista.c
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1130/branches/2.0/doubango/plugins/pluginWinIPSecVista/version.rc
+END
+pluginWinIPSecVista.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1065/branches/2.0/doubango/plugins/pluginWinIPSecVista/pluginWinIPSecVista.vcproj
+END
+AStyle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1012/branches/2.0/doubango/plugins/pluginWinIPSecVista/AStyle.sh
+END
+dllmain_ipsec_vista.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1012/branches/2.0/doubango/plugins/pluginWinIPSecVista/dllmain_ipsec_vista.c
+END

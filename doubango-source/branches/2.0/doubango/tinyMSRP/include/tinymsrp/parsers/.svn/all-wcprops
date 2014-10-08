@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/parsers
+END
+tmsrp_parser_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/parsers/tmsrp_parser_header.h
+END
+tmsrp_parser_uri.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/parsers/tmsrp_parser_uri.h
+END
+tmsrp_parser_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinyMSRP/include/tinymsrp/parsers/tmsrp_parser_message.h
+END

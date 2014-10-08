@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/832/branches/2.0/doubango/tinySIP/include/tinysip/transactions
+END
+tsip_transac_ist.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/790/branches/2.0/doubango/tinySIP/include/tinysip/transactions/tsip_transac_ist.h
+END
+tsip_transac_ict.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/transactions/tsip_transac_ict.h
+END
+tsip_transac.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/832/branches/2.0/doubango/tinySIP/include/tinysip/transactions/tsip_transac.h
+END
+tsip_transac_layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/transactions/tsip_transac_layer.h
+END
+tsip_transac_nist.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/transactions/tsip_transac_nist.h
+END
+tsip_transac_nict.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/765/branches/2.0/doubango/tinySIP/include/tinysip/transactions/tsip_transac_nict.h
+END

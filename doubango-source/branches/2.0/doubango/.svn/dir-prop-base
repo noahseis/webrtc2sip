@@ -1,0 +1,31 @@
+K 10
+svn:ignore
+V 271
+autom4te.cache
+ChangeLog
+m4
+aclocal.m4
+AUTHORS
+config.guess
+config.h.in
+config.log
+config.status
+config.sub
+configure
+copyright.sh
+depcomp
+doubango.patch
+dtls.patch
+dtls2.patch
+install-sh
+ltmain.sh
+Makefile.in
+missing
+NEWS
+nightly.patch
+README
+*.patch
+*.diff
+*.stackdump
+
+END

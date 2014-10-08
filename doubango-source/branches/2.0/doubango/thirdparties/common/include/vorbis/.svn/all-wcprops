@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/common/include/vorbis
+END
+vorbisenc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/common/include/vorbis/vorbisenc.h
+END
+codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/common/include/vorbis/codec.h
+END
+vorbisfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/893/branches/2.0/doubango/thirdparties/common/include/vorbis/vorbisfile.h
+END
