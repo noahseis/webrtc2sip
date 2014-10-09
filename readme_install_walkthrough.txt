@@ -74,8 +74,7 @@ Follow the instructions below:
      - Make note that you will be using branch 2.0 for doubango-source
 
 3. Add using yast or "zypper in" and add the tools that are needed (Make sure all these are added)
-
-4. sudo yum install make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
+ sudo yum install make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
 
 5. Building libsrtp
 
