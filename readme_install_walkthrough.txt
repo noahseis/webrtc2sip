@@ -75,7 +75,7 @@ Follow the instructions below:
 
 3. Add using yast and add the tools that are needed 
 (Make sure all these are added) Use phrase search in yast to find these packages to install. 
-sudo yum install make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
+sudo yum make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
 
 5. Building libsrtp
 
