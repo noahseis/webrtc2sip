@@ -237,7 +237,7 @@ edit the [Service] section to this:
 ExecStart=/opt/webrtc2sip/sbin/webrtc2sip --config=/opt/webrtc2sip/sbin/config.xml
 
 
-4. Start to confirm
+4. Enable start and confirm
 # systemctl enable webrtc2sip.service
 # systemctl start webrtc2sip 
 
@@ -263,16 +263,16 @@ to
 /srv/www/htdocs/agc/webrtc.php
 /srv/www/htdocs/agc/webrtclaunch.php
 
+Make the edits to apply to your public ip in file webrtclaunch.php
+
 # mkdir /srv/www/htdocs/agc/sounds && mkdir /srv/www/htdocs/agc/assets
 
 Copy for javascript library support and sound support for the webphone found in the repo under
-# cp -r /usr/src/webrtc2sip/website/assets /srv/www/htdocs/agc/assets
-# cp /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango/website/sounds /srv/www/htdocs/agc/sounds
-to
-/srv/www/htdocs/agc/sounds
-/srv/www/htdocs/agc/assets
+# cp -r /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango/website/assets /srv/www/htdocs/agc/assets
+# cp /usr/src/webrtc2sip/sounds /srv/www/htdocs/agc/sounds
 
-Make the change to the extension to web phone
+
+Make the change to the extension for web phone in the custom conf for each extension
 Set the url to use the web phone in system settings
 
 Good luck
