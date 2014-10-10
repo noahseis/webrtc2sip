@@ -22,7 +22,7 @@
 
 ***********************************************************************************************************************************
 Version installed and tested with:
-ViciBox Redux v.5.0.2-130821 (zypper up && zypper refresh to grab the latest svn during vicibox-install)
+ViciBox Redux v.5.0.2-130821 (zypper up && zypper refresh to grab the latest and greatest before vicibox-install)
 1.8.29.0-vici asterisk
 (Standard Install)
 Install and testing was done to an external ip vicibox with 1 to 1 natting and appropriate iptables firewalling 
@@ -61,16 +61,13 @@ This short guide below is for vicidial with PCMU codec and just voice no video u
 
 Do this first:
 
-
-
-
 Follow the instructions below:
-1. Get the repo
-# export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
+1. 
+# export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib - not sure if needed now
 # cd /usr/src 
 
 
-2. 
+2. Get the repo
 # git clone https://github.com/noahseis/webrtc2sip.git
 
 
@@ -99,9 +96,9 @@ libsrtp2
 
 4. You have to build a self signed cert for the secure handshake (realm is asterisk)
 Visit these links and build your cert key ans Self Signed Cert
-http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
-http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
-http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
+ http://codeghar.wordpress.com/2013/04/16/create-private-certificate-authority-on-linux/ 
+ http://codeghar.wordpress.com/2013/04/16/generate-certificate-signing-request-on-linux/  
+ http://codeghar.wordpress.com/2013/04/16/use-private-certificate-authority-to-sign-certificate-signing-request-on-linux/
 
 		Some of these steps are in the tutorials links above
 		mkdir -p /home/cg/myca && cd /home/cg/myca && mkdir private certs newcerts conf export csr
