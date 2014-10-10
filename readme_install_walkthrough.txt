@@ -62,19 +62,23 @@ This short guide below is for vicidial with PCMU codec and just voice no video u
 Do this first:
 export LD_LIBRARY_PATH=$LD_LIBRA
 
-# cd /usr/src 
+
 
 Follow the instructions below:
 1. Get the repo
+# cd /usr/src 
 # git clone https://github.com/noahseis/webrtc2sip.git
 
-2. These files are included in the repo they are just a placeholder for updates
+2. 
+# cd webrtc2sip 
+
+3. (NOTES) These files are included in the repo they are just a placeholder for updates
 	 -svn checkout http://doubango.googlecode.com/svn/ doubango-source
 	 -svn checkout http://webrtc2sip.googlecode.com/svn/trunk/ webrtc2sip
      - Make note that you will be using branch 2.0 for doubango-source
 
-3. Add using yast and add the tools that are needed 
-(Make sure all these are added) Use phrase search in yast to find these packages to install. 
+4. Add using yast and add the tools that are needed 
+(Make sure all these are added) Use phrase search software manager in yast to find these packages to install. 
 sudo yum make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
 
 5. Building libsrtp
