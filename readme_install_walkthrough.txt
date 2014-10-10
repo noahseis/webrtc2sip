@@ -60,17 +60,19 @@ Below is a simple set of instructions to get you started:
 This short guide below is for vicidial with PCMU codec and just voice no video using doubango and webrtc2sip gateway.
 
 Do this first:
-export LD_LIBRARY_PATH=$LD_LIBRA
+
 
 
 
 Follow the instructions below:
 1. Get the repo
+# export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib
 # cd /usr/src 
-# git clone https://github.com/noahseis/webrtc2sip.git
+
 
 2. 
-# cd webrtc2sip 
+# git clone https://github.com/noahseis/webrtc2sip.git
+
 
 3. (NOTES) These files are included in the repo they are just a placeholder for updates
 	 -svn checkout http://doubango.googlecode.com/svn/ doubango-source
@@ -82,8 +84,7 @@ Follow the instructions below:
 sudo yum make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
 
 5. Building libsrtp
-
-# cd libsrtp
+# cd webrtc2sip/libsrtp 
 # CFLAGS=-fPIC ./configure --enable-pic && make && make install
 # make runtest
 
@@ -114,22 +115,20 @@ http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
 		cd /home/cg/mycert/private copy in key.csr.server1.pem
 		cd /home/cg/myca/certs copy in crt.ca.cg.pem and crt.server1.pem
 
-8. This is where you can add other flags to build doubango with different codecs for voice and video. Also with -with flag can be changed to provide source to packages like openssl (already installed with vici isos) You need source files uncomplied from what I’ve gathered. 
+8. 
+This is where you can add other flags to build doubango with different codecs for voice and video. Also with -with flag can be changed to provide source to packages like openssl (already installed with vici isos) You need source files uncomplied from what I’ve gathered. 
 (the doubango ./configure is going to be looking for your flagged add ons here /usr/local unless you specify path: example -with-ssl=PATH -with-srtp=PATH )
-# export LDFLAGS="$LDFLAGS -ldl"
 
+# export LDFLAGS="$LDFLAGS -ldl"
 # cd /usr/src/doubango-source/branches/2.0/doubango && ./autogen.sh && ./configure -with-ssl -with-srtp
 # make && make install
 (if you got errors don't continue, figure it out before moving on past this point)
 
 9.
 # export PREFIX=/opt/webrtc2sip
-# export LDFLAGS="$LDFLAGS -ldl"
 
 # cd /usr/src/webrtc2sip && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
-
 # make clean && make -ldl -lpthread && make install
-
 # cp -f ./config.xml $PREFIX/sbin/config.xml
 
 edit (nano vi your flav) config.xml - the edit is below
