@@ -120,7 +120,7 @@ This is where you can add other flags to build doubango with different codecs fo
 6.
 # export PREFIX=/opt/webrtc2sip
 
-# cd /usr/src/webrtc2sip && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
+# cd /usr/src/webrtc2sip/webrtc2sip/ && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
 # make clean && make -ldl -lpthread && make install
 # cp -f ./config.xml $PREFIX/sbin/config.xml
 
