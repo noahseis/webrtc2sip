@@ -74,34 +74,30 @@ Follow the instructions below:
 # git clone https://github.com/noahseis/webrtc2sip.git
 
 
-3. (NOTES) These files are included in the repo they are just a placeholder for updates
-	 -svn checkout http://doubango.googlecode.com/svn/ doubango-source
-	 -svn checkout http://webrtc2sip.googlecode.com/svn/trunk/ webrtc2sip
-     - Make note that you will be using branch 2.0 for doubango-source
-
-4. Add using yast and add the tools that are needed 
+3. Add using yast and add the tools that are needed 
 (Make sure all these are added) Use phrase search software manager in yast to find these packages to install. 
-sudo yum make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
+sudo 
+yum 
+make 
+libtool 
+autoconf 
+subversion 
+git 
+cvs 
+wget 
+libogg-devel 
+gcc 
+gcc-c++ 
+pkgconfig 
+libxml2-devel 
+libopenssl-devel
+libsrtp-devel
+libsrtp1
+libsrtp2
 
-5. Building libsrtp
-# cd /usr/src/webrtc2sip/libsrtpv14 
-# CFLAGS=-fPIC ./configure --enable-pic && make && make install
-# make runtest
 
-6. OpenSSL is probably installed on vicibox but source is not in the right path for Doubango ./configure process
 
-Building OpenSSL
-OpenSSL is required if you want to use the RTCWeb Breaker module or Secure WebSocket transport (WSS). OpenSSL version 1.0.1 is required if you want support for DTLS-SRTP.
-
-openssl version if you are above 1.0.1 (great but you need source files)
-To build OpenSSL: (We used the version below for install and testing I'm sure later versions will work just fine 1.0.1e )
-
-# wget http://www.openssl.org/source/openssl-1.0.1c.tar.gz
-# tar -xvzf openssl-1.0.1c.tar.gz
-# cd openssl-1.0.1c
-# ./config shared --prefix=/usr/local --openssldir=/usr/local/openssl && make && make install
-
-7. You have to build a self signed cert for the secure handshake (realm is asterisk)
+4. You have to build a self signed cert for the secure handshake (realm is asterisk)
 Visit these links and build your cert key ans Self Signed Cert
 http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
 http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
@@ -115,16 +111,16 @@ http://codeghar.wordpress.com/2013/04/1 ... -on-linux/
 		cd /home/cg/mycert/private copy in key.csr.server1.pem
 		cd /home/cg/myca/certs copy in crt.ca.cg.pem and crt.server1.pem
 
-8. 
+5. 
 This is where you can add other flags to build doubango with different codecs for voice and video. Also with -with flag can be changed to provide source to packages like openssl (already installed with vici isos) You need source files uncomplied from what I’ve gathered. 
 (the doubango ./configure is going to be looking for your flagged add ons here /usr/local unless you specify path: example -with-ssl=PATH -with-srtp=PATH )
 
 # export LDFLAGS="$LDFLAGS -ldl"
-# cd /usr/src/doubango-source/branches/2.0/doubango && ./autogen.sh && ./configure -with-ssl -with-srtp
+# cd /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango && ./autogen.sh && ./configure -with-srtp=/usr/include/srtp/ -with-ssl=/usr/include/openssl
 # make && make install
-(if you got errors don't continue, figure it out before moving on past this point)
+(IF YOU GET ERRORS DON'T CONTINUE, figure it out before moving on past this point)
 
-9.
+6.
 # export PREFIX=/opt/webrtc2sip
 
 # cd /usr/src/webrtc2sip && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
@@ -186,12 +182,12 @@ no
 
 </config>
 
-10. To run the gateway 
+7. To run the gateway 
 (Change the config.xml to INFO vs Error for more verbose debug)
 # PATH=$PATH:/opt/webrtc2sip/sbin
 # webrtc2sip --config=/opt/webrtc2sip/sbin/config.xml
 
-11. Change Sip.conf
+8. Change Sip.conf
 sip.conf changes:
 realm=asterisk ; Realm for digest authentication
 bindaddr=0.0.0.0 ; IP address to bind to (0.0.0.0 binds to all)
@@ -208,7 +204,7 @@ qualify=yes (or no either worked fine I suspect yes will keep ports open on fire
 callerid="wrtc" <777>
 nat=no
 
-12. SipMl5 Settings Test this before installing the Web phone in Vici.
+9. SipMl5 Settings Test this before installing the Web phone in Vici.
 Login to sipml5.org/call.htm with setting guidance below:
 sipml5 web phone settings
 Display Name: 777
@@ -232,9 +228,14 @@ How to create a service to start webrtc2sip
 # cp /usr/lib/systemd/system/cron.service /usr/lib/systemd/system/webrtc.service 
 
 2. Create a Link
-# ln -s usr/lib/systemd/system/wertc2sip.service /etc/systemd/system/multi-user.target.wants/wertc2sip.service
+# ln -s /usr/lib/systemd/system/webrtc.service /etc/systemd/system/multi-user.target.wants/wertc2sip.service
 
 3. nano vi or your flavor /usr/lib/systemd/system/webrtc.service
+Edit [Unit] section
+[Unit]
+Description=Webrtc2sip For Vici
+After=syslog.target mail-transfer-agent.target ypbind.service nscd.service network.target
+
 edit the [Service] section to this:
 ExecStart=/opt/webrtc2sip/sbin/webrtc2sip --config=/opt/webrtc2sip/sbin/config.xml
 
