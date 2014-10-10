@@ -84,7 +84,7 @@ Follow the instructions below:
 sudo yum make libtool autoconf subversion git cvs wget libogg-devel gcc gcc-c++ pkgconfig libxml2-devel
 
 5. Building libsrtp
-# cd webrtc2sip/libsrtp 
+# cd /usr/src/webrtc2sip/libsrtpv14 
 # CFLAGS=-fPIC ./configure --enable-pic && make && make install
 # make runtest
 
