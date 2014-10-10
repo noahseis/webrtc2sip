@@ -269,7 +269,7 @@ Make the edits to apply to your public ip in file webrtclaunch.php
 
 Copy for javascript library support and sound support for the webphone found in the repo under
 # cp -r /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango/website/assets /srv/www/htdocs/agc/assets
-# cp /usr/src/webrtc2sip/sounds /srv/www/htdocs/agc/sounds
+# cp /usr/src/webrtc2sip/sounds/* /srv/www/htdocs/agc/sounds
 
 
 Make the change to the extension for web phone in the custom conf for each extension
