@@ -228,7 +228,7 @@ How to create a service to start webrtc2sip
 # cp /usr/lib/systemd/system/cron.service /usr/lib/systemd/system/webrtc.service 
 
 2. Create a Link
-# ln -s /usr/lib/systemd/system/webrtc.service /etc/systemd/system/multi-user.target.wants/wertc2sip.service
+# ln -s /usr/lib/systemd/system/webrtc2sip.service /etc/systemd/system/multi-user.target.wants/wertc2sip.service
 
 3. nano vi or your flavor /usr/lib/systemd/system/webrtc.service
 Edit [Unit] section
@@ -265,9 +265,11 @@ to
 /srv/www/htdocs/agc/webrtc.php
 /srv/www/htdocs/agc/webrtclaunch.php
 
+# mkdir /srv/www/htdocs/agc/sounds && mkdir /srv/www/htdocs/agc/assets
+
 Copy for javascript library support and sound support for the webphone found in the repo under
-/doubango-source/branches/2.0/doubango/website/assets
-/doubango-source/branches/2.0/doubango/website/sounds
+# cp -r /usr/src/webrtc2sip/website/assets /srv/www/htdocs/agc/assets
+# cp /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango/website/sounds /srv/www/htdocs/agc/sounds
 to
 /srv/www/htdocs/agc/sounds
 /srv/www/htdocs/agc/assets
