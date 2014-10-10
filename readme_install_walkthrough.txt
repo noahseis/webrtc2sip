@@ -241,6 +241,7 @@ ExecStart=/opt/webrtc2sip/sbin/webrtc2sip --config=/opt/webrtc2sip/sbin/config.x
 
 
 4. Start to confirm
+# systemctl enable webrtc2sip.service
 # systemctl start webrtc2sip 
 
 5. Confirm with:
