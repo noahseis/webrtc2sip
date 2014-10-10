@@ -118,10 +118,8 @@ This is where you can add other flags to build doubango with different codecs fo
 (IF YOU GET ERRORS DON'T CONTINUE, figure it out before moving on past this point)
 
 6.
-# export PREFIX=/opt/webrtc2sip
-
-# cd /usr/src/webrtc2sip/webrtc2sip/ && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
-# CFLAGS='-lpthread' ./configure
+# cd /usr/src/webrtc2sip/webrtc2sip/
+# export PREFIX=/opt/webrtc2sip && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
 # make clean && make -ldl -lpthread && make install
 # cp -f ./config.xml $PREFIX/sbin/config.xml
 
