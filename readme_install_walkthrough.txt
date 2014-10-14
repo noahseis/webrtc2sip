@@ -288,20 +288,21 @@ If it's not running check your steps above for correctness or adjustments to you
 How to add the web phone to vicidial agent
 ------------------------------------------------------------
 Copy these 2 files.
-webrtc.php
-webrtclaunch.php
-to
-/srv/www/htdocs/agc/webrtc.php
-/srv/www/htdocs/agc/webrtclaunch.php
+# cp /usr/src/webrtc2sip/agc/webrtc.php /srv/www/htdocs/agc/webrtc.php
+# cp /usr/src/webrtc2sip/agc/webrtclaunch.php /srv/www/htdocs/agc/webrtclaunch.php
 
 Make the edits to apply to your public ip in file webrtclaunch.php
+$servers = array("YOUR External DNS Address","YOUR External DNS Address");
+
+Make the edit toward the top of the file for webrtc.php
+$ExternalServerDNS='Your External DNS Server';
+
 
 # mkdir /srv/www/htdocs/agc/sounds && mkdir /srv/www/htdocs/agc/assets
 
 Copy for javascript library support and sound support for the webphone found in the repo under
 # cp -r /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango/website/assets/* /srv/www/htdocs/agc/assets
 # cp /usr/src/webrtc2sip/sounds/* /srv/www/htdocs/agc/sounds
-# cp /usr/src/webrtc2sip/
 # cp -r /usr/src/webrtc2sip/agc/* /srv/www/htdocs/agc/
 
 
