@@ -112,8 +112,16 @@ Visit these links and build your cert key ans Self Signed Cert
 This is where you can add other flags to build doubango with different codecs for voice and video. Also with -with flag can be changed to provide source to packages like openssl (already installed with vici isos) You need source files uncomplied from what I’ve gathered. 
 (the doubango ./configure is going to be looking for your flagged add ons here /usr/local unless you specify path: example -with-ssl=PATH -with-srtp=PATH )
 
+# cd /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango 
 # export LDFLAGS="$LDFLAGS -ldl"
-# cd /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango && ./autogen.sh && ./configure -with-srtp=/usr/include/srtp/ -with-ssl=/usr/include/openssl
+# ./autogen.sh && ./configure -with-srtp=/usr/include/srtp/ -with-ssl=/usr/include/openssl
+
+(Note: After the configure confirm these 3 are yes)
+SSL:                 yes
+DTLS-SRTP:           yes
+DTLS:                yes
+
+
 # make && make install
 (IF YOU GET ERRORS DON'T CONTINUE, figure it out before moving on past this point)
 
@@ -124,7 +132,7 @@ This is where you can add other flags to build doubango with different codecs fo
 # cp -f ./config.xml $PREFIX/sbin/config.xml
 
 edit (nano vi your flav) config.xml - the edit is below
-
+# vi 
 WEBRTC2SIP CONFIG.XML
 
 <?xml version="1.0" encoding="utf-8" ?>
@@ -217,20 +225,44 @@ SIP outbound Proxy URL[3]:udp://lan side of the asterisk (for making a call out 
 
 The web phone should prompt for allow mic and then you'll need to click the answer button. Wa LA
 
+(NOTE In the console windows for webrtc2sip you should see this:)
+*INFO: Receive RTP-DTLS data on ip=10.0.20.199 and port=57856
+*INFO: Receive DTLS data: 1229
+*INFO: _tnet_dtls_verify_cert
+*INFO: _tnet_dtls_verify_cert
+*INFO: Audio producer not started yet
+*INFO: Audio producer not started yet
+*INFO: Audio producer not started yet
+*INFO: Audio producer not started yet
+*INFO: Audio producer not started yet
+*INFO: Audio producer not started yet
+*INFO: DTLS data handshake to send with len = 91, ip = 10.0.20.56 and port = 3147
+*INFO: DTLS data handshake sent len = 91
+*INFO: DTLS handshake completed
+*INFO: event_dtls_srtp_profile_selected: SRTP_AES128_CM_SHA1_80
+*INFO: dtls.srtp_connected=1, dtls.srtcp_connected=1
+*INFO: srtp_use_different_keys=false
+*INFO: !!DTLS-SRTP started!!
+*INFO: dtls.srtp_handshake_succeed=1, dtls.srtcp_handshake_succeed=1
+*INFO: DTLS-DTLS-SRTP socket [10.0.20.199]:57856 handshake succeed
+*INFO: Using symetric RTCP for [10.0.20.199]:10843
+
+
 
 How to create a service to start webrtc2sip
 ------------------------------------------------------------
-1. First dupliacate cron.service in /usr/lib/systemd/system
-# cp /usr/lib/systemd/system/cron.service /usr/lib/systemd/system/webrtc.service 
+1. First quit the webrtc2sip console and then dupliacate cron.service in /usr/lib/systemd/system
+# quit
+# cp /usr/lib/systemd/system/cron.service /usr/lib/systemd/system/webrtc2sip.service
 
 2. Create a Link
 # ln -s /usr/lib/systemd/system/webrtc2sip.service /etc/systemd/system/multi-user.target.wants/wertc2sip.service
 
-3. nano vi or your flavor /usr/lib/systemd/system/webrtc.service
-Edit [Unit] section
+3. nano vi or your flavor /usr/lib/systemd/system/webrtc2sip.service
+Edit [Unit] section to change description leave the rest alone
 [Unit]
 Description=Webrtc2sip For Vici
-After=syslog.target mail-transfer-agent.target ypbind.service nscd.service network.target
+
 
 edit the [Service] section to this:
 ExecStart=/opt/webrtc2sip/sbin/webrtc2sip --config=/opt/webrtc2sip/sbin/config.xml
