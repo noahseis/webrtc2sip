@@ -191,22 +191,24 @@ no
 # PATH=$PATH:/opt/webrtc2sip/sbin
 # webrtc2sip --config=/opt/webrtc2sip/sbin/config.xml
 
-8. Change Sip.conf
-sip.conf changes:
-realm=asterisk ; Realm for digest authentication
-bindaddr=0.0.0.0 ; IP address to bind to (0.0.0.0 binds to all)
-
-Conf extensions custom for the phone through the web admin interface for vici
-type=friend
-secret=*****
-context=default
-host=dynamic
-disallow=all
-allow=all
-videosupport=no
-qualify=yes (or no either worked fine I suspect yes will keep ports open on firewalls if you have short timers)
-callerid="wrtc" <777>
-nat=no
+*******************************Not even needed!!*****************************************
+		8. Change Sip.conf
+		sip.conf changes:
+		realm=asterisk ; Realm for digest authentication
+		bindaddr=0.0.0.0 ; IP address to bind to (0.0.0.0 binds to all)
+		
+		Conf extensions custom for the phone through the web admin interface for vici
+		type=friend
+		secret=*****
+		context=default
+		host=dynamic
+		disallow=all
+		allow=all
+		videosupport=no
+		qualify=yes (or no either worked fine I suspect yes will keep ports open on firewalls if you have short timers)
+		callerid="wrtc" <777>
+		nat=no
+*******************************END Not even needed!!*****************************************
 
 9. SipMl5 Settings Test this before installing the Web phone in Vici.
 Login to sipml5.org/call.htm with setting guidance below:
