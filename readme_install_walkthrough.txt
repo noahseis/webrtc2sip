@@ -253,6 +253,7 @@ How to create a service to start webrtc2sip
 Edit [Unit] section to change description leave the rest alone
 [Unit]
 Description=Webrtc2sip For Vici
+After=syslog.target mail-transfer-agent.target ypbind.service nscd.service network.target
 
 
 edit the [Service] section to this:
