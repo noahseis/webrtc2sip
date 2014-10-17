@@ -121,8 +121,8 @@ DTLS:                yes
 # cp -f ./config.xml $PREFIX/sbin/config.xml
 
 edit (nano vi your flav) config.xml - the edit is below
-# vi 
-WEBRTC2SIP CONFIG.XML
+# vi /opt/webrtc2sip/sbin/config.xml
+
 
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Please check the technical guide (http://webrtc2sip.org/technical-guide-1.0.pdf) for more information on how to adjust this file -->
