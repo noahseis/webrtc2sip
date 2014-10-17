@@ -63,33 +63,22 @@ Do this first:
 
 Follow the instructions below:
 1. 
-# export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib - not sure if needed now
 # cd /usr/src 
-
 
 2. Get the repo
 # git clone https://github.com/noahseis/webrtc2sip.git
 
-
 3. Add using yast and add the tools that are needed 
 (Make sure all these are added) Use phrase search software manager in yast to find these packages to install. 
-sudo 
-yum 
-make 
+
+ 
 libtool 
-autoconf 
-subversion 
-git 
 cvs 
-wget 
 libogg-devel 
-gcc 
 gcc-c++ 
-pkgconfig 
 libxml2-devel 
 libopenssl-devel
 libsrtp-devel
-libsrtp1
 libsrtp2
 
 
@@ -309,7 +298,7 @@ Copy for javascript library support and sound support for the webphone found in 
 
 
 
-Make the change to the extension for web phone in the custom conf for each extension
+NOT NEEDED - Make the change to the extension for web phone in the custom conf for each extension
 Set the url to use the web phone in system settings
 
 Good luck
