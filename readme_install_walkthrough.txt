@@ -151,9 +151,9 @@ edit (nano vi your flav) config.xml - the edit is below
 <codec-opus-maxrates>48000;48000</codec-opus-maxrates>
 <!--unused codecs opus;pcma;gsm;vp8;h264-bp;h264-mp;h263;h263+ --> 
 
-<!--<stun-server>stun.l.google.com;19302;stun-user@doubango.org;stun-password</stun-server>
+<stun-server>stun.l.google.com;19302;stun-user@doubango.org;stun-password</stun-server>
 <enable-icestun>yes</enable-icestun>
-
+<!--
 <max-fds>-1</max-fds>
 -->
 <nameserver>8.8.8.8</nameserver>
