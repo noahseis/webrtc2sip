@@ -153,9 +153,9 @@ edit (nano vi your flav) config.xml - the edit is below
 
 <stun-server>stun.l.google.com;19302;stun-user@doubango.org;stun-password</stun-server>
 <enable-icestun>yes</enable-icestun>
-<!--
+
 <max-fds>-1</max-fds>
--->
+
 <nameserver>8.8.8.8</nameserver>
 
 <ssl-certificates>
