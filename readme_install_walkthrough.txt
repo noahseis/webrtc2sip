@@ -79,7 +79,7 @@ gcc-c++
 libxml2-devel 
 libopenssl-devel
 libsrtp-devel
-libsrtp2 (http://srtp.sourceforge.net/download.html Config http://srtp.sourceforge.net/srtp.html)
+libsrtp2 (Need to get this external to repo)
 
 
 
