@@ -2,13 +2,13 @@ DUE TO THE SSL CHANGES IN FIREFOX AND CHROME THIS BUILD IS NO LONGER VALID
 
 ***********************************************************************************************************************************
 *    This Document is a guide to this repo 
-*    https://github.com/noahseis/webrtc2sip.git
+*    https://github.com/noahseis/webrtc2sip.git - UPDATE ME
 *    
 *    Built from source from doubango telecom for MyCallCloud.com and provided here at github for open source downloads.
 *    Please READ through it's a bit of long install process, but take your time, follow the steps and guidance and you will succeed. 
 *    Credits for help and assistance go to navaismo
 *
-*	And these 2 web resources:
+*	And these 2 web resources: UPDATE ME
 *	https://code.google.com/p/doubango/wiki/Building_Source_v2_0
 *	http://geekforum.wordpress.com/2013/06/06/build-and-install-doubango-webrtc2sip/
 *
@@ -20,7 +20,6 @@ DUE TO THE SSL CHANGES IN FIREFOX AND CHROME THIS BUILD IS NO LONGER VALID
 *
 *    Hi All Vici / WebRTC hopefuls - Installed tested and working webrtc2sip with no asterisk patching
 ***********************************************************************************************************************************
-
 
 ***********************************************************************************************************************************
 Version installed and tested with:
@@ -103,7 +102,7 @@ Visit these links and build your cert key ans Self Signed Cert
 This is where you can add other flags to build doubango with different codecs for voice and video. Also with -with flag can be changed to provide source to packages like openssl (already installed with vici isos) You need source files uncomplied from what I’ve gathered. 
 (the doubango ./configure is going to be looking for your flagged add ons here /usr/local unless you specify path: example -with-ssl=PATH -with-srtp=PATH )
 
-# cd /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango 
+# cd /usr/src/webrtc2sip/doubango-source/branches/2.0/doubango (/usr/src/doubango2015/doubango-master)
 # export LDFLAGS="$LDFLAGS -ldl"
 # ./autogen.sh && ./configure -with-srtp=/usr/include/srtp/ -with-ssl=/usr/include/openssl
 
@@ -117,7 +116,7 @@ DTLS:                yes
 (IF YOU GET ERRORS DON'T CONTINUE, figure it out before moving on past this point)
 
 6.
-# cd /usr/src/webrtc2sip/webrtc2sip/
+# cd /usr/src/webrtc2sip/webrtc2sip/ (/usr/src/doubango2015/webrtc2sip-master)
 # export PREFIX=/opt/webrtc2sip && ./autogen.sh && CFLAGS='-lpthread' ./configure -prefix=$PREFIX -with-doubango=/usr/local
 # make clean && make -ldl -lpthread && make install
 # cp -f ./config.xml $PREFIX/sbin/config.xml
