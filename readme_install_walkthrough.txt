@@ -1,5 +1,7 @@
+DUE TO THE SSL CHANGES IN FIREFOX AND CHROME THIS BUILD IS NO LONGER VALID
+
 ***********************************************************************************************************************************
-*    This Document is a guide to this repo
+*    This Document is a guide to this repo 
 *    https://github.com/noahseis/webrtc2sip.git
 *    
 *    Built from source from doubango telecom for MyCallCloud.com and provided here at github for open source downloads.
