@@ -417,7 +417,7 @@ $phonepass=$_GET['password'];
                     impu: txtPublicIdentity.value,
                     password: txtPassword.value,
                     display_name: txtDisplayName.value,
-                    websocket_proxy_url: ("ws://<?php echo "$ExternalServerDNS";?>:10060"),
+                    websocket_proxy_url: ("ws://<?php echo "$ExternalServerDNS";?>:10062"),
                     outbound_proxy_url: ("udp://<?php echo "$serveraddress";?>:5060"),
                     ice_servers: (window.localStorage ? window.localStorage.getItem('org.doubango.expert.ice_servers') : null),
                     enable_rtcweb_breaker: ("true"),
