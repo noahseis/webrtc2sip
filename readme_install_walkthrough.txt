@@ -1,5 +1,5 @@
 Updated Jan 2016 - Since the changes to Webrtc on Chrome and Firefox You must acquire a CA signed SSL cert
-
+Updated instructions have been added below
 ***********************************************************************************************************************************
 *    This Document is a guide to this repo 
 *    https://github.com/noahseis/webrtc2sip.git - UPDATE ME
