@@ -1,4 +1,4 @@
-DUE TO THE SSL CHANGES IN FIREFOX AND CHROME THIS BUILD IS NO LONGER VALID
+Updated Jan 2016 - Since the changes to Webrtc on Chrome and Firefox You must acquire a CA signed SSL cert
 
 ***********************************************************************************************************************************
 *    This Document is a guide to this repo 
@@ -8,7 +8,7 @@ DUE TO THE SSL CHANGES IN FIREFOX AND CHROME THIS BUILD IS NO LONGER VALID
 *    Please READ through it's a bit of long install process, but take your time, follow the steps and guidance and you will succeed. 
 *    Credits for help and assistance go to navaismo
 *
-*	And these 2 web resources: UPDATE ME
+*	And these 2 web resources: 
 *	https://code.google.com/p/doubango/wiki/Building_Source_v2_0
 *	http://geekforum.wordpress.com/2013/06/06/build-and-install-doubango-webrtc2sip/
 *
@@ -19,6 +19,8 @@ DUE TO THE SSL CHANGES IN FIREFOX AND CHROME THIS BUILD IS NO LONGER VALID
 *    3. js assets and sounds folder to support the html/javsscript web phone
 *
 *    Hi All Vici / WebRTC hopefuls - Installed tested and working webrtc2sip with no asterisk patching
+* 
+*    Jan 2016 update - CA signed SSL cert can be used for config.xml and apache web server. 
 ***********************************************************************************************************************************
 
 ***********************************************************************************************************************************
@@ -158,10 +160,11 @@ edit (nano vi your flav) config.xml - the edit is below
 <max-fds>-1</max-fds>
 
 <nameserver>8.8.8.8</nameserver>
-
+<!-- UPDATE Jan 2016 - You need to have a CA signed SSL cert - Self signed will NOT work   --> 
 <ssl-certificates>
-/home/cg/mycert/private/key.csr.server1.pem;
-/home/cg/myca/certs/crt.server1.pem;
+ /etc/apache2/ssl.crt/o.yourname.com.key;
+ /etc/apache2/ssl.crt/yourname.crt;
+ /etc/apache2/ssl.crt/yourname.ca-bundle;
 *;
 no
 </ssl-certificates>
@@ -175,6 +178,23 @@ no
 <!--account-sip-caller>*;sip:a@example.com;a;example.com;mysecret</account-sip-caller-->
 
 </config>
+
+6a. 
+Update Jan 2016---------------------------------------------------------------------------------------------------------
+Copy your ssl cert key and bundle to directory for simplicity /etc/apache2/ssl.crt
+
+Add your signed certs to Apache SSL
+edit (with your favorite editor) /etc/apache2/default-vhost-ssl.conf
+Find the appropriate areas for the file entries and copy in yours
+SSLCertificateFile /etc/apache2/ssl.crt/yourname.crt
+SSLCertificateKeyFile /etc/apache2/ssl.crt/yourname.key
+SSLCACertificateFile /etc/apache2/ssl.crt/yourname.ca-bundle
+
+You need to restart apache
+# service apache2 restart
+
+IF you get an error, it's likely your path to your ssl files are not correct. 
+End of Update Jan 2016--------------------------------------------------------------------------------------------------
 
 7. To run the gateway 
 (Change the config.xml to INFO vs Error for more verbose debug)
