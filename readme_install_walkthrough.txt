@@ -11,7 +11,7 @@ Updated instructions have been added below
 *	And these 2 web resources: 
 *	https://code.google.com/p/doubango/wiki/Building_Source_v2_0
 *	http://geekforum.wordpress.com/2013/06/06/build-and-install-doubango-webrtc2sip/
-*
+*	http://marcelog.github.io/articles/installing_webrtc2sip_in_amazon_linux_in_aws.html
 *    Dev contact: noah@mycallcloud.com 720-620-4014
 *    
 *    1. Installation steps for webrtc2sip gateway to asterisk
@@ -20,7 +20,7 @@ Updated instructions have been added below
 *
 *    Hi All Vici / WebRTC hopefuls - Installed tested and working webrtc2sip with no asterisk patching
 * 
-*    Jan 2016 update - CA signed SSL cert can be used for config.xml and apache web server. 
+*    Jan 2016 update - CA signed SSL cert must be used for config.xml and apache web server. 
 ***********************************************************************************************************************************
 
 ***********************************************************************************************************************************
@@ -29,7 +29,7 @@ ViciBox Redux v.5.0.2-130821 (zypper up && zypper refresh to grab the latest and
 1.8.29.0-vici asterisk
 (Standard Install)
 Install and testing was done to an external ip vicibox with 1 to 1 natting and appropriate iptables firewalling 
-Tested with latest version of chrome on WinXP
+Tested with latest version of chrome on Win7, WinXP
 Tested with a Chromebook (fantastic)
 Tested with latest version of Firefox on WinXP
 ***********************************************************************************************************************************
@@ -55,7 +55,8 @@ With the advent of DTLS and SRTP (Forced in the new versions of Chrome and Firef
 The settings for the webphone are instructions to let the gateway know where to hand off the SDP. 
 Again the gateway doesn't need to be installed with any codecs if you are using ulaw, just ssl and srtp
 
-******************************************************************************Ok Enough let's get to the install part******************************
+******************************************************************************
+k Enough let's get to the install part
 Instructions to setup gateway:
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 Below is a simple set of instructions to get you started:
@@ -75,7 +76,6 @@ Follow the instructions below:
 3. Add using yast and add the tools that are needed 
 (Make sure all these are added) Use phrase search software manager in yast to find these packages to install. 
 
- 
 libtool 
 cvs 
 libogg-devel 
@@ -89,13 +89,15 @@ libsrtp (git clone https://github.com/noahseis/libsrtp.git)
 # git checkout v1.5.2
 # FLAGS="-fPIC" ./configure --enable-pic && make shared_library && make install
 
-
+CAN'T USE SELF SIGNED CERTS ANYMORE -------------- Jan 2016---------------
+YOU need to find a valid SSL cert provider and buy one
 4. You have to build a self signed cert for the secure handshake (realm is asterisk)
-Visit these links and build your cert key ans Self Signed Cert
- http://codeghar.wordpress.com/2013/04/16/create-private-certificate-authority-on-linux/ 
- http://codeghar.wordpress.com/2013/04/16/generate-certificate-signing-request-on-linux/  
- http://codeghar.wordpress.com/2013/04/16/use-private-certificate-authority-to-sign-certificate-signing-request-on-linux/
-
+		NO SELF SIGNED CERTS ALLOWED 
+		Visit these links and build your cert key ans Self Signed Cert
+		 http://codeghar.wordpress.com/2013/04/16/create-private-certificate-authority-on-linux/ 
+		 http://codeghar.wordpress.com/2013/04/16/generate-certificate-signing-request-on-linux/  
+		 http://codeghar.wordpress.com/2013/04/16/use-private-certificate-authority-to-sign-certificate-signing-request-on-linux/
+		
 		Some of these steps are in the tutorials links above
 		mkdir -p /home/cg/myca && cd /home/cg/myca && mkdir private certs newcerts conf export csr
 		mkdir -p /home/cg/mycert && cd /home/cg/mycert && mkdir private conf csr
@@ -103,6 +105,8 @@ Visit these links and build your cert key ans Self Signed Cert
 		copy in certs and self signed 
 		cd /home/cg/mycert/private copy in key.csr.server1.pem
 		cd /home/cg/myca/certs copy in crt.ca.cg.pem and crt.server1.pem
+		NO SELF SIGNED CERTS ALLOWED 
+CAN'T USE SELF SIGNED CERTS ANYMORE -------------- Jan 2016---------------		
 
 5. 
 This is where you can add other flags to build doubango with different codecs for voice and video. Also with -with flag can be changed to provide source to packages like openssl (already installed with vici isos) You need source files uncomplied from what I’ve gathered. 
@@ -116,7 +120,6 @@ This is where you can add other flags to build doubango with different codecs fo
 SSL:                 yes
 DTLS-SRTP:           yes
 DTLS:                yes
-
 
 # make && make install
 (IF YOU GET ERRORS DON'T CONTINUE, figure it out before moving on past this point)
@@ -184,45 +187,26 @@ no
 </config>
 
 6a. 
-Update Jan 2016---------------------------------------------------------------------------------------------------------
+Update July 2016---------------------------------------------------------------------------------------------------------
 Copy your ssl cert key and bundle to directory for simplicity /etc/apache2/ssl.crt
 
 Add your signed certs to Apache SSL
-edit (with your favorite editor) /etc/apache2/default-vhost-ssl.conf
+edit (with your favorite editor) /etc/apache2/vhosts.d/default-vhost-ssl.conf
 Find the appropriate areas for the file entries and copy in yours
 SSLCertificateFile /etc/apache2/ssl.crt/yourname.crt
-SSLCertificateKeyFile /etc/apache2/ssl.crt/yourname.key
+SSLCertificateKeyFile /usr/src/server.key
 SSLCACertificateFile /etc/apache2/ssl.crt/yourname.ca-bundle
 
 You need to restart apache
 # service apache2 restart
 
 IF you get an error, it's likely your path to your ssl files are not correct. 
-End of Update Jan 2016--------------------------------------------------------------------------------------------------
+End of Update July 2016--------------------------------------------------------------------------------------------------
 
 7. To run the gateway 
 (Change the config.xml to INFO vs Error for more verbose debug)
 # PATH=$PATH:/opt/webrtc2sip/sbin
 # webrtc2sip --config=/opt/webrtc2sip/sbin/config.xml
-
-*******************************Not even needed!!*****************************************
-		8. Change Sip.conf
-		sip.conf changes:
-		realm=asterisk ; Realm for digest authentication
-		bindaddr=0.0.0.0 ; IP address to bind to (0.0.0.0 binds to all)
-		
-		Conf extensions custom for the phone through the web admin interface for vici
-		type=friend
-		secret=*****
-		context=default
-		host=dynamic
-		disallow=all
-		allow=all
-		videosupport=no
-		qualify=yes (or no either worked fine I suspect yes will keep ports open on firewalls if you have short timers)
-		callerid="wrtc" <777>
-		nat=no
-*******************************END Not even needed!!*****************************************
 
 9. SipMl5 Settings Test this before installing the Web phone in Vici.
 Login to sipml5.org/call.htm with setting guidance below:
@@ -314,7 +298,6 @@ $servers = array("YOUR External DNS Address","YOUR External DNS Address");
 Make the edit toward the top of the file for webrtc.php
 $ExternalServerDNS='Your External DNS Server';
 
-
 # mkdir /srv/www/htdocs/agc/sounds && mkdir /srv/www/htdocs/agc/assets
 
 Copy for javascript library support and sound support for the webphone found in the repo under
@@ -322,9 +305,6 @@ Copy for javascript library support and sound support for the webphone found in 
 # cp /usr/src/webrtc2sip/sounds/* /srv/www/htdocs/agc/sounds
 # cp -r /usr/src/webrtc2sip/agc/* /srv/www/htdocs/agc/
 
-
-
-NOT NEEDED - Make the change to the extension for web phone in the custom conf for each extension
 Set the url to use the web phone in system settings
 
 Good luck
