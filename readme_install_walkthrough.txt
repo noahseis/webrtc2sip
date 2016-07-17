@@ -68,8 +68,9 @@ Follow the instructions below:
 1. 
 # cd /usr/src 
 
-2. Get the repo
+2. Get the repo(s)
 # git clone https://github.com/noahseis/webrtc2sip.git
+# git clone https://github.com/noahseis/libsrtp.git
 
 3. Add using yast and add the tools that are needed 
 (Make sure all these are added) Use phrase search software manager in yast to find these packages to install. 
@@ -82,8 +83,11 @@ gcc-c++
 libxml2-devel 
 libopenssl-devel
 libsrtp-devel
-libsrtp2 (Need to get this external to repo)
+libsrtp (git clone https://github.com/noahseis/libsrtp.git)
 
+# cd libsrtp
+# git checkout v1.5.2
+# FLAGS="-fPIC" ./configure --enable-pic && make shared_library && make install
 
 
 4. You have to build a self signed cert for the secure handshake (realm is asterisk)
